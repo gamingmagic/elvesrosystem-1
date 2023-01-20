@@ -1,7 +1,41 @@
 dofile("System/itemInfo_re.lua") 
 
 tbl_custom = {
-
+	[756] = {
+		unidentifiedDisplayName = "Rough Oridecon",
+		unidentifiedResourceName = "오리데오콘원석",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Rough Oridecon",
+		identifiedResourceName = "오리데오콘원석",
+		identifiedDescriptionName = {
+			"Raw ore that mostly consists of Oridecon metal.",
+			"_______________________",
+			"^0000CCType:^000000 Forging material",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 2371
+		
+	},
+	[757] = {
+		unidentifiedDisplayName = "Rough Elunium",
+		unidentifiedResourceName = "에르늄원석",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Rough Elunium",
+		identifiedResourceName = "에르늄원석",
+		identifiedDescriptionName = {
+			"Raw ore that mostly consists of Elunium metal.",
+			"_______________________",
+			"^0000CCType:^000000 Forging material",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 2371
+	},
 	[2101] = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",

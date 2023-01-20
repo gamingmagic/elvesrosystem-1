@@ -80077,6 +80077,36 @@ tbl_custom = {
 		ClassNum = 3252,
 		costume = true
 	},
+	[2168] = {
+		unidentifiedDisplayName = "Unidentified Shield",
+		unidentifiedResourceName = "∞°µÂ",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Immune Shield",
+		identifiedResourceName = "¿Ãπ√µÂΩØµÂ",
+		identifiedDescriptionName = {
+			"Very unique, square formed shield with a special jewel on it which protects from physical power.",
+			"_______________________",
+			"^0000FFFor each Refine Level^000000 equal or above ^0000FF+5^000000:",
+			"Decreases damage taken from ^777777Neutral^000000 elemental attacks by 1%.",
+			"(The increase is limited to Refine Level 10)",
+			"_______________________",
+			"^0000FFRefine Level +7^000000:",
+			"Decreases damage taken from ^777777Neutral^000000 elemental attacks by 5%.",
+			"_______________________",
+			"^0000FFRefine Level +9^000000:",
+			"Decreases damage taken from ^FF0000Fire^000000, ^CC5500Earth^000000, ^009900Water^000000 and ^33CC00Wind^000000 elemental attacks by 5%.",
+			"_______________________",
+			"^0000CCType:^000000 Shield",
+			"^0000CCDefense:^000000 3",
+			"^0000CCWeight:^000000 70",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 1,
+		ClassNum = 4,
+		costume = false
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

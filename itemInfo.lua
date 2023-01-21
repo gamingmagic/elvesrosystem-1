@@ -79103,12 +79103,26 @@ tbl_custom = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "Hokage",
+		identifiedDisplayName = "Kaho Hokage",
 		identifiedResourceName = "hokage",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3462
 	},
 	[70050] = {
@@ -79121,8 +79135,22 @@ tbl_custom = {
 		identifiedResourceName = "Blue_Hokage_Hat",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3584
 	},
 	[70051] = {
@@ -79135,8 +79163,22 @@ tbl_custom = {
 		identifiedResourceName = "Yellow_Hokage_Hat",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3585
 	},
 	[70052] = {
@@ -79149,8 +79191,22 @@ tbl_custom = {
 		identifiedResourceName = "Green_Hokage_Hat",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3586
 	},
 	[70053] = {
@@ -79163,8 +79219,22 @@ tbl_custom = {
 		identifiedResourceName = "White_Hokage_Hat",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3587
 	},
 	[70054] = {
@@ -79177,8 +79247,22 @@ tbl_custom = {
 		identifiedResourceName = "headprotector_earth",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3821
 	},
 	[20587] = {
@@ -79304,12 +79388,26 @@ tbl_custom = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "C Love Bunny Band",
+		identifiedDisplayName = "Kaho Love Bunny Band",
 		identifiedResourceName = "love_bunny_band",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3005
 	},
 	[70063] = {
@@ -79318,12 +79416,26 @@ tbl_custom = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "C Love Mini Angel Wing Clip",
+		identifiedDisplayName = "Kaho Love Mini Angel Wing Clip",
 		identifiedResourceName = "Love_Mini_Angel_Wing_Clip",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3005
 	},
 	[70064] = {
@@ -79332,12 +79444,26 @@ tbl_custom = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "C Bomb Poring Hat",
+		identifiedDisplayName = "Kaho Bomb Poring Hat",
 		identifiedResourceName = "bomb_poring_hat",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3015
 	},
 	[70065] = {
@@ -79346,12 +79472,26 @@ tbl_custom = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "C Valkyrie Helmt",
+		identifiedDisplayName = "Kaho Valkyrie Helmt",
 		identifiedResourceName = "VALKYRIEHELM",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3015
 	},
 	[70066] = {
@@ -79360,12 +79500,26 @@ tbl_custom = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "C Pregrammer Mask",
+		identifiedDisplayName = "Kaho Pregrammer Mask",
 		identifiedResourceName = "zombiemask",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3225
 	},
 	[70067] = {
@@ -79374,12 +79528,26 @@ tbl_custom = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "C Demon Mask",
+		identifiedDisplayName = "Kaho Demon Mask",
 		identifiedResourceName = "demonmask",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3435
 	},
 	[70068] = {
@@ -79388,12 +79556,26 @@ tbl_custom = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "C Mario Cap",
+		identifiedDisplayName = "Kaho Mario Cap",
 		identifiedResourceName = "animated_mario_cap",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3466
 	},
 	[70069] = {
@@ -79402,12 +79584,26 @@ tbl_custom = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "C Luigi Cap",
+		identifiedDisplayName = "Kaho Luigi Cap",
 		identifiedResourceName = "animated_luigi_cap",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3657
 	},
 	[70070] = {
@@ -79416,12 +79612,26 @@ tbl_custom = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "C Pikachu Hood",
+		identifiedDisplayName = "Kaho Pikachu Hood",
 		identifiedResourceName = "pikachu_hood",
 		identifiedDescriptionName = {
 			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3386
 	},
 	[70071] = {
@@ -79444,7 +79654,7 @@ tbl_custom = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "Super Saiyan 3",
+		identifiedDisplayName = "Kaho Super Saiyan 3",
 		identifiedResourceName = "saiyan3",
 		identifiedDescriptionName = {
 			"_______________________",

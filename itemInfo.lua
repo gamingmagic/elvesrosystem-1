@@ -25669,7 +25669,7 @@ tbl_custom = {
 			"Level Requirement:^009900 10^000000",
 			"Jobs:^6666CC All^000000"
 		},
-		slotCount = 1,
+		slotCount = 0,
 		ClassNum = 345,
 		costume = false
 	},

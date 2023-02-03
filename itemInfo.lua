@@ -4041,7 +4041,7 @@ tbl_custom = {
 			"Defense:^0000FF 6^000000",
 			"Weight:^009900 30^000000",
 			"Level Requirement:^009900 60^000000",
-			"Jobs:^6666CC Transcendent Archer, Mage, Acolyte^000000"
+			"Jobs:^6666CC Transcendent Class^000000"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -4063,7 +4063,7 @@ tbl_custom = {
 			"Class:^6666CC Armor^000000",
 			"Defense:^0000FF 7^000000",
 			"Weight:^009900 60^000000",
-			"Jobs:^6666CC Transcendent Swordman, Merchant, Thief^000000"
+			"Jobs:^6666CC Transcendent Class^000000"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -12591,7 +12591,6 @@ tbl_custom = {
 		identifiedDescriptionName = {
 			"Additional 40% Damage on Angel Monster",
 			"Additional 40% Damage on Holy Property Monster",
-			"Adds a 1% chance to Power Up while performing a Physical attack.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
 			"Weight:^009900 1^000000"
@@ -18343,7 +18342,7 @@ tbl_custom = {
 		identifiedDisplayName = "Kiel-D-01 Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Reduces after cast delay of all skills by 10%.",
+			"Reduces after cast delay of all skills by 13%.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6600FF Headgear^000000",
 			"Weight:^009900 1^000000"
@@ -30712,8 +30711,9 @@ tbl_custom = {
 		identifiedResourceName = "입에무는연필",
 		identifiedDescriptionName = {
 			"A popular snack while taking tests. It makes one look more studious but, it's days may be numbered if it stays in somebody's mouth any longer.",
-			"Hit +3",
-			"When equipped with 'Model Training Hat', Dex +2, DEF +2.",
+			"Hit +10",
+			"Ranged Attack Damage + 3%.",
+			"Dex +10",
 			"Class:^6666CC Headgear^000000",
 			"Defense:^0000FF 0^000000",
 			"Position:^6666CC Lower^000000",
@@ -72113,6 +72113,12 @@ tbl_custom = {
 		identifiedResourceName = "쿠폰-노멀",
 		identifiedDescriptionName = {
 			"This ticket will provide you VIP Privilege for 7-days. Review your priviledge once you log in the system.",
+			"@storage",
+			"@autostore",
+			"@size",
+			"@colornick",
+			"@allskill",
+			
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -72126,6 +72132,11 @@ tbl_custom = {
 		identifiedResourceName = "쿠폰-노멀",
 		identifiedDescriptionName = {
 			"This ticket will provide you VIP Privilege for 30-days. Review your priviledge once you log in the system.",
+			"@storage",
+			"@autostore",
+			"@size",
+			"@colornick",
+			"@allskill",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -72139,6 +72150,11 @@ tbl_custom = {
 		identifiedResourceName = "쿠폰-노멀",
 		identifiedDescriptionName = {
 			"This ticket will provide you VIP Privilege for 1-days. Review your priviledge once you log in the system.",
+			"@storage",
+			"@autostore",
+			"@size",
+			"@colornick",
+			"@allskill",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -77040,7 +77056,7 @@ tbl_custom = {
 		ClassNum = 1739,
 		costume = true
 	},
-		[5892] = {
+	[5892] = {
 		unidentifiedDisplayName = "Ribbon",
 		unidentifiedResourceName = "타레요정의귀",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
@@ -77049,12 +77065,18 @@ tbl_custom = {
 		identifiedDescriptionName = {
 			"Allstats +10",
 			"Gain immunity to the Silence status.",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 5",
 			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 500",
-			"^0000CCRefinable:^000000 Yes",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000 None"
 		},
@@ -77062,7 +77084,7 @@ tbl_custom = {
 		ClassNum = 875,
 		costume = false
 	},
-		[26020] = {
+	[26020] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
@@ -77071,6 +77093,21 @@ tbl_custom = {
 		identifiedDescriptionName = {
 			"Twisted horns that were supposedly crafted to look like those of a race of demons that died out long ago.",
 			"Apparently placing them on your head can grant you a small amount of their power."
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 4,
 		ClassNum = 1127,
@@ -80465,6 +80502,154 @@ tbl_custom = {
 		},
 		slotCount = 0,
 		ClassNum = 1032,
+		costume = false
+	},
+	[18570] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Ancient Gold Ornament",
+		identifiedResourceName = "고대의금장식",
+		identifiedDescriptionName = {
+			"A beautiful golden ornament created with ancient magic. It changes its power depending on the owner's class.",
+			"_______________________",
+			"DEX +20",
+			"Increases Ranged Physical Damage by 20%.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 7",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 40",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000",
+		},
+		slotCount = 1,
+		ClassNum = 739,
+		costume = false
+	},
+	[70103] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Fruit of Love Kaho's Horn",
+		identifiedResourceName = "사랑의열매",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Fruit of Love Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 140,
+		costume = false
+	},
+	[70104] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Elephant Hat Kaho's Horn",
+		identifiedResourceName = "코끼리모자",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Elephant Hat Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 215,
+		costume = false
+	},
+	[2149] = {
+		unidentifiedDisplayName = "Unidentified Shield",
+		unidentifiedResourceName = "가드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Upgrade Guard",
+		identifiedResourceName = "강화가드",
+		identifiedDescriptionName = {
+			"A Guard molded out of Elunium and pure gold mixture.",
+			"_______________________",
+			"MaxHP +3%",
+			"_______________________",
+			"^0000CCType:^000000 Shield",
+			"^0000CCDefense:^000000 3",
+			"^0000CCWeight:^000000 15",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 1,
+		ClassNum = 1,
+		costume = false
+	},
+	[2150] = {
+		unidentifiedDisplayName = "Unidentified Shield",
+		unidentifiedResourceName = "버클러",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Upgrade Buckler",
+		identifiedResourceName = "강화버클러",
+		identifiedDescriptionName = {
+			"A Buckler molded out of Elunium and pure gold mixture.",
+			"_______________________",
+			"MaxHP +3%",
+			"_______________________",
+			"^0000CCType:^000000 Shield",
+			"^0000CCDefense:^000000 5",
+			"^0000CCWeight:^000000 30",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000",
+			"Swordsman, Merchant, Acolyte, Thief, Bard and Dancer"
+		},
+		slotCount = 1,
+		ClassNum = 2,
+		costume = false
+	},
+	[2151] = {
+		unidentifiedDisplayName = "Unidentified Shield",
+		unidentifiedResourceName = "쉴드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Upgrade Shield",
+		identifiedResourceName = "강화쉴드",
+		identifiedDescriptionName = {
+			"A Shield molded out of Elunium and pure gold mixture.",
+			"_______________________",
+			"MaxHP +3%",
+			"_______________________",
+			"^0000CCType:^000000 Shield",
+			"^0000CCDefense:^000000 7",
+			"^0000CCWeight:^000000 65",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000",
+			"Swordman classes"
+		},
+		slotCount = 1,
+		ClassNum = 3,
 		costume = false
 	},
 }

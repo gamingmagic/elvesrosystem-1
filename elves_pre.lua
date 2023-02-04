@@ -79733,7 +79733,7 @@ tbl = {
 			"Increase 1% Damage Per Refine.",
 			"_______________________",
 			"^0000CCType:^000000 Dagger",
-			"^0000CCAttack:^000000 500",
+			"^0000CCAttack:^000000 200",
 			"^0000CCWeight:^000000 60",
 			"^0000CCWeapon Level:^000000 4",
 			"^0000CCCan be enchanted by:^000000",

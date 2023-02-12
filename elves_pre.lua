@@ -78916,7 +78916,7 @@ tbl = {
 			"ATK +3%",
 			"_______________________",
 			"^0000CCType:^000000 Card",
-			"^0000CCCompound on:^000000 Armor",
+			"^0000CCCompound on:^000000 Accessory",
 			"^0000CCWeight:^000000 1"
 		},
 		slotCount = 0,
@@ -80662,6 +80662,68 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 3,
+		costume = false
+	},
+	[875] = {
+		unidentifiedDisplayName = "Battle Pass",
+		unidentifiedResourceName = "현자의일기",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Battle Pass",
+		identifiedResourceName = "현자의일기",
+		identifiedDescriptionName = {
+			"A license that allows access to the Battle Pass [Elves Origins]",
+			"________________________",
+			"^ff0000Heads up! This item will last until the last day of the current month.^000000",
+			"________________________",
+			"Peso: ^777777300^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[876] = {
+		unidentifiedDisplayName = "Vigor of Battle",
+		unidentifiedResourceName = "battle_vigor",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Vigor of Battle",
+		identifiedResourceName = "battle_vigor",
+		identifiedDescriptionName = {
+			"Increases your Battle Pass progress by +1.000",
+			"________________________",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[877] = {
+		unidentifiedDisplayName = "Rare Vigor of Battle",
+		unidentifiedResourceName = "rare_battle_vigor",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Rare Vigor of Battle",
+		identifiedResourceName = "rare_battle_vigor",
+		identifiedDescriptionName = {
+			"Increases your Battle Pass progress by +10.000",
+			"________________________",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[878] = {
+		unidentifiedDisplayName = "Epic Vigor of Battle",
+		unidentifiedResourceName = "epic_battle_vigor",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Epic Vigor of Battle",
+		identifiedResourceName = "epic_battle_vigor",
+		identifiedDescriptionName = {
+			"Increases your Battle Pass progress by +15.000",
+			"________________________",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
 		costume = false
 	},
 }

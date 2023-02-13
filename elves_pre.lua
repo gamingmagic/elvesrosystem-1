@@ -77401,7 +77401,7 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +90%",
-			"Reduce physical and magical defense by 50%.",
+			"Reduce physical and magical defense by 20%.",
 			"^0000CCType:^000000 Card",
 			"^0000CCCompound on:^000000 Armor",
 			"^0000CCWeight:^000000 1"
@@ -78974,6 +78974,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"MaxHP +100%",
 			"_______________________",
+			"+20 Flee",
 			"Increases MHP 3% per Refine Level.",
 			"_______________________",
 			"^0000CCType:^000000 Card",

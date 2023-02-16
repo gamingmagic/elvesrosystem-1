@@ -12589,7 +12589,6 @@ tbl = {
 		identifiedDisplayName = "Drake Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Additional 40% Damage on Angel Monster",
 			"Additional 40% Damage on Holy Property Monster",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
@@ -79744,7 +79743,7 @@ tbl = {
 			"^0000CCWeight:^000000 60",
 			"^0000CCWeapon Level:^000000 4",
 			"^0000CCCan be enchanted by:^000000",
-			"<NAVI>Mayomayo<INFO>malangdo,213,167,0,100,0,0</INFO></NAVI>",
+			"<NAVI>Brokkr<INFO>prt_in,124,64,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 36",
@@ -80665,12 +80664,12 @@ tbl = {
 		ClassNum = 3,
 		costume = false
 	},
-	[875] = {
+	[70105] = {
 		unidentifiedDisplayName = "Battle Pass",
 		unidentifiedResourceName = "현자의일기",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Battle Pass",
-		identifiedResourceName = "현자의일기",
+		identifiedResourceName = "battlepass",
 		identifiedDescriptionName = {
 			"A license that allows access to the Battle Pass [Elves Origins]",
 			"________________________",
@@ -80682,7 +80681,7 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[876] = {
+	[70106] = {
 		unidentifiedDisplayName = "Vigor of Battle",
 		unidentifiedResourceName = "battle_vigor",
 		unidentifiedDescriptionName = { "" },
@@ -80691,13 +80690,15 @@ tbl = {
 		identifiedDescriptionName = {
 			"Increases your Battle Pass progress by +1.000",
 			"________________________",
+			"<NAVI>MVP Voucher Trader<INFO>prontera,163,154,0,100,0,0</INFO></NAVI>",
+			"________________________",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
-	[877] = {
+	[70107] = {
 		unidentifiedDisplayName = "Rare Vigor of Battle",
 		unidentifiedResourceName = "rare_battle_vigor",
 		unidentifiedDescriptionName = { "" },
@@ -80706,13 +80707,15 @@ tbl = {
 		identifiedDescriptionName = {
 			"Increases your Battle Pass progress by +10.000",
 			"________________________",
+			"<NAVI>MVP Voucher Trader<INFO>prontera,163,154,0,100,0,0</INFO></NAVI>",
+			"________________________",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
-	[878] = {
+	[70108] = {
 		unidentifiedDisplayName = "Epic Vigor of Battle",
 		unidentifiedResourceName = "epic_battle_vigor",
 		unidentifiedDescriptionName = { "" },
@@ -80720,6 +80723,8 @@ tbl = {
 		identifiedResourceName = "epic_battle_vigor",
 		identifiedDescriptionName = {
 			"Increases your Battle Pass progress by +15.000",
+			"________________________",
+			"<NAVI>MVP Voucher Trader<INFO>prontera,163,154,0,100,0,0</INFO></NAVI>",
 			"________________________",
 			"Peso: ^7777771^000000"
 		},

@@ -75480,7 +75480,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Phantom Step.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75496,7 +75498,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Phantom Step.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75512,7 +75516,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Phantom Step.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75528,7 +75534,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Phantom Step.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75544,7 +75552,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Phantom Step.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75560,7 +75570,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, FCP Debuffer.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75576,7 +75588,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, FCP Debuffer.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75592,7 +75606,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, FCP Debuffer.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75608,7 +75624,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, FCP Debuffer.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75624,7 +75642,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, FCP Debuffer.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75640,7 +75660,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Leap of Faith.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75656,7 +75678,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Leap of Faith.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75672,7 +75696,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Leap of Faith.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75688,7 +75714,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Leap of Faith.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75704,7 +75732,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Leap of Faith.",
-			" ",
+			"_______________________",
+			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
+			"_______________________",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -75891,15 +75921,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30276] = {
-		unidentifiedDisplayName = "Conjure Image 1",
+		unidentifiedDisplayName = "Hex 1",
 		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Conjure Image 1",
+		identifiedDisplayName = "Hex 1",
 		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Conjure Image.",
+			"It's written about the hidden skill, Hex.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
 			"_______________________",
@@ -75909,15 +75939,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30277] = {
-		unidentifiedDisplayName = "Conjure Image 2",
+		unidentifiedDisplayName = "Hex 2",
 		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Conjure Image 2",
+		identifiedDisplayName = "Hex 2",
 		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Conjure Image.",
+			"It's written about the hidden skill, Hex.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
 			"_______________________",
@@ -75927,15 +75957,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30278] = {
-		unidentifiedDisplayName = "Conjure Image 3",
+		unidentifiedDisplayName = "Hex 3",
 		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Conjure Image 3",
+		identifiedDisplayName = "Hex 3",
 		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Conjure Image.",
+			"It's written about the hidden skill, Hex.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
 			"_______________________",
@@ -75945,15 +75975,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30279] = {
-		unidentifiedDisplayName = "Conjure Image 4",
+		unidentifiedDisplayName = "Hex 4",
 		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Conjure Image 4",
+		identifiedDisplayName = "Hex 4",
 		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Conjure Image.",
+			"It's written about the hidden skill, Hex.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
 			"_______________________",
@@ -75963,15 +75993,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30280] = {
-		unidentifiedDisplayName = "Conjure Image 5",
+		unidentifiedDisplayName = "Hex 5",
 		unidentifiedResourceName = "¸¶¹ýÃ¥_Ç³",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Conjure Image 5",
+		identifiedDisplayName = "Hex 5",
 		identifiedResourceName = "¸¶¹ýÃ¥_Ç³",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Conjure Image.",
+			"It's written about the hidden skill, Hex.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
 			"_______________________",

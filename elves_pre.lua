@@ -75551,15 +75551,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30256] = {
-		unidentifiedDisplayName = "Spirit Lance 1",
+		unidentifiedDisplayName = "FCP Debuffer 1",
 		unidentifiedResourceName = "마법책_화",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Spirit Lance 1",
+		identifiedDisplayName = "FCP Debuffer 1",
 		identifiedResourceName = "마법책_화",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Spirit Lance.",
+			"It's written about the hidden skill, FCP Debuffer.",
 			" ",
 			"Weight : ^7777770^000000"
 		},
@@ -75567,15 +75567,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30257] = {
-		unidentifiedDisplayName = "Spirit Lance 2",
+		unidentifiedDisplayName = "FCP Debuffer 2",
 		unidentifiedResourceName = "마법책_화",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Spirit Lance 2",
+		identifiedDisplayName = "FCP Debuffer 2",
 		identifiedResourceName = "마법책_화",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Spirit Lance.",
+			"It's written about the hidden skill, FCP Debuffer.",
 			" ",
 			"Weight : ^7777770^000000"
 		},
@@ -75583,15 +75583,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30258] = {
-		unidentifiedDisplayName = "Spirit Lance 3",
+		unidentifiedDisplayName = "FCP Debuffer 3",
 		unidentifiedResourceName = "마법책_화",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Spirit Lance 3",
+		identifiedDisplayName = "FCP Debuffer 3",
 		identifiedResourceName = "마법책_화",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Spirit Lance.",
+			"It's written about the hidden skill, FCP Debuffer.",
 			" ",
 			"Weight : ^7777770^000000"
 		},
@@ -75599,15 +75599,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30259] = {
-		unidentifiedDisplayName = "Spirit Lance 4",
+		unidentifiedDisplayName = "FCP Debuffer 4",
 		unidentifiedResourceName = "마법책_화",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Spirit Lance 4",
+		identifiedDisplayName = "FCP Debuffer 4",
 		identifiedResourceName = "마법책_화",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Spirit Lance.",
+			"It's written about the hidden skill, FCP Debuffer.",
 			" ",
 			"Weight : ^7777770^000000"
 		},
@@ -75615,15 +75615,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30260] = {
-		unidentifiedDisplayName = "Spirit Lance 5",
+		unidentifiedDisplayName = "FCP Debuffer 5",
 		unidentifiedResourceName = "마법책_화",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Spirit Lance 5",
+		identifiedDisplayName = "FCP Debuffer 5",
 		identifiedResourceName = "마법책_화",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Spirit Lance.",
+			"It's written about the hidden skill, FCP Debuffer.",
 			" ",
 			"Weight : ^7777770^000000"
 		},

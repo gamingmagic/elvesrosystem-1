@@ -80769,7 +80769,7 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 13,
-		
+	},	
 }
 
 -- Now for a helper function because i hate repetitions 

@@ -30144,7 +30144,8 @@ tbl = {
 		identifiedResourceName = "진홍의장미",
 		identifiedDescriptionName = {
 			"A crimson colored rose. Be sure to check for thorns before putting this in your mouth.",
-			"Luk +1",
+			"1% +Atk",
+			"MaxSP + 30",
 			"When killing a monster there is a chance of a Whitherless Rose dropping.",
 			"Class:^6666CC Headgear^000000",
 			"Defense:^0000FF 0^000000",

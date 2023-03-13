@@ -54438,7 +54438,7 @@ tbl = {
 			"the bark that can summon stronger creatures than",
 			"regular Dead Branches.",
 			"^FFFFFF_^000000",
-			"Weight:^009900 20^000000"
+			"Weight:^009900 0^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,

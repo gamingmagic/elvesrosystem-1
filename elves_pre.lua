@@ -87940,6 +87940,275 @@ tbl = {
 		ClassNum = 2261,
 		costume = true
 	},
+	[420158] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Yesterday_Once_More",
+		identifiedResourceName = "C_Yesterday_Once_More",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2264,
+		costume = true
+	},
+	[420162] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Starry_Ribbon_Twin",
+		identifiedResourceName = "C_Starry_Ribbon_Twin",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2270,
+		costume = true
+	},
+	[420163] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Starry_Ribbon_Twin",
+		identifiedResourceName = "C_Starry_Ribbon_Twin",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2270,
+		costume = true
+	},
+	[420163] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Protect_Cloth_B",
+		identifiedResourceName = "C_Protect_Cloth_B",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2272,
+		costume = true
+	},
+	[420164] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Sleep_RedSheep",
+		identifiedResourceName = "Sleep_RedSheep",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2277,
+		costume = true
+	},
+	[420170] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Silky_Long_BL",
+		identifiedResourceName = "C_Silky_Long_BL",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2295,
+		costume = true
+	},
+	[420172] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Braid_Ring",
+		identifiedResourceName = "C_Braid_Ring",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2300,
+		costume = true
+	},
+	[420182] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Book_of_Sorcery",
+		identifiedResourceName = "C_Book_of_Sorcery",
+		identifiedDescriptionName = {
+
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2327,
+		costume = true
+	},
+	[420186] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "20th_Anniversary_TW",
+		identifiedResourceName = "20th_Anniversary_TW",
+		identifiedDescriptionName = {
+
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2005,
+		costume = true
+	},
+	[420187] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Sacred_Lapel",
+		identifiedResourceName = "Sacred_Lapel",
+		identifiedDescriptionName = {
+
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2337,
+		costume = true
+	},
+	[420191] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Snow_Rabbit_Wig",
+		identifiedResourceName = "C_Snow_Rabbit_Wig",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2333,
+		costume = true
+	},
+	[420192] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Friendly_White_Fox",
+		identifiedResourceName = "C_Friendly_White_Fox",
+		identifiedDescriptionName = {
+
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2335,
+		costume = true
+	},
+	[420197] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Twinkle_Wave",
+		identifiedResourceName = "C_Twinkle_Wave",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2346,
+		costume = true
+	},
+	[420198] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "府夯",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Sanctus",
+		identifiedResourceName = "C_Sanctus",
+		identifiedDescriptionName = {
+
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2351,
+		costume = true
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

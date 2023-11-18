@@ -1364,16 +1364,15 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Novice Shield",
+		identifiedDisplayName = "Newbie Shield",
 		identifiedResourceName = "초보자용쉴드",
 		identifiedDescriptionName = {
-			"A cute shield made out of a special metal for the Novice class.",
-			"Reduce all element damage by 20%, with the exception of ^777777Neutral^000000 element damage.",
+			"A cute shield made out of a special metal for the Newbie.",
+			"Reduce all element damage by 10%, with the exception of ^777777Neutral^000000 element damage.",
 			"Class:^6666CC Shield^000000",
 			"Defense:^0000FF 3^000000",
 			"Weight:^009900 100^000000",
 			"Level Requirement:^009900 40^000000",
-			"Jobs:^6666CC Novice^000000"
 		},
 		slotCount = 1,
 		ClassNum = 3,
@@ -5457,6 +5456,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A light, comfortable suit made just for young adventurers.",
 			"^FF0000Unrefineable^000000",
+			"Max HP +100%",
 			"Class:^6666CC Armor^000000",
 			"Defense:^0000FF 8^000000",
 			"Weight:^009900 0^000000",
@@ -20518,6 +20518,90 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 99,
+		costume = false
+	},
+	[5892] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Elves 2023 1ST CROWN",
+		identifiedResourceName = "RCC2013챔피온투구",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 1106,
+		costume = false
+	},
+	[5893] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Elves 2023 2nd CROWN",
+		identifiedResourceName = "RCC2013준우승투구",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 1107,
+		costume = false
+	},
+	[5894] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Elves 2023 3rd CROWN",
+		identifiedResourceName = "RCC20133등상투구",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 1108,
 		costume = false
 	},
 	[5014] = {
@@ -38760,10 +38844,10 @@ tbl = {
 	},
 	[6191] = {
 		unidentifiedDisplayName = "Spell Book(Lightning Bolt)",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = { "..." },
 		identifiedDisplayName = "Spell Book(Lightning Bolt)",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"An essential magic book for the Warlock Skill [Reading Spell Book]",
 			"Magic Power can be drawn out by reading the words written in this book.",
@@ -74130,11 +74214,11 @@ tbl = {
 		ClassNum = 492
 	},
 	[50096] = {
-		unidentifiedDisplayName = "Costume: Crown of Deceit",
+		unidentifiedDisplayName = "Costume Crown of Deceit",
 		unidentifiedResourceName = "사기의왕관",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Costume: Crown of Deceit",
+		identifiedDisplayName = "Costume Crown of Deceit",
 		identifiedResourceName = "사기의왕관",
 		identifiedDescriptionName = {
 			"A deceptive crown that was once used to summon monsters.",
@@ -75178,12 +75262,12 @@ tbl = {
 		ClassNum = 4
 	},
 	[50144] = {
-		unidentifiedDisplayName = "Costume: Pikachu Balloon",
+		unidentifiedDisplayName = "Costume Pikachu Balloon",
 		unidentifiedResourceName = "Pikachu_Balloon",
 		unidentifiedDescriptionName = {
 			"Costume: Pikachu Balloon",
 		},
-		identifiedDisplayName = "Costume: Pikachu Balloon",
+		identifiedDisplayName = "Costume Pikachu Balloon",
 		identifiedResourceName = "Pikachu_Balloon",
 		identifiedDescriptionName = {
 			"A pikachu balloon!",
@@ -76179,7 +76263,7 @@ tbl = {
 		unidentifiedResourceName = "금화",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Battleground Token",
-		identifiedResourceName = "금화",
+		identifiedResourceName = "dalcom_coin",
 		identifiedDescriptionName = {
 			"_______________________",
 			"^0000CCWeight:^000000 0"
@@ -76235,7 +76319,7 @@ tbl = {
 		unidentifiedResourceName = "금화",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Instance Token",
-		identifiedResourceName = "금화",
+		identifiedResourceName = "midgard_coin",
 		identifiedDescriptionName = {
 			"_______________________",
 			"^0000CCWeight:^000000 0"
@@ -76350,7 +76434,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Berry Ticket",
-		identifiedResourceName = "쿠폰",
+		identifiedResourceName = "clover_ticket",
 		identifiedDescriptionName = {
 			"Exchange it for a good amount of Yggrdrasil Berry",
 		},
@@ -76362,7 +76446,7 @@ tbl = {
 		unidentifiedResourceName = "금화",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Event Token",
-		identifiedResourceName = "금화",
+		identifiedResourceName = "up_coin",
 		identifiedDescriptionName = {
 			"<NAVI>[Your Reputation]<INFO>prontera,155,188,0,100,0,0</INFO></NAVI> Can be farm.",
 			"_______________________",
@@ -76379,7 +76463,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Vote Token",
-		identifiedResourceName = "금화",
+		identifiedResourceName = "token_of_bigstone",
 		identifiedDescriptionName = {
 			"^ff0000Bound when obtained^000000",
 			"Obtained from Voting ElvesRO.",
@@ -76394,7 +76478,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "PvP Token",
-		identifiedResourceName = "금화",
+		identifiedResourceName = "token_of_orcgeneral",
 		identifiedDescriptionName = {
 			"^ff0000Bound when obtained^000000",
 			"Obtained from WoE & FFA.",
@@ -76410,7 +76494,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Race Token",
-		identifiedResourceName = "금화",
+		identifiedResourceName = "kitcoin",
 		identifiedDescriptionName = {
 			"^ff0000Bound when obtained^000000",
 			"Obtained from Race Event.",
@@ -76438,7 +76522,7 @@ tbl = {
 		unidentifiedResourceName = "금화",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Guild Token",
-		identifiedResourceName = "금화",
+		identifiedResourceName = "rtc_coin_tw",
 		identifiedDescriptionName = {
 
 			"_______________________",
@@ -76899,11 +76983,11 @@ tbl = {
 	},
 	[30276] = {
 		unidentifiedDisplayName = "Hex 1",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Hex 1",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Hex.",
@@ -76917,11 +77001,11 @@ tbl = {
 	},
 	[30277] = {
 		unidentifiedDisplayName = "Hex 2",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Hex 2",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Hex.",
@@ -76935,11 +77019,11 @@ tbl = {
 	},
 	[30278] = {
 		unidentifiedDisplayName = "Hex 3",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Hex 3",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Hex.",
@@ -76953,11 +77037,11 @@ tbl = {
 	},
 	[30279] = {
 		unidentifiedDisplayName = "Hex 4",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Hex 4",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Hex.",
@@ -76971,11 +77055,11 @@ tbl = {
 	},
 	[30280] = {
 		unidentifiedDisplayName = "Hex 5",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Hex 5",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Hex.",
@@ -77169,11 +77253,11 @@ tbl = {
 	},
 	[30291] = {
 		unidentifiedDisplayName = "Open Celestial Gate 1",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 1",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -77187,11 +77271,11 @@ tbl = {
 	},
 	[30292] = {
 		unidentifiedDisplayName = "Open Celestial Gate 2",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 2",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -77205,11 +77289,11 @@ tbl = {
 	},
 	[30293] = {
 		unidentifiedDisplayName = "Open Celestial Gate 3",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 3",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -77225,11 +77309,11 @@ tbl = {
 	},
 	[30294] = {
 		unidentifiedDisplayName = "Open Celestial Gate 4",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 4",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -77243,11 +77327,11 @@ tbl = {
 	},
 	[30295] = {
 		unidentifiedDisplayName = "Open Celestial Gate 5",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 5",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -77261,11 +77345,11 @@ tbl = {
 	},
 	[30296] = {
 		unidentifiedDisplayName = "Shadowstep 1",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Shadowstep 1",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Shadowstep.",
@@ -77279,11 +77363,11 @@ tbl = {
 	},
 	[30297] = {
 		unidentifiedDisplayName = "Shadowstep 2",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Shadowstep 2",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Shadowstep.",
@@ -77297,11 +77381,11 @@ tbl = {
 	},
 	[30298] = {
 		unidentifiedDisplayName = "Shadowstep 3",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Shadowstep 3",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Shadowstep.",
@@ -77317,11 +77401,11 @@ tbl = {
 	},
 	[30299] = {
 		unidentifiedDisplayName = "Shadowstep 4",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Shadowstep 4",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Shadowstep.",
@@ -77335,11 +77419,11 @@ tbl = {
 	},
 	[30300] = {
 		unidentifiedDisplayName = "Shadowstep 5",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Shadowstep 5",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Shadowstep.",
@@ -77353,11 +77437,11 @@ tbl = {
 	},
 	[30301] = {
 		unidentifiedDisplayName = "Summon Wolves 1",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Wolves 1",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Wolves.",
@@ -77371,11 +77455,11 @@ tbl = {
 	},
 	[30302] = {
 		unidentifiedDisplayName = "Summon Wolves 2",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Wolves 2",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Wolves.",
@@ -77389,11 +77473,11 @@ tbl = {
 	},
 	[30303] = {
 		unidentifiedDisplayName = "Summon Wolves 3",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Wolves 3",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Wolves.",
@@ -77409,11 +77493,11 @@ tbl = {
 	},
 	[30304] = {
 		unidentifiedDisplayName = "Summon Wolves 4",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Wolves 4",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Wolves.",
@@ -77427,11 +77511,11 @@ tbl = {
 	},
 	[30305] = {
 		unidentifiedDisplayName = "Summon Wolves 5",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Wolves 5",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Wolves.",
@@ -77445,11 +77529,11 @@ tbl = {
 	},
 	[30306] = {
 		unidentifiedDisplayName = "Summon Spirit Bear 1",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Spirit Bear 1",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Spirit Bear.",
@@ -77463,11 +77547,11 @@ tbl = {
 	},
 	[30307] = {
 		unidentifiedDisplayName = "Summon Spirit Bear 2",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Spirit Bear 2",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Spirit Bear.",
@@ -77481,11 +77565,11 @@ tbl = {
 	},
 	[30308] = {
 		unidentifiedDisplayName = "Summon Spirit Bear 3",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Spirit Bear 3",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Spirit Bear.",
@@ -77501,11 +77585,11 @@ tbl = {
 	},
 	[30309] = {
 		unidentifiedDisplayName = "Summon Spirit Bear 4",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Spirit Bear 4",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Spirit Bear.",
@@ -77519,11 +77603,11 @@ tbl = {
 	},
 	[30310] = {
 		unidentifiedDisplayName = "Summon Spirit Bear 5",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Summon Spirit Bear 5",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Summon Spirit Bear.",
@@ -77537,11 +77621,11 @@ tbl = {
 	},
 	[30311] = {
 		unidentifiedDisplayName = "Mirror Image 1",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 1",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -77555,11 +77639,11 @@ tbl = {
 	},
 	[30312] = {
 		unidentifiedDisplayName = "Mirror Image 2",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 2",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -77573,11 +77657,11 @@ tbl = {
 	},
 	[30313] = {
 		unidentifiedDisplayName = "Mirror Image 3",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 3",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -77593,11 +77677,11 @@ tbl = {
 	},
 	[30314] = {
 		unidentifiedDisplayName = "Mirror Image 4",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 4",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -77611,11 +77695,11 @@ tbl = {
 	},
 	[30315] = {
 		unidentifiedDisplayName = "Mirror Image 5",
-		unidentifiedResourceName = "마법책_풍",
+		unidentifiedResourceName = "Vivatus_F_M_Book",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 5",
-		identifiedResourceName = "마법책_풍",
+		identifiedResourceName = "Vivatus_F_M_Book",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -78088,43 +78172,17 @@ tbl = {
 		ClassNum = 1739,
 		costume = true
 	},
-	[5892] = {
-		unidentifiedDisplayName = "Ribbon",
-		unidentifiedResourceName = "타레요정의귀",
-		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "[Elves]RO CROWN",
-		identifiedResourceName = "타레요정의귀",
-		identifiedDescriptionName = {
-			"Allstats +10",
-			"Gain immunity to the Silence status.",
-			"STR +5",
-			"INT +5",
-			"VIT +10",
-			"AGI +10",
-			"LUK +20",
-			"MDEF +10",
-			"_______________________",
-			"^0000CCType:^000000 Headgear",
-			"^0000CCDefense:^000000 5",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 10",
-			"^0000CCArmor Level:^000000 1",
-			"_______________________",
-			"^0000CCRequirement:^000000 None"
-		},
-		slotCount = 4,
-		ClassNum = 875,
-		costume = false
-	},
 	[26020] = {
 		unidentifiedDisplayName = "Unidentified Helmet",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume: Oni Horns",
+		identifiedDisplayName = "Oni Kaho's Horns",
 		identifiedResourceName = "오니의뿔",
 		identifiedDescriptionName = {
 			"Twisted horns that were supposedly crafted to look like those of a race of demons that died out long ago.",
 			"Apparently placing them on your head can grant you a small amount of their power.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>prontera,132,190,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"STR +5",
 			"INT +5",
@@ -86328,11 +86386,9 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Hooked Straw Hat",
+		identifiedDisplayName = "C_Ten_G_Shield_TW",
 		identifiedResourceName = "Ten_G_Shield_TW",
 		identifiedDescriptionName = {
-			"A hat worn around the neck instead of the head.",
-			"It features a sunflower brooch decorated with a refreshing sky blue ribbon.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Garment",
@@ -87654,6 +87710,150 @@ tbl = {
 		ClassNum = 904,
 		costume = false
 	},
+	[19598] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Wandering Wolf King Helmet Kaho's Horn",
+		identifiedResourceName = "떠돌이늑대왕투구",
+		identifiedDescriptionName = {
+			"Can feel a high dignity of the Northern Wolf Tribe.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>pay_fild02,78,381,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 490,
+		costume = true
+	},
+	[31122] = {
+		unidentifiedDisplayName = "Unidentified Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Bloody Stop Bandage",
+		identifiedResourceName = "피묻은사안봉인붕대",
+		identifiedDescriptionName = {
+			"Tight bandages for wounds of the eyes. It seems that they were already used.",
+			"_______________________",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>moc_pryd03,95,93,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 1550,
+		costume = true
+	},
+
+	[31123] = {
+		unidentifiedDisplayName = "Unidentified Hat",
+		unidentifiedResourceName = "햇",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Ghostring Tall Hat Kaho's Horn",
+		identifiedResourceName = "고스트링톨햇",
+		identifiedDescriptionName = {
+			"A cute tall hat with ghostring motif.",
+			
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 1551,
+		costume = true
+	},
+	[19619] = {
+		unidentifiedDisplayName = "Unidentified Hat",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Corsair Kaho's Horn",
+		identifiedResourceName = "커세어",
+		identifiedDescriptionName = {
+			"A flamboyant hat worn only by the strongest of pirates.",
+			"_______________________",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>treasure01,27,381,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 105,
+		costume = true
+	},
+	[20203] = {
+		unidentifiedDisplayName = "Unidentified Hat",
+		unidentifiedResourceName = "두건",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Bandana Kaho's Horn",
+		identifiedResourceName = "두건",
+		identifiedDescriptionName = {
+			"A common, ivory colored bandana.",
+			"_______________________",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>treasure01,27,381,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 6,
+		costume = true
+	},
 	[20130] = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "캡",
@@ -87663,6 +87863,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume hat with a cute Whisper motif.",
 			"I feel like Whisper is approaching when I wear this hat.",
+			"_______________________",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>treasure01,27,381,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"STR +5",
 			"INT +5",
@@ -87756,7 +87959,7 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 164
 	},
-	[480280] = {
+	[480289] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
@@ -87809,6 +88012,24 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 167
+	},
+	[480297] = {
+		unidentifiedDisplayName = "Unidentified Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Love Bunny Cloak",
+		identifiedResourceName = "Lop_Bunny_Cloak",
+		identifiedDescriptionName = {
+			"A cloak made with the motif of long rabbit ears.",				
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 169
 	},
 	[480310] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
@@ -87882,6 +88103,25 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 177
 	},
+
+	[480320] = {
+		unidentifiedDisplayName = "Unidentified Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Aqua Fin Decoration",
+		identifiedResourceName = "C_Aqua_Fin_Decoration",
+		identifiedDescriptionName = {
+			"---------------",				
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 179
+	},
 	[480321] = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "리본",
@@ -87899,6 +88139,43 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 180
+	},
+	[480337] = {
+		unidentifiedDisplayName = "Unidentified Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Rifle",
+		identifiedResourceName = "c_rifle",
+		identifiedDescriptionName = {
+			"등에 짊어진 의상용 라이플.",				
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 188
+	},
+	[410198] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Deviruchi Party",
+		identifiedResourceName = "C_2022Cosutama_Imp_JP",
+		identifiedDescriptionName = {
+			"^You'll feel like you're partying with the Deviruchis.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2299,
+		costume = true
 	},
 	[420133] = {
 		unidentifiedDisplayName = "Unidentified Mask",
@@ -88209,6 +88486,2371 @@ tbl = {
 		ClassNum = 2351,
 		costume = true
 	},
+	[420201] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Baeksayo_Wig",
+		identifiedResourceName = "C_Baeksayo_Wig",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2354,
+		costume = true
+	},
+	[420207] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Eternal_Rose",
+		identifiedResourceName = "C_Eternal_Rose",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2365,
+		costume = true
+	},
+	[420161] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Starry_Long_Wave",
+		identifiedResourceName = "C_Starry_Long_Wave",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2271,
+		costume = true
+	},
+	[420208] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Chocolat_Rabbit_Hair",
+		identifiedResourceName = "C_Chocolat_Rabbit_Hair",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2369,
+		costume = true
+	},
+	[420209] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Cookie_PinkRibbon",
+		identifiedResourceName = "C_Cookie_PinkRibbon",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2370,
+		costume = true
+	},
+	[420211] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Sleep_RedSheep",
+		identifiedResourceName = "C_Sleep_RedSheep",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2277,
+		costume = true
+	},
+	[420213] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Spade_Ace_Melee",
+		identifiedResourceName = "Spade_Ace_Melee",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2374,
+		costume = true
+	},
+	[420219] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "c_come_on_melon",
+		identifiedResourceName = "c_come_on_melon",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2382,
+		costume = true
+	},
+	[420221] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Skia_Two_Side_Up",
+		identifiedResourceName = "C_Skia_Two_Side_Up",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2389,
+		costume = true
+	},
+	[420224] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Ocean_Color_Long",
+		identifiedResourceName = "C_Ocean_Color_Long",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2397,
+		costume = true
+	},
+	[420156] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Flower_L_Knitting",
+		identifiedResourceName = "C_Flower_L_Knitting",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2261,
+		costume = true
+	},
+	[420177] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Valkyrie_Hair",
+		identifiedResourceName = "C_Valkyrie_Hair",
+		identifiedDescriptionName = {
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Event Token Trader<INFO>prontera,164,165,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2311,
+		costume = true
+	},
+	[430005] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_White_Tiger_Glass",
+		identifiedResourceName = "C_White_Tiger_Glass",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2325,
+		costume = true
+	},
+	[435000] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Sausage",
+		identifiedResourceName = "C_Sausage",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2320,
+		costume = true
+	},
+	[436006] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Ep19_Rgan",
+		identifiedResourceName = "C_Ep19_Rgan",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2144,
+		costume = true
+	},
+	[436007] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Ep19_Iwin",
+		identifiedResourceName = "C_Ep19_Iwin",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2143,
+		costume = true
+	},
+	[436008] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_HwaHoJumJung",
+		identifiedResourceName = "C_HwaHoJumJung",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2216,
+		costume = true
+	},
+	[436010] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_spiding",
+		identifiedResourceName = "C_spiding",
+		identifiedDescriptionName = {
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2315,
+		costume = true
+	},
+	[70306] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAABYSS_BLK",
+		identifiedResourceName = "AURAABYSS_BLK",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3921,
+		costume = true
+	},
+	[70307] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAABYSS_BLU",
+		identifiedResourceName = "AURAABYSS_BLU",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3922,
+		costume = true
+	},
+	[70308] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAABYSS_GRN",
+		identifiedResourceName = "AURAABYSS_GRN",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3923,
+		costume = true
+	},
+	[70309] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAABYSS_ORG",
+		identifiedResourceName = "AURAABYSS_ORG",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3924,
+		costume = true
+	},
+	[70310] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAABYSS_PNK",
+		identifiedResourceName = "AURAABYSS_PNK",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3925,
+		costume = true
+	},
+	[70311] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAABYSS_PRP",
+		identifiedResourceName = "AURAABYSS_PRP",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3926,
+		costume = true
+	},
+	[70312] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAABYSS_RED",
+		identifiedResourceName = "AURAABYSS_RED",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3927,
+		costume = true
+	},
+	[70313] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAABYSS_TEL",
+		identifiedResourceName = "AURAABYSS_TEL",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3928,
+		costume = true
+	},
+	[70314] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAABYSS_WHT",
+		identifiedResourceName = "AURAABYSS_WHT",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3929,
+		costume = true
+	},
+	[70315] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAABYSS_YLW",
+		identifiedResourceName = "AURAABYSS_YLW",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3930,
+		costume = true
+	},
+	[410199] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Midnight Candle",
+		identifiedResourceName = "C_Midnight_Candle",
+		identifiedDescriptionName = {
+			"A costume candle with a blue flame that gives you a slight warmth.",
+			"It's lit by magic, so it's safe even if it gets splashed with water.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2301,
+		costume = true
+	},
+	[480274] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Angelic Long (Royal Silver)",
+		identifiedResourceName = "C_Angelic_Long_RSV",
+		identifiedDescriptionName = {
+			"身に着けるといつもと違う",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3931,
+		costume = true
+	},
+	[70316] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANARUTOBLUE",
+		identifiedResourceName = "AURANARUTOBLUE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3931,
+		costume = true
+	},
+	[70317] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANARUTOBLUE_MARINE",
+		identifiedResourceName = "AURANARUTOBLUE_MARINE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3932,
+		costume = true
+	},
+	[70318] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANARUTOGREEN",
+		identifiedResourceName = "AURANARUTOGREEN",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3933,
+		costume = true
+	},
+	[70319] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANARUTOORANGE",
+		identifiedResourceName = "AURANARUTOORANGE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3934,
+		costume = true
+	},
+	[70320] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANARUTOPINK",
+		identifiedResourceName = "AURANARUTOPINK",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3935,
+		costume = true
+	},
+	[70315] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAABYSS_YLW",
+		identifiedResourceName = "AURAABYSS_YLW",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3930,
+		costume = true
+	},
+	[70321] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANARUTOPURPLE",
+		identifiedResourceName = "AURANARUTOPURPLE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3936,
+		costume = true
+	},
+	[70322] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANARUTORED",
+		identifiedResourceName = "AURANARUTORED",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3937,
+		costume = true
+	},
+	[70323] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANARUTOWHITE",
+		identifiedResourceName = "AURANARUTOWHITE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3938,
+		costume = true
+	},
+	[70324] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANARUTOYELLOW",
+		identifiedResourceName = "AURANARUTOYELLOW",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3939,
+		costume = true
+	},
+	[70325] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANATURE_BLU",
+		identifiedResourceName = "AURANATURE_BLU",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3940,
+		costume = true
+	},
+	[70326] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANATURE_GRN",
+		identifiedResourceName = "AURANATURE_GRN",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3941,
+		costume = true
+	},
+	[70327] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANATURE_ORG",
+		identifiedResourceName = "AURANATURE_ORG",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3942,
+		costume = true
+	},
+	[70328] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURANATURE_PNK",
+		identifiedResourceName = "AURANATURE_PNK",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3943,
+		costume = true
+	},
+	[70329] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURASHEEN_BLK",
+		identifiedResourceName = "AURASHEEN_BLK",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3944,
+		costume = true
+	},
+	[70330] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURASHEEN_BLU",
+		identifiedResourceName = "AURASHEEN_BLU",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3945,
+		costume = true
+	},
+	[70331] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURASHEEN_CYN",
+		identifiedResourceName = "AURASHEEN_CYN",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3946,
+		costume = true
+	},
+	[70332] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURASHEEN_GRN",
+		identifiedResourceName = "AURASHEEN_GRN",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3947,
+		costume = true
+	},
+	[70333] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURASHEEN_ORG",
+		identifiedResourceName = "AURASHEEN_ORG",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3948,
+		costume = true
+	},
+	[70334] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURASHEEN_PNK",
+		identifiedResourceName = "AURASHEEN_PNK",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3949,
+		costume = true
+	},
+	[70335] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURASHEEN_PRP",
+		identifiedResourceName = "AURASHEEN_PRP",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3950,
+		costume = true
+	},
+	[70336] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURASHEEN_RED",
+		identifiedResourceName = "AURASHEEN_RED",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3951,
+		costume = true
+	},
+	[70337] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAWISPS_BLKWHT",
+		identifiedResourceName = "AURAWISPS_BLKWHT",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3952,
+		costume = true
+	},
+	[70338] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAWISPS_BLUGRN",
+		identifiedResourceName = "AURAWISPS_BLUGRN",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3953,
+		costume = true
+	},
+	[70339] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAWISPS_ORGTEL",
+		identifiedResourceName = "AURAWISPS_ORGTEL",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3954,
+		costume = true
+	},
+	[70340] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAWISPS_PNKYLW",
+		identifiedResourceName = "AURAWISPS_PNKYLW",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3955,
+		costume = true
+	},
+	[70341] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "AURAWISPS_PRPRED",
+		identifiedResourceName = "AURAWISPS_PRPRED",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3956,
+		costume = true
+	},
+	[70342] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Kamba_Aura",
+		identifiedResourceName = "Kamba_Aura",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3957,
+		costume = true
+	},
+	[70343] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Kamba Hair Kaho's Horn",
+		identifiedResourceName = "Kamba_Hair",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3958,
+		costume = false
+	},
+	[70344] = {
+		unidentifiedDisplayName = "Unidentified Ribbon",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Kamba_Mask",
+		identifiedResourceName = "Kamba_Mask",
+		identifiedDescriptionName = {
+			"________________",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3959,
+		costume = true
+	},
+	[70388] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "broly_Aura",
+		identifiedResourceName = "broly_Aura",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3960,
+		costume = true
+	},
+	[70345] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "white_god_aura",
+		identifiedResourceName = "white_god_aura",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3961,
+		costume = true
+	},
+	[70346] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "CRONUS_BLUE",
+		identifiedResourceName = "CRONUS_BLUE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3962,
+		costume = true
+	},
+	[70347] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "CRONUS_GREEN",
+		identifiedResourceName = "CRONUS_GREEN",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3963,
+		costume = true
+	},
+	[70348] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "CRONUS_ORANGE",
+		identifiedResourceName = "CRONUS_ORANGE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3964,
+		costume = true
+	},
+	[70349] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "CRONUS_PINK",
+		identifiedResourceName = "CRONUS_PINK",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3965,
+		costume = true
+	},
+	[70350] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "CRONUS_PURPLE",
+		identifiedResourceName = "CRONUS_PURPLE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3966,
+		costume = true
+	},
+	[70351] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "CRONUS_RED",
+		identifiedResourceName = "CRONUS_RED",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3967,
+		costume = true
+	},
+	[70352] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "HERCULES_BLUE",
+		identifiedResourceName = "HERCULES_BLUE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3968,
+		costume = true
+	},
+	[70353] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "HERCULES_GREEN",
+		identifiedResourceName = "HERCULES_GREEN",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3969,
+		costume = true
+	},
+	[70354] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "HERCULES_ORANGE",
+		identifiedResourceName = "HERCULES_ORANGE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3970,
+		costume = true
+	},
+	[70355] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "HERCULES_PINK",
+		identifiedResourceName = "HERCULES_PINK",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3971,
+		costume = true
+	},
+	[70356] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "HERCULES_PURPLE",
+		identifiedResourceName = "HERCULES_PURPLE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3972,
+		costume = true
+	},
+	[70357] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "HERCULES_RED",
+		identifiedResourceName = "HERCULES_RED",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3973,
+		costume = true
+	},
+	[70358] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "HESTIA_BLUE",
+		identifiedResourceName = "HESTIA_BLUE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3974,
+		costume = true
+	},
+	[70359] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "HESTIA_GREEN",
+		identifiedResourceName = "HESTIA_GREEN",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3975,
+		costume = true
+	},
+	[70360] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "HESTIA_ORANGE",
+		identifiedResourceName = "HESTIA_ORANGE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3976,
+		costume = true
+	},
+	[70361] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "HESTIA_PINK",
+		identifiedResourceName = "HESTIA_PINK",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3978,
+		costume = true
+	},
+	[70362] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "HESTIA_RED",
+		identifiedResourceName = "HESTIA_RED",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3979,
+		costume = true
+	},
+	[70363] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "HESTIA_YELLOW",
+		identifiedResourceName = "HESTIA_YELLOW",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3980,
+		costume = true
+	},
+	[70364] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "INCEND_BLUE",
+		identifiedResourceName = "INCEND_BLUE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3982,
+		costume = true
+	},
+	[70365] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "INCEND_PURPLE",
+		identifiedResourceName = "INCEND_PURPLE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3983,
+		costume = true
+	},
+	[70366] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "INCEND_RED",
+		identifiedResourceName = "INCEND_RED",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3984,
+		costume = true
+	},
+	[70367] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "SMOKING_BLUE",
+		identifiedResourceName = "SMOKING_BLUE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3985,
+		costume = true
+	},
+	[70368] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "SMOKING_BLUE2",
+		identifiedResourceName = "SMOKING_BLUE2",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3986,
+		costume = true
+	},
+	[70369] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "SMOKING_CIAN",
+		identifiedResourceName = "SMOKING_CIAN",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3987,
+		costume = true
+	},
+	[70370] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "SMOKING_ORANGE",
+		identifiedResourceName = "SMOKING_ORANGE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3988,
+		costume = true
+	},
+	[70371] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "SMOKING_PINK",
+		identifiedResourceName = "SMOKING_PINK",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3989,
+		costume = true
+	},
+	[70372] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "SMOKING_PURPLE",
+		identifiedResourceName = "SMOKING_PURPLE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3990,
+		costume = true
+	},
+	[70373] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "SMOKING_RED",
+		identifiedResourceName = "SMOKING_RED",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3991,
+		costume = true
+	},
+	[70374] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "SMOKING_WHITE",
+		identifiedResourceName = "SMOKING_WHITE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3992,
+		costume = true
+	},
+	[70375] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "SMOKING_YELLOW",
+		identifiedResourceName = "SMOKING_YELLOW",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3993,
+		costume = true
+	},
+	[70376] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "THOR_BLUE",
+		identifiedResourceName = "THOR_BLUE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3994,
+		costume = true
+	},
+	[70377] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "THOR_GREEN",
+		identifiedResourceName = "THOR_GREEN",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3995,
+		costume = true
+	},
+	[70378] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "THOR_ORANGE",
+		identifiedResourceName = "THOR_ORANGE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3996,
+		costume = true
+	},
+	[70379] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "THOR_PINK",
+		identifiedResourceName = "THOR_PINK",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3997,
+		costume = true
+	},
+	[70380] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "THOR_PURPLE",
+		identifiedResourceName = "THOR_PURPLE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3998,
+		costume = true
+	},
+	[70381] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "THOR_RED",
+		identifiedResourceName = "THOR_RED",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3999,
+		costume = true
+	},
+	[70382] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "ZEUS_BLUE",
+		identifiedResourceName = "ZEUS_BLUE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 4000,
+		costume = true
+	},
+	[70383] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "ZEUS_GREEN",
+		identifiedResourceName = "ZEUS_GREEN",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 70384,
+		costume = true
+	},
+	[70384] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "ZEUS_ORANGE",
+		identifiedResourceName = "ZEUS_ORANGE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 4002,
+		costume = true
+	},
+	[70385] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "ZEUS_PINK",
+		identifiedResourceName = "ZEUS_PINK",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 4003,
+		costume = true
+	},
+	[70386] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "ZEUS_PURPLE",
+		identifiedResourceName = "ZEUS_PURPLE",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 4004,
+		costume = true
+	},
+	[70387] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "ZEUS_RED",
+		identifiedResourceName = "ZEUS_RED",
+		identifiedDescriptionName = {
+			"Unknown aura that wrapped your body.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Lower",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 4005,
+		costume = true
+	},
+	[480318] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Divine Phoenix",
+		identifiedResourceName = "c_divine_phoenix",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 178,
+		costume = true
+	},
+	[480335] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Poring Surfboard",
+		identifiedResourceName = "c_surf_board_poring",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 186,
+		costume = true
+	},
+	[480336] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Forest Summer Vacation",
+		identifiedResourceName = "C_Forest_S_Vacation",
+		identifiedDescriptionName = {
+			"An insect net and a green insect cage for the costume carried on the back.",
+			"Catch insects and bring back memories of those summers running around in the forest.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 187,
+		costume = true
+	},
+	[20513] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Elves Cumbackpack",
+		identifiedResourceName = "EXE_Backpack",
+		identifiedDescriptionName = {
+			"Many thanks for playing with us.",
+			"This is a precious gift for ElvesRO coming back.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 22,
+		costume = true
+	},
+	[20521] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Black Cat Backpack",
+		identifiedResourceName = "BlackCatBag",
+		identifiedDescriptionName = {
+			"A bag made in the shape of a black cat. Containing a lot of toys for kittens of all ages.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>gef_fild05,74,143,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 26,
+		costume = true
+	},
+	[20518] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Gerhard Von Devi Bag",
+		identifiedResourceName = "Gerhard_Von_Devi_Bag",
+		identifiedDescriptionName = {
+			"A bag from Gerhard von Devi. Very popular among people.",
+			"^0000CCCan be Quest to:^000000",
+			"<NAVI>Quest Board<INFO>gef_fild05,74,143,0,100,0,0</INFO></NAVI>",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 27,
+		costume = true
+	},
+	[20987] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Piglering Bag",
+		identifiedResourceName = "C_Heart_Wing_Backpack",
+		identifiedDescriptionName = {
+			"A bag with a pig that has wings. Of course, it can't fly.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 58,
+		costume = true
+	},
+	[20987] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Angry Bear Bag",
+		identifiedResourceName = "Ru_Bear_Bag",
+		identifiedDescriptionName = {
+			"A bear doll bag with strong spirit.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 63,
+		costume = true
+	},
+	[480052] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Sakura Ribbon",
+		identifiedResourceName = "C_Sakura_Fes_TW",
+		identifiedDescriptionName = {
+			"A large costume ribbon",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 69,
+		costume = true
+	},
+	[20985] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Gourd Bottle",
+		identifiedResourceName = "C_Gourd_bottle_J",
+		identifiedDescriptionName = {
+			"A very big gourd users for storing Sake.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 82,
+		costume = true
+	},
+	[480086] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume CAPOO Bag",
+		identifiedResourceName = "C_CAPOO_Bag_TW",
+		identifiedDescriptionName = {
+			"",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 89,
+		costume = true
+	},
+	[31462] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Cute Poring Earmuffs",
+		identifiedResourceName = "Female_Poring_Earmuff",
+		identifiedDescriptionName = {
+			"More Ribbons! More Cute!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 1162,
+		costume = true
+	},
+	[20927] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "2023 Elves Cape1 Magical",
+		identifiedResourceName = "2018_RTC_Cape1_TW",
+		identifiedDescriptionName = {
+			"All Stats +2.",
+			"Max SP +2%",
+			"Increase Magic Damage to All Race by 3%",
+			"Reduce Damage to All Race by 3%",
+			"_______________________",
+			"^0000CCType:^000000 Equipment",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 29,
+		costume = true
+	},
+	[20928] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "2023 Elves Cape1 Physical",
+		identifiedResourceName = "2018_RTC_Cape2_TW",
+		identifiedDescriptionName = {
+			"All Stats +2.",
+			"Max HP +2%",
+			"Increase Physical Damage to All Race by 3%",
+			"Reduce Damage to All Race by 3%",
+			"_______________________",
+			"^0000CCType:^000000 Equipment",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 30,
+		costume = true
+	},
+	[20929] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "2023 Elves Cape1 Defense",
+		identifiedResourceName = "2018_RTC_Cape3_TW",
+		identifiedDescriptionName = {
+			"Max HP +5%",
+			"Reduce Damage to All Race by 5%",
+			"_______________________",
+			"^0000CCType:^000000 Equipment",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 31,
+		costume = true
+	},
+	[20926] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "2023 Elves Cape1 Critical",
+		identifiedResourceName = "2018_RTC_Cape4_TW",
+		identifiedDescriptionName = {
+			"All Stats +5.",
+			"Inflict 5% more damage with Critical Attack.",
+			"_______________________",
+			"^0000CCType:^000000 Equipment",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 32,
+		costume = true
+	},
+	[410202] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Poring Scooter",
+		identifiedResourceName = "C_ROROGO",
+		identifiedDescriptionName = {
+			"A costumed scooter with the Poring emblem.",
+			"Enjoy scooter rides with Poring",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2303,
+		costume = true
+	},
+	[70389] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "세이프티링",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Donation Mini Token",
+		identifiedResourceName = "donationtoken",
+		identifiedDescriptionName = {
+			"can be use to exchange Elves Mini Boss Card"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70390] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "세이프티링",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Donation MVP Token",
+		identifiedResourceName = "Unsealing_Token",
+		identifiedDescriptionName = {
+			"can be use to exchange Elves MVP Boss Card"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70392] = {
+		unidentifiedDisplayName = "May's Rainbow Scroll",
+		unidentifiedResourceName = "Costama_EggV02",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Elves MVP Scrool",
+		identifiedResourceName = "Costama_EggV02",
+		identifiedDescriptionName = {
+			"May's Rainbow Scroll for limited time.",
+			"You can get one of several rare items, such as Safe to 11 Weapon Certificate, Safe to 11 Armor Certificate, Powerful Soul Essence, New Hat Box, Angel Poring Boots Box, Poring Sunglasses, Premium Taming Gift Set II.",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	
 }
 
 -- Now for a helper function because i hate repetitions 

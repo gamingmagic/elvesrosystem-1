@@ -84058,7 +84058,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3870,
+		ClassNum = 2700,
 		costume = true
 	},
 	[70176] = {
@@ -84077,7 +84077,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3871,
+		ClassNum = 2701,
 		costume = true
 	},
 	[70177] = {
@@ -84096,7 +84096,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3872,
+		ClassNum = 2702,
 		costume = true
 	},
 	[70178] = {
@@ -84115,7 +84115,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3873,
+		ClassNum = 2703,
 		costume = true
 	},
 	[70179] = {

@@ -80233,7 +80233,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 4,
-		ClassNum = 3462
+		ClassNum = 2954
 	},
 	[70050] = {
 		unidentifiedDisplayName = "hat",
@@ -80261,7 +80261,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 4,
-		ClassNum = 3584
+		ClassNum = 2957
 	},
 	[70051] = {
 		unidentifiedDisplayName = "hat",
@@ -80289,7 +80289,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 4,
-		ClassNum = 3585
+		ClassNum = 2959
 	},
 	[70052] = {
 		unidentifiedDisplayName = "hat",
@@ -80317,7 +80317,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 4,
-		ClassNum = 3586
+		ClassNum = 2960
 	},
 	[70053] = {
 		unidentifiedDisplayName = "hat",
@@ -80345,7 +80345,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 4,
-		ClassNum = 3587
+		ClassNum = 2961
 	},
 	[70054] = {
 		unidentifiedDisplayName = "hat",
@@ -80373,7 +80373,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 4,
-		ClassNum = 3821
+		ClassNum = 2968
 	},
 	[20587] = {
 		unidentifiedDisplayName = "Unidentified Garment",
@@ -80458,7 +80458,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3332
+		ClassNum = 2949
 	},
 	[70058] = {
 		unidentifiedDisplayName = "hat",
@@ -80480,7 +80480,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3335
+		ClassNum = 2952
 	},
 	[70059] = {
 		unidentifiedDisplayName = "hat",
@@ -80502,7 +80502,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3716
+		ClassNum = 2820
 	},
 	[70060] = {
 		unidentifiedDisplayName = "hat",
@@ -80524,7 +80524,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3717
+		ClassNum = 2966
 	},
 	[70061] = {
 		unidentifiedDisplayName = "hat",
@@ -80546,7 +80546,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3820
+		ClassNum = 2967
 	},
 	[70062] = {
 		unidentifiedDisplayName = "hat",
@@ -80714,7 +80714,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 4,
-		ClassNum = 3435
+		ClassNum = 2955
 	},
 	[70068] = {
 		unidentifiedDisplayName = "hat",
@@ -80742,7 +80742,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 4,
-		ClassNum = 3466
+		ClassNum = 2956
 	},
 	[70069] = {
 		unidentifiedDisplayName = "hat",
@@ -80798,7 +80798,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 4,
-		ClassNum = 3386
+		ClassNum = 2953
 	},
 	[70071] = {
 		unidentifiedDisplayName = "hat",
@@ -80826,7 +80826,7 @@ tbl = {
 			"_______________________",
 		},
 		slotCount = 0,
-		ClassNum = 3715
+		ClassNum = 2965
 	},
 	[70073] = {
 		unidentifiedDisplayName = "hat",
@@ -80840,7 +80840,7 @@ tbl = {
 			"_______________________",
 		},
 		slotCount = 0,
-		ClassNum = 3686
+		ClassNum = 2962
 	},
 	[1230] = {
 		unidentifiedDisplayName = "Unidentified Dagger",
@@ -80963,7 +80963,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3207,
+		ClassNum = 2920,
 		costume = true
 	},
 	[70075] = {
@@ -80984,7 +80984,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3211,
+		ClassNum = 2921,
 		costume = true
 	},
 	[70076] = {
@@ -81026,7 +81026,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3221,
+		ClassNum = 2922,
 		costume = true
 	},
 	[70078] = {
@@ -81047,7 +81047,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3446,
+		ClassNum = 2957,
 		costume = true
 	},
 	[70079] = {
@@ -81068,7 +81068,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3627,
+		ClassNum = 2963,
 		costume = true
 	},
 	[70080] = {
@@ -81182,7 +81182,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3228,
+		ClassNum = 2923,
 		costume = true
 	},
 	[70086] = {
@@ -81201,7 +81201,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3229,
+		ClassNum = 2924,
 		costume = true
 	},
 	[70087] = {
@@ -81220,7 +81220,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3230,
+		ClassNum = 2925,
 		costume = true
 	},
 	[70088] = {
@@ -81239,7 +81239,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3231,
+		ClassNum = 2926,
 		costume = true
 	},
 	[70089] = {
@@ -81258,7 +81258,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3232,
+		ClassNum = 2927,
 		costume = true
 	},
 	[70090] = {
@@ -81277,7 +81277,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3233,
+		ClassNum = 2928,
 		costume = true
 	},
 	[70091] = {
@@ -81296,7 +81296,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3234,
+		ClassNum = 2929,
 		costume = true
 	},
 	[70092] = {
@@ -81315,7 +81315,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3235,
+		ClassNum = 2930,
 		costume = true
 	},
 	[70093] = {
@@ -81334,7 +81334,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3243,
+		ClassNum = 2931,
 		costume = true
 	},
 	[70094] = {
@@ -81355,7 +81355,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3244,
+		ClassNum = 2932,
 		costume = true
 	},
 	[70095] = {
@@ -81376,7 +81376,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3245,
+		ClassNum = 2933,
 		costume = true
 	},
 	[70096] = {
@@ -81397,7 +81397,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3246,
+		ClassNum = 2934,
 		costume = true
 	},
 	[70097] = {
@@ -81418,7 +81418,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3247,
+		ClassNum = 2935,
 		costume = true
 	},
 	[70098] = {
@@ -81439,7 +81439,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3248,
+		ClassNum = 2936,
 		costume = true
 	},
 	[70099] = {
@@ -81460,7 +81460,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3249,
+		ClassNum = 2937,
 		costume = true
 	},
 	[70100] = {
@@ -81481,7 +81481,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3250,
+		ClassNum = 2938,
 		costume = true
 	},
 	[70101] = {
@@ -81502,7 +81502,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3251,
+		ClassNum = 2939,
 		costume = true
 	},
 	[70102] = {
@@ -81523,7 +81523,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3252,
+		ClassNum = 2940,
 		costume = true
 	},
 	[70110] = {
@@ -83254,7 +83254,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3253,
+		ClassNum = 2941,
 		costume = true
 	},
 	[70134] = {
@@ -83275,7 +83275,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3254,
+		ClassNum = 2942,
 		costume = true
 	},
 	[70135] = {
@@ -83296,7 +83296,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3255,
+		ClassNum = 2943,
 		costume = true
 	},
 	[70136] = {
@@ -83317,7 +83317,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3256,
+		ClassNum = 2944,
 		costume = true
 	},
 	[70137] = {
@@ -83338,7 +83338,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3257,
+		ClassNum = 2945,
 		costume = true
 	},
 	[70138] = {
@@ -83359,7 +83359,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3258,
+		ClassNum = 2946,
 		costume = true
 	},
 	[70139] = {
@@ -83380,7 +83380,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3259,
+		ClassNum = 2947,
 		costume = true
 	},
 	[70140] = {
@@ -83401,7 +83401,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3260,
+		ClassNum = 2948,
 		costume = true
 	},
 	[70141] = {
@@ -83443,7 +83443,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3633,
+		ClassNum = 2964,
 		costume = true
 	},
 	[70143] = {
@@ -83506,7 +83506,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3840,
+		ClassNum = 2970,
 		costume = true
 	},
 	[70146] = {
@@ -83527,7 +83527,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3841,
+		ClassNum = 2971,
 		costume = true
 	},
 	[70147] = {
@@ -83548,7 +83548,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3842,
+		ClassNum = 2972,
 		costume = true
 	},
 	[70148] = {
@@ -83569,7 +83569,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3843,
+		ClassNum = 2973,
 		costume = true
 	},
 	[70215] = {
@@ -83590,7 +83590,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3844,
+		ClassNum = 2974,
 		costume = true
 	},
 	[70149] = {
@@ -83611,7 +83611,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3845,
+		ClassNum = 2975,
 		costume = true
 	},
 	[70150] = {
@@ -83632,7 +83632,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3846,
+		ClassNum = 2976,
 		costume = true
 	},
 	[70151] = {
@@ -83653,7 +83653,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3847,
+		ClassNum = 2977,
 		costume = true
 	},
 	[70152] = {
@@ -83674,7 +83674,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3848,
+		ClassNum = 2978,
 		costume = true
 	},
 	[70153] = {
@@ -83695,7 +83695,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3849,
+		ClassNum = 2979,
 		costume = true
 	},
 	[70154] = {
@@ -83714,7 +83714,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3850,
+		ClassNum = 2980,
 		costume = true
 	},
 	[70156] = {
@@ -83733,7 +83733,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3852,
+		ClassNum = 2981,
 		costume = true
 	},
 	[70157] = {
@@ -83754,7 +83754,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3853,
+		ClassNum = 2982,
 		costume = true
 	},
 	[70158] = {
@@ -83773,7 +83773,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3854,
+		ClassNum = 2983,
 		costume = true
 	},
 	[70159] = {
@@ -83792,7 +83792,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3855,
+		ClassNum = 2984,
 		costume = true
 	},
 	[70160] = {
@@ -83811,7 +83811,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3856,
+		ClassNum = 2985,
 		costume = true
 	},
 	[70161] = {
@@ -83830,7 +83830,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3857,
+		ClassNum = 2986,
 		costume = true
 	},
 	[70162] = {
@@ -83849,7 +83849,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3858,
+		ClassNum = 2987,
 		costume = true
 	},
 	[70163] = {
@@ -83868,7 +83868,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3859,
+		ClassNum = 2988,
 		costume = true
 	},
 	[70164] = {
@@ -83887,7 +83887,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3860,
+		ClassNum = 2989,
 		costume = true
 	},
 	[70165] = {
@@ -83906,7 +83906,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3861,
+		ClassNum = 2990,
 		costume = true
 	},
 	[70166] = {
@@ -83925,7 +83925,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3862,
+		ClassNum = 2991,
 		costume = true
 	},
 	[70167] = {
@@ -83944,7 +83944,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3863,
+		ClassNum = 2992
 		costume = true
 	},
 	[70168] = {
@@ -83963,7 +83963,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3864,
+		ClassNum = 2993,
 		costume = true
 	},
 	[70169] = {
@@ -83982,7 +83982,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3865,
+		ClassNum = 2994
 		costume = true
 	},
 	[70171] = {
@@ -84001,7 +84001,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3866,
+		ClassNum = 2995,
 		costume = true
 	},
 	[70172] = {
@@ -84020,7 +84020,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3867,
+		ClassNum = 2996,
 		costume = true
 	},
 	[70173] = {
@@ -84039,7 +84039,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 3868,
+		ClassNum = 2997,
 		costume = true
 	},
 	[70175] = {

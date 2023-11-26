@@ -83944,7 +83944,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 2992
+		ClassNum = 2992,
 		costume = true
 	},
 	[70168] = {
@@ -83982,7 +83982,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 2994
+		ClassNum = 2994,
 		costume = true
 	},
 	[70171] = {

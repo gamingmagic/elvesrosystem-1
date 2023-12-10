@@ -79819,8 +79819,10 @@ tbl = {
 		identifiedDisplayName = "Hardrock Mammoth Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"When equipped with ^990099 Edgga Card^000000",
+			"When equipped with ^990099 Edgga Card or Elves Edgga Card^000000",
 			"Increases damage of ^009900Cart Termination^000000 by 30%.",
+			"When equipped with ^990099 Elves Edgga Card^000000",
+			"Increases damage of ^009900Cart Termination^000000 by 50%.",
 			"Compound on:^00CC33 Accessory^000000",
 		},
 		slotCount = 0,
@@ -90984,7 +90986,7 @@ tbl = {
 		unidentifiedDisplayName = "Bloody Knight Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Bloody Knight Card",
+		identifiedDisplayName = "Elves Bloody Knight Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Add the chance of casting ^008800Level 1 Meteor Storm^000000 on an enemy when doing Physical Attack.",
@@ -91044,7 +91046,7 @@ tbl = {
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Costume Blinking Eyes",
-		identifiedResourceName = "_C_B_Thin_Eyes_B_TW",
+		identifiedResourceName = "C_B_Thin_Eyes_B_TW",
 		identifiedDescriptionName = {
 			"Little pink eyes that blink.",
 			"_______________________",
@@ -91057,6 +91059,24 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 2201,
 		costume = true
+	},
+	[70401] = {
+		unidentifiedDisplayName = "Hardrock Mammoth Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Elves Hardrock Mammoth Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"When equipped with ^990099 Edgga Card^000000",
+			"Increases damage of ^009900Cart Termination^000000 by 30%.",
+			"When equipped with ^990099 Elves Edgga Card^000000",
+			"Increases damage of ^009900Cart Termination^000000 by 50%.",
+			"Compound on:^00CC33 Accessory^000000",
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
 	},
 }
 

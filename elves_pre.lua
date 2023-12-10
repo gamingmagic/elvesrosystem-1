@@ -91060,7 +91060,7 @@ tbl = {
 		ClassNum = 2201,
 		costume = true
 	},
-	[70401] = {
+	[70402] = {
 		unidentifiedDisplayName = "Hardrock Mammoth Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },

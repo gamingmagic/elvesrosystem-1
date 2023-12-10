@@ -91039,25 +91039,6 @@ tbl = {
 		costume = false,
 		EffectID = 1186
 	},
-	[410122] = {
-		unidentifiedDisplayName = "Unidentified Hat",
-		unidentifiedResourceName = "ĸ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Blinking Eyes",
-		identifiedResourceName = "_C_B_Thin_Eyes_B_TW",
-		identifiedDescriptionName = {
-			"Little pink eyes that blink.",
-			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Middle",
-			"^0000CCWeight:^000000 0",
-			"_______________________",
-			"^0000CCRequirement:^000000 None"
-		},
-		slotCount = 0,
-		ClassNum = 2201,
-		costume = true
-	},
 }
 
 -- Now for a helper function because i hate repetitions 

@@ -91067,10 +91067,10 @@ tbl = {
 		identifiedDisplayName = "Elves Hardrock Mammoth Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"When equipped with ^990099 Edgga Card^000000",
-			"Increases damage of ^009900Cart Termination^000000 by 30%.",
+			"Reduce Reflect Damage by Large Percentage to Swordman and Merchant Class",
+			"Increase 10% More HP to Merchant Class",
 			"When equipped with ^990099 Elves Edgga Card^000000",
-			"Increases damage of ^009900Cart Termination^000000 by 50%.",
+			"Increases damage of ^009900Cart Termination^000000 by 55%.",
 			"Compound on:^00CC33 Accessory^000000",
 		},
 		slotCount = 0,

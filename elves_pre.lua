@@ -90938,10 +90938,10 @@ tbl = {
 	},
 	[70403] = {
 		unidentifiedDisplayName = "Aeon Firesong Scroll",
-		unidentifiedResourceName = "화자리스크롤",
+		unidentifiedResourceName = "토자리스크롤",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "E Mini Boss P2000 Package(2023)",
-		identifiedResourceName = "화자리스크롤",
+		identifiedResourceName = "토자리스크롤",
 		identifiedDescriptionName = {
 			"Cashpoint 4,000.",
 			"Donation Mini Token x5.",
@@ -91124,7 +91124,7 @@ tbl = {
 			"Increases Critical Damage by 1%.",
 			"_______________________",
 			"When equipped by ^0033CCSoul Linker^000000:",
-			"Add Sma Status (Duration 1 Sec) upon successfully landing a hit on the opponent using the Esma skill."
+			"Add Sma Status (Duration 1 Sec) upon successfully landing a hit on the opponent using the Esma skill.",
 			"MATK 2% per Refine Rate",
 			"^0000FFRefine Level +7^000000:",
 			"Decreases damage taken from ^FF0000Demi-Human^000000 race by 10%.",
@@ -91140,6 +91140,28 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 1,
+		costume = false
+	},
+	[70404] = {
+		unidentifiedDisplayName = "pro선물상자",
+		unidentifiedResourceName = "pro선물상자",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "First TOP Up Reward(Dec/2023~Jan/2024)",
+		identifiedResourceName = "pro선물상자",
+		identifiedDescriptionName = {
+			"HE Bubble Gum x50",
+			"Bloody Branch x100",
+			"Bar Cookie Of Strength x20",
+			"Bar Cookie Of Agility x20",
+			"Bar Cookie Of Intelligence x20",
+			"Bar Cookie Of Dexterity x20",
+			"Almighty x20",
+			"BaseBall Cap Kaho's Horn x1",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
 		costume = false
 	},
 }

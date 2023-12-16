@@ -90934,6 +90934,23 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[70403] = {
+		unidentifiedDisplayName = "Aeon Firesong Scroll",
+		unidentifiedResourceName = "拳磊府胶农费",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "E Mini Boss P2000 Package(2023)",
+		identifiedResourceName = "拳磊府胶农费",
+		identifiedDescriptionName = {
+			"Cashpoint 4,000.",
+			"Donation Mini Token x5.",
+			"TCG Card x300.",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[31950] = {
 		unidentifiedDisplayName = "Unidentified Hairband",
 		unidentifiedResourceName = "府夯",

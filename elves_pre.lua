@@ -91164,6 +91164,22 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[70405] = {
+		unidentifiedDisplayName = "pro선물상자",
+		unidentifiedResourceName = "카프라이용권",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "1 TK Point",
+		identifiedResourceName = "카프라이용권",
+		identifiedDescriptionName = {
+			"Gain 1 TK Point",
+			"Not refundable, replaceable, or responsible for any damage caused by player mistake.",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

@@ -86411,6 +86411,7 @@ tbl = {
 		identifiedResourceName = "발키리해머",
 		identifiedDescriptionName = {
 			"A hammer of noble valkyrie.",
+			"^0000CCDrop By Valkyrie Randgris^000000",
 			"_______________________",
 			"MATK +50",
 			"_______________________",
@@ -91094,6 +91095,48 @@ tbl = {
 		ClassNum = 0,
 		costume = false,
 		EffectID = 1186
+	},
+	[28717] = {
+		unidentifiedDisplayName = "Unidentified Dagger",
+		unidentifiedResourceName = "나이프",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Valkyrie Knife",
+		identifiedResourceName = "발키리나이프",
+		identifiedDescriptionName = {
+			"A noble knife of Valkyrie.",
+			"It seems that even weak people can be treated.",
+			"^0000CCDrop By Valkyrie Randgris^000000",
+			"_______________________",
+			"When equipped by ^0033CCNovice^000000:",
+			"MATK 3% per Refine Rate",
+			"^0000FFRefine Level +7^000000:",
+			"Decreases damage taken from ^FF0000Demi-Human^000000 race by 10%.",
+			"_______________________",
+			"When equipped by ^0033CCAssassin/Ninja^000000:",
+			"Base Atk +10 Per Refine Rate",
+			"Base Matk +10 Per Refine Rate",
+			" ",
+			"^0000FFFor each Refine Level^000000:",
+			"Increases Critical Damage by 1%.",
+			"_______________________",
+			"When equipped by ^0033CCSoul Linker^000000:",
+			"Add Sma Status upon successfully landing a hit on the opponent using the Esma skill."
+			"MATK 2% per Refine Rate",
+			"^0000FFRefine Level +7^000000:",
+			"Decreases damage taken from ^FF0000Demi-Human^000000 race by 10%.",
+			"_______________________",
+			"^0000CCType:^000000 Dagger",
+			"^0000CCAttack:^000000 100",
+			"^0000CCWeight:^000000 10",
+			"^0000CCWeapon Level:^000000 4",
+			"_______________________",
+			"^0000CCRequirement:^000000",
+			"Base Level 70",
+			"Novice, Assassin, Soul Linker and Ninja"
+		},
+		slotCount = 4,
+		ClassNum = 1,
+		costume = false
 	},
 }
 

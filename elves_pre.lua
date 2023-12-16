@@ -90820,7 +90820,7 @@ tbl = {
 		identifiedDisplayName = "Donation Mini Token",
 		identifiedResourceName = "donationtoken",
 		identifiedDescriptionName = {
-			"can be use to exchange Elves Mini Boss Card"
+			"can be use to exchange Elves Mini Boss Card",
 			"<NAVI>Donation Redeemer<INFO>prontera,139,171,0,100,0,0</INFO></NAVI>^000000",
 		},
 		slotCount = 0,
@@ -90834,7 +90834,7 @@ tbl = {
 		identifiedDisplayName = "Donation MVP Token",
 		identifiedResourceName = "환영의각인",
 		identifiedDescriptionName = {
-			"can be use to exchange Elves MVP Boss Card"
+			"can be use to exchange Elves MVP Boss Card",
 			"<NAVI>Donation Redeemer<INFO>prontera,139,171,0,100,0,0</INFO></NAVI>^000000",
 		},
 		slotCount = 0,

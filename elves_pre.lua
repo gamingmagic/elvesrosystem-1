@@ -90821,6 +90821,7 @@ tbl = {
 		identifiedResourceName = "donationtoken",
 		identifiedDescriptionName = {
 			"can be use to exchange Elves Mini Boss Card"
+			"<NAVI>Donation Redeemer<INFO>prontera,139,171,0,100,0,0</INFO></NAVI>^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -90834,6 +90835,7 @@ tbl = {
 		identifiedResourceName = "환영의각인",
 		identifiedDescriptionName = {
 			"can be use to exchange Elves MVP Boss Card"
+			"<NAVI>Donation Redeemer<INFO>prontera,139,171,0,100,0,0</INFO></NAVI>^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -91172,6 +91174,8 @@ tbl = {
 		identifiedResourceName = "카프라이용권",
 		identifiedDescriptionName = {
 			"Gain 1 TK Point",
+			"can be purchase to:",
+			"<NAVI>TCG Trader<INFO>prontera,162,171,0,100,0,0</INFO></NAVI>^000000",
 			"Not refundable, replaceable, or responsible for any damage caused by player mistake.",
 			"_______________________",
 			"^0000CCWeight:^000000 1"

@@ -77072,15 +77072,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30281] = {
-		unidentifiedDisplayName = "Sennen Goroshi 1",
-		unidentifiedResourceName = "마법책_화",
+		unidentifiedDisplayName = "All Link 1",
+		unidentifiedResourceName = "vivatus_f_bible",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Sennen Goroshi 1",
-		identifiedResourceName = "마법책_화",
+		identifiedDisplayName = "All Link 1",
+		identifiedResourceName = "vivatus_f_bible",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Sennen Goroshi.",
+			"It's written about the hidden skill, All Link.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
 			"_______________________",
@@ -77090,15 +77090,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30282] = {
-		unidentifiedDisplayName = "Sennen Goroshi 2",
-		unidentifiedResourceName = "마법책_화",
+		unidentifiedDisplayName = "All Link 2",
+		unidentifiedResourceName = "vivatus_f_bible",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Sennen Goroshi 2",
-		identifiedResourceName = "마법책_화",
+		identifiedDisplayName = "All Link 2",
+		identifiedResourceName = "vivatus_f_bible",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Sennen Goroshi.",
+			"It's written about the hidden skill, All Link.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
 			"_______________________",
@@ -77108,15 +77108,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30283] = {
-		unidentifiedDisplayName = "Sennen Goroshi 3",
-		unidentifiedResourceName = "마법책_화",
+		unidentifiedDisplayName = "All Link 3",
+		unidentifiedResourceName = "vivatus_f_bible",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Sennen Goroshi 3",
-		identifiedResourceName = "마법책_화",
+		identifiedDisplayName = "All Link 3",
+		identifiedResourceName = "vivatus_f_bible",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Sennen Goroshi.",
+			"It's written about the hidden skill, All Link.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
 			"_______________________",
@@ -77126,15 +77126,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30284] = {
-		unidentifiedDisplayName = "Sennen Goroshi 4",
-		unidentifiedResourceName = "마법책_화",
+		unidentifiedDisplayName = "All Link 4",
+		unidentifiedResourceName = "vivatus_f_bible",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Sennen Goroshi 4",
-		identifiedResourceName = "마법책_화",
+		identifiedDisplayName = "All Link 4",
+		identifiedResourceName = "vivatus_f_bible",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Sennen Goroshi.",
+			"It's written about the hidden skill, All Link.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
 			"_______________________",
@@ -77144,15 +77144,15 @@ tbl = {
 		ClassNum = 0
 	},
 	[30285] = {
-		unidentifiedDisplayName = "Sennen Goroshi 5",
-		unidentifiedResourceName = "마법책_화",
+		unidentifiedDisplayName = "All Link 5",
+		unidentifiedResourceName = "vivatus_f_bible",
 		unidentifiedDescriptionName = {
 		},
-		identifiedDisplayName = "Sennen Goroshi 5",
-		identifiedResourceName = "마법책_화",
+		identifiedDisplayName = "All Link 5",
+		identifiedResourceName = "vivatus_f_bible",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
-			"It's written about the hidden skill, Sennen Goroshi.",
+			"It's written about the hidden skill, All Link.",
 			"_______________________",
 			"<NAVI>[Skill Maspter]<INFO>prontera,125,209,0,100,0,0</INFO></NAVI> Can be use for Custom Skill.",
 			"_______________________",
@@ -91060,17 +91060,17 @@ tbl = {
 		ClassNum = 2201,
 		costume = true
 	},
-	[70401] = {
+	[70402] = {
 		unidentifiedDisplayName = "Hardrock Mammoth Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Elves Hardrock Mammoth Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"When equipped with ^990099 Edgga Card^000000",
-			"Increases damage of ^009900Cart Termination^000000 by 30%.",
+			"Reduce Reflect Damage by Large Percentage to Swordman and Merchant Class",
+			"Increase 10% More HP to Merchant Class",
 			"When equipped with ^990099 Elves Edgga Card^000000",
-			"Increases damage of ^009900Cart Termination^000000 by 50%.",
+			"Increases damage of ^009900Cart Termination^000000 by 55%.",
 			"Compound on:^00CC33 Accessory^000000",
 		},
 		slotCount = 0,

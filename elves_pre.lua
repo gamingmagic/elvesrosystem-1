@@ -91193,11 +91193,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"Wickebine's black cat ears.",
 			"_______________________",
-			"FLEE +10",
+			"FLEE +1 Refine Rate",
 			"_______________________",
-			"Increases Critical Damage by 10%.",
-			"_______________________",
-			"Random chance to pierce magical defense of target for 5 seconds when dealing magical damage.",
+			"Increases Critical Damage 1% per Refine Rate.",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 4",

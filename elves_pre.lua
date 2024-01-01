@@ -91184,6 +91184,33 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[19134] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "∏”∏Æ∂Ï",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "[E]Wickebine's Black Cat Ears",
+		identifiedResourceName = "»÷ƒ…πŸ¿Œ¿«±Õ",
+		identifiedDescriptionName = {
+			"Wickebine's black cat ears.",
+			"_______________________",
+			"FLEE +10",
+			"_______________________",
+			"Increases Critical Damage by 10%.",
+			"_______________________",
+			"Random chance to pierce magical defense of target for 5 seconds when dealing magical damage.",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 4",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 20",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 368,
+		costume = false
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

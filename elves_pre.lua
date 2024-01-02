@@ -91148,7 +91148,7 @@ tbl = {
 		unidentifiedDisplayName = "pro선물상자",
 		unidentifiedResourceName = "pro선물상자",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "First TOP Up Reward(Dec/2023~Jan/2024)",
+		identifiedDisplayName = "First TOP Up Reward(Dec/2023)",
 		identifiedResourceName = "pro선물상자",
 		identifiedDescriptionName = {
 			"HE Bubble Gum x50",
@@ -91207,6 +91207,28 @@ tbl = {
 		},
 		slotCount = 4,
 		ClassNum = 368,
+		costume = false
+	},
+	[70406] = {
+		unidentifiedDisplayName = "pro선물상자",
+		unidentifiedResourceName = "pro선물상자",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "First TOP Up Reward(Jan/2024)",
+		identifiedResourceName = "pro선물상자",
+		identifiedDescriptionName = {
+			"HE Bubble Gum x50",
+			"Bloody Branch x100",
+			"Bar Cookie Of Strength x20",
+			"Bar Cookie Of Agility x20",
+			"Bar Cookie Of Intelligence x20",
+			"Bar Cookie Of Dexterity x20",
+			"Almighty x20",
+			"Elves Mini Boss x1",
+			"_______________________",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
 		costume = false
 	},
 }

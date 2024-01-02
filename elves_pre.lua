@@ -70871,6 +70871,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"A headgear for the winner of the RTC event.",
 			"_______________________",
+			"+5 All Stats & Intravision Effect",
+			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 0",
 			"^0000CCPosition:^000000 Upper",
@@ -70893,6 +70895,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"A headgear for the 2nd place winner of the RTC event.",
 			"_______________________",
+			"+5 All Stats & Intravision Effect",
+			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 0",
 			"^0000CCPosition:^000000 Upper",
@@ -70914,6 +70918,8 @@ tbl = {
 		identifiedResourceName = "RTC3등투구",
 		identifiedDescriptionName = {
 			"A headgear for the 3rd place winner of the RTC event.",
+			"_______________________",
+			"+5 All Stats & Intravision Effect",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
 			"^0000CCDefense:^000000 0",
@@ -91226,6 +91232,71 @@ tbl = {
 			"Elves Mini Boss x1",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70407] = {
+		unidentifiedDisplayName = "pro선물상자",
+		unidentifiedResourceName = "pro선물상자",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "5k Milestone 2024",
+		identifiedResourceName = "pro선물상자",
+		identifiedDescriptionName = {
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70408] = {
+		unidentifiedDisplayName = "pro선물상자",
+		unidentifiedResourceName = "pro선물상자",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "10k Milestone 2024)",
+		identifiedResourceName = "pro선물상자",
+		identifiedDescriptionName = {
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70409] = {
+		unidentifiedDisplayName = "pro선물상자",
+		unidentifiedResourceName = "pro선물상자",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "15k Milestone 2024)",
+		identifiedResourceName = "pro선물상자",
+		identifiedDescriptionName = {
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70410] = {
+		unidentifiedDisplayName = "pro선물상자",
+		unidentifiedResourceName = "pro선물상자",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "20k Milestone 2024)",
+		identifiedResourceName = "pro선물상자",
+		identifiedDescriptionName = {
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70411] = {
+		unidentifiedDisplayName = "pro선물상자",
+		unidentifiedResourceName = "pro선물상자",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "25k Milestone 2024)",
+		identifiedResourceName = "pro선물상자",
+		identifiedDescriptionName = {
+			"^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,

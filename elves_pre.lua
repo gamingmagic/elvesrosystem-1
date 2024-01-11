@@ -91302,6 +91302,34 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[70412] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Knight Helm Feather Kaho's Horn",
+		identifiedResourceName = "로드카호의뿔",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 2998,
+		costume = false
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

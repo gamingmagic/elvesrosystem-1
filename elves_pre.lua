@@ -91307,7 +91307,7 @@ tbl = {
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Knight Helm Feather Kaho's Horn",
-		identifiedResourceName = "로드카호의뿔",
+		identifiedResourceName = "knight_helm_feather",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
 			"_______________________",
@@ -91329,6 +91329,25 @@ tbl = {
 		slotCount = 4,
 		ClassNum = 2998,
 		costume = false
+	},
+	[70401] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C Divine Phoenix(Blue)",
+		identifiedResourceName = "divinephoenixblue",
+		identifiedDescriptionName = {
+			"Multipurpose wing improved for high efficiency and high output.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 501,
+		costume = true
 	},
 }
 

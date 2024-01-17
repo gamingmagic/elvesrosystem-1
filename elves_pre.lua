@@ -91349,6 +91349,51 @@ tbl = {
 		ClassNum = 501,
 		costume = true
 	},
+	[70413] = {
+		unidentifiedDisplayName = "Delivery Ricecake Box",
+		unidentifiedResourceName = "선물상자",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Instance Token Box",
+		identifiedResourceName = "선물상자",
+		identifiedDescriptionName = {
+			"Random Chance to get token from 200~1,000 pcs",
+			"^FFFFFF_^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1001282] = {
+		unidentifiedDisplayName = "Delivery Ricecake Box",
+		unidentifiedResourceName = "선물상자",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Imperfect Rune",
+		identifiedResourceName = "Imperfect_Rune",
+		identifiedDescriptionName = {
+			"There are cracks in the Elves rune, so its power cannot be concentrated and is scattered. I feel a slight sense of power.",
+			"^FFFFFF_^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1001282] = {
+		unidentifiedDisplayName = "Delivery Ricecake Box",
+		unidentifiedResourceName = "선물상자",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Elves Perfect Rune",
+		identifiedResourceName = "Perfect_Rune",
+		identifiedDescriptionName = {
+			"A Elves rune that retains its power without any cracks. I feel a strong power.",
+			"^FFFFFF_^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

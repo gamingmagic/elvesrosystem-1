@@ -6,9 +6,9 @@
 
 -- Using GRF Editor Decompiler (beta 1.0.4)
 
-Runesystemtbl_tag = { [RUNETAGIDTBL.EPISODE17] = "EP17", [RUNETAGIDTBL.EVT] = "EVT" }
+Runesystemtbl_tag = { [RUNETAGIDTBL.ELVES1] = "EP17", [RUNETAGIDTBL.EVT] = "EVT" }
 RuneSettbl_desc = {
-	[RUNETAGIDTBL.EPISODE17] = {
+	[RUNETAGIDTBL.ELVES1] = {
 		[RUNESETIDTBL.Rt_Ep17_Doubt] = {
 			RuneSetDisplayName = "Doubt Accessories",
 			RuneSetDescription = {

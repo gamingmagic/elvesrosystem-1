@@ -105,7 +105,7 @@ GradeTable_Fail = {
   }
 }
 RuneSettbl_info = {
-  [RUNETAGIDTBL.EPISODE17] = {
+  [RUNETAGIDTBL.ELVES1] = {
     [RUNESETIDTBL.Rt_Ep17_Doubt] = {
       RuneSetRes = "Rt_Ep17_Doubt",
       RuneSetActiveList = 1,

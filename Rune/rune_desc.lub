@@ -7,7 +7,7 @@
 -- Using GRF Editor Decompiler (beta 1.0.4)
 
 Runetbl_desc = {
-	[RUNETAGIDTBL.EPISODE17] = {
+	[RUNETAGIDTBL.ELVES1] = {
 		[RUNEIDTBL.Rp_Ep17_Melee] = { Rune_DisplayName = "Mysterious Accessories (Melee)" },
 		[RUNEIDTBL.Rp_Ep17_Range] = { Rune_DisplayName = "Mysterious Accessories (Range)" },
 		[RUNEIDTBL.Rp_Ep17_Magic] = { Rune_DisplayName = "Mysterious Accessories (Magic)" },

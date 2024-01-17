@@ -3,7 +3,7 @@
 
 dofile("system\\run3\\runesystemid.lub")
 GetDefultTag = function()
-  return RUNETAGIDTBL.EPISODE17
+  return RUNETAGIDTBL.ELVES1
 end
 
 

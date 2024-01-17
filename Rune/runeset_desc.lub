@@ -11,15 +11,11 @@ RuneSettbl_desc = {
 	
 	[RUNETAGIDTBL.EVT] = {
 		[RUNESETIDTBL.Rt_21th_Event] = {
-			RuneSetDisplayName = "21th Event",
+			RuneSetDisplayName = "1st Year Elves Anniversary Event",
 			RuneSetDescription = {
 				[2] = { "every 3 upgrade,", "ATK + 1, MATK + 1." },
-				[3] = {
-					"Monster Bread's HP recovery +100%,",
-					"Poring Kombucha's HP recovery +100%.",
-					"Not working after the event"
-				},
-				[4] = { "ATK + 10, MATK + 10." }
+				[3] = {	"ATK + 2, MATK + 2." },
+				[4] = { "ATK + 3, MATK + 3." }
 			}
 		}
 	}

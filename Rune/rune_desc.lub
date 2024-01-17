@@ -11,6 +11,6 @@ Runetbl_desc = {
 		[RUNEIDTBL.Rp_21th_Poring] = { Rune_DisplayName = "Black Market Poring" },
 		[RUNEIDTBL.Rp_21th_Lunatic] = { Rune_DisplayName = "Black Market Lunatic" },
 		[RUNEIDTBL.Rp_21th_Fabre] = { Rune_DisplayName = "Black Market Fabre" },
-		[RUNEIDTBL.Rp_21th_Food] = { Rune_DisplayName = "Black Market Food" }
+		[RUNEIDTBL.Rp_21th_Food] = { Rune_DisplayName = "Black Market Gold" }
 	}
 }

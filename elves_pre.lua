@@ -91379,7 +91379,7 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[1001282] = {
+	[1001283] = {
 		unidentifiedDisplayName = "Delivery Ricecake Box",
 		unidentifiedResourceName = "선물상자",
 		unidentifiedDescriptionName = { "..." },

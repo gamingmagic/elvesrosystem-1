@@ -91394,6 +91394,96 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[70414] = {
+		unidentifiedDisplayName = "Valkyrie's Gift Box",
+		unidentifiedResourceName = "선물상자_3",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Valkyrie's Mace Set (Vit)",
+		identifiedResourceName = "선물상자_3",
+		identifiedDescriptionName = {
+			"A box that contains Valkyrie Mace Set(Vit) inside.",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70415] = {
+		unidentifiedDisplayName = "Valkyrie's Gift Box",
+		unidentifiedResourceName = "선물상자_3",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Valkyrie's Mace Set (Int)",
+		identifiedResourceName = "선물상자_3",
+		identifiedDescriptionName = {
+			"A box that contains Valkyrie Mace Set(Int) inside.",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70416] = {
+		unidentifiedDisplayName = "Valkyrie's Gift Box",
+		unidentifiedResourceName = "선물상자_3",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Valkyrie's Mace Set (Str)",
+		identifiedResourceName = "선물상자_3",
+		identifiedDescriptionName = {
+			"A box that contains Valkyrie Mace Set(Str) inside.",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70417] = {
+		unidentifiedDisplayName = "Valkyrie's Gift Box",
+		unidentifiedResourceName = "선물상자_3",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Valkyrie's Knife Set (Vit)",
+		identifiedResourceName = "선물상자_3",
+		identifiedDescriptionName = {
+			"A box that contains Valkyrie Knife Set(Vit) inside.",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70418] = {
+		unidentifiedDisplayName = "Valkyrie's Gift Box",
+		unidentifiedResourceName = "선물상자_3",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Valkyrie's Knife Set (Int)",
+		identifiedResourceName = "선물상자_3",
+		identifiedDescriptionName = {
+			"A box that contains Valkyrie Knife Set(Int) inside.",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70419] = {
+		unidentifiedDisplayName = "Valkyrie's Gift Box",
+		unidentifiedResourceName = "선물상자_3",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Valkyrie's Knife Set (Str)",
+		identifiedResourceName = "선물상자_3",
+		identifiedDescriptionName = {
+			"A box that contains Valkyrie Knife Set(Str) inside.",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

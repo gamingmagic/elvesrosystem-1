@@ -91349,6 +91349,54 @@ tbl = {
 		ClassNum = 501,
 		costume = true
 	},
+	[410212] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Little Abyss Dragon",
+		identifiedResourceName = "C_Little_Abyss_Dragon",
+		identifiedDescriptionName = {
+			"A small dragon born of the abyss. Formed by the emotions of its master, it has the property of growing, and brings glory and ruin according to its nature.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 2316,
+		costume = true
+	},
+	[19667] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Dragon Helm Kaho's Horn",
+		identifiedResourceName = "드래군헬름",
+		identifiedDescriptionName = {
+			"^FF0000Cannot be traded^000000",
+			"A helm worn by a dragonslayer. It is told that the treasure which belonged to the slain dragon was cursed.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 1",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 100",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 464,
+		costume = true
+	},
 	[70413] = {
 		unidentifiedDisplayName = "Delivery Ricecake Box",
 		unidentifiedResourceName = "선물상자",
@@ -91394,94 +91442,32 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
-	[70414] = {
-		unidentifiedDisplayName = "Valkyrie's Gift Box",
-		unidentifiedResourceName = "선물상자_3",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Valkyrie's Mace Set (Vit)",
-		identifiedResourceName = "선물상자_3",
+	[18893] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Dragon Claw Helm",
+		identifiedResourceName = "용발톱헬멧",
 		identifiedDescriptionName = {
-			"A box that contains Valkyrie Mace Set(Vit) inside.",
+			"I feel the power of a flame dragon flowing inside me!",
 			"_______________________",
-			"^0000CCWeight:^000000 0"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[70415] = {
-		unidentifiedDisplayName = "Valkyrie's Gift Box",
-		unidentifiedResourceName = "선물상자_3",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Valkyrie's Mace Set (Int)",
-		identifiedResourceName = "선물상자_3",
-		identifiedDescriptionName = {
-			"A box that contains Valkyrie Mace Set(Int) inside.",
+			"Decreases damage taken from ^FF0000Dragon^000000 and ^FF0000Demi-Human^000000 race by 10%.",
 			"_______________________",
-			"^0000CCWeight:^000000 0"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[70416] = {
-		unidentifiedDisplayName = "Valkyrie's Gift Box",
-		unidentifiedResourceName = "선물상자_3",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Valkyrie's Mace Set (Str)",
-		identifiedResourceName = "선물상자_3",
-		identifiedDescriptionName = {
-			"A box that contains Valkyrie Mace Set(Str) inside.",
+			"^0000FFRefine Level +9^000000:",
+			"MaxHP +10%",
+			"MaxSP +3%",
 			"_______________________",
-			"^0000CCWeight:^000000 0"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[70417] = {
-		unidentifiedDisplayName = "Valkyrie's Gift Box",
-		unidentifiedResourceName = "선물상자_3",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Valkyrie's Knife Set (Vit)",
-		identifiedResourceName = "선물상자_3",
-		identifiedDescriptionName = {
-			"A box that contains Valkyrie Knife Set(Vit) inside.",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 100",
+			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCWeight:^000000 0"
+			"^0000CCRequirement:^000000",
+			"Base Level 10"
 		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[70418] = {
-		unidentifiedDisplayName = "Valkyrie's Gift Box",
-		unidentifiedResourceName = "선물상자_3",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Valkyrie's Knife Set (Int)",
-		identifiedResourceName = "선물상자_3",
-		identifiedDescriptionName = {
-			"A box that contains Valkyrie Knife Set(Int) inside.",
-			"_______________________",
-			"^0000CCWeight:^000000 0"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[70419] = {
-		unidentifiedDisplayName = "Valkyrie's Gift Box",
-		unidentifiedResourceName = "선물상자_3",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Valkyrie's Knife Set (Str)",
-		identifiedResourceName = "선물상자_3",
-		identifiedDescriptionName = {
-			"A box that contains Valkyrie Knife Set(Str) inside.",
-			"_______________________",
-			"^0000CCWeight:^000000 0"
-		},
-		slotCount = 0,
-		ClassNum = 0,
+		slotCount = 2,
+		ClassNum = 1018,
 		costume = false
 	},
 }

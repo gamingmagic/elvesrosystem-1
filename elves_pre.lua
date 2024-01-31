@@ -91451,10 +91451,10 @@ tbl = {
 		identifiedDescriptionName = {
 			"I feel the power of a flame dragon flowing inside me!",
 			"_______________________",
-			"Decreases damage taken from ^FF0000Dragon^000000 and ^FF0000Demi-Human^000000 race by 10%.",
+			"Decreases damage taken from ^FF0000Dragon^000000 and ^FF0000Demi-Human^000000 race by 8%.",
 			"_______________________",
 			"^0000FFRefine Level +9^000000:",
-			"MaxHP +10%",
+			"MaxHP +3%",
 			"MaxSP +3%",
 			"_______________________",
 			"^0000CCType:^000000 Headgear",
@@ -91466,7 +91466,7 @@ tbl = {
 			"^0000CCRequirement:^000000",
 			"Base Level 10"
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 1018,
 		costume = false
 	},

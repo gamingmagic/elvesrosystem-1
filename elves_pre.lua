@@ -91479,6 +91479,34 @@ tbl = {
 		ClassNum = 1018,
 		costume = false
 	},
+	[400311] = {
+		unidentifiedDisplayName = "Unidentified Hat",
+		unidentifiedResourceName = "ĸ",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Reliance Crown Kaho's Horn",
+		identifiedResourceName = "C_Reliance_Crown",
+		identifiedDescriptionName = {
+			"A beautiful crown made for the heroes who saved the Rune-Midgarts continent.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 30",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 2281,
+		costume = true
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

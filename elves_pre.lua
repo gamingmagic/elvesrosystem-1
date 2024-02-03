@@ -91507,6 +91507,36 @@ tbl = {
 		ClassNum = 2281,
 		costume = true
 	},
+	[70420] = {
+		unidentifiedDisplayName = "Delivery Ricecake Box",
+		unidentifiedResourceName = "선물상자",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "First Top Up 500 Feb2024",
+		identifiedResourceName = "선물상자",
+		identifiedDescriptionName = {
+			"Random Chance to get token from 200~1,000 pcs",
+			"^FFFFFF_^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70421] = {
+		unidentifiedDisplayName = "Delivery Ricecake Box",
+		unidentifiedResourceName = "선물상자",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "First Top Up 1000 Feb2024",
+		identifiedResourceName = "선물상자",
+		identifiedDescriptionName = {
+			"Random Chance to get token from 200~1,000 pcs",
+			"^FFFFFF_^000000",
+			"Weight:^009900 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

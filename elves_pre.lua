@@ -91576,7 +91576,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A spear with a leaf shaped point that is designed for hunting, causing damage with its heavy weight instead of stabbing.",
 			"_______________________",
-			"Ignores physical defense of ^FF0000Player000000 race by 100%.",
+			"Ignores physical defense of ^FF0000Player^000000 race by 100%.",
 			"Ignores physical defense of ^FF0000Brute Monster^000000 race by 100%.",
 			"_______________________",
 			"Random chance a defeated ^FF0000Brute^000000 monster will drop ^0033CCMeat^000000.",
@@ -91605,7 +91605,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A spear that radiates with the warm, glowing light of pure holiness.",
 			"_______________________",
-			"Ignores physical defense of ^FF0000Player000000 race by 100%.",
+			"Ignores physical defense of ^FF0000Player^000000 race by 100%.",
 			"_______________________",
 			"Enables the use of Level 10 ^0000FFHeal^000000.",
 			"_______________________",

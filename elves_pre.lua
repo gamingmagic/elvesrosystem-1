@@ -91611,7 +91611,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Two-Handed Spear",
 			"^0000CCAttack:^000000 190",
-			"^0000CCWeight:^000000 300",
+			"^0000CCWeight:^000000 450",
 			"^0000CCElement:^777777 Holy",
 			"^0000CCWeapon Level:^000000 4",
 			"^0000CCCan be enchanted by:^000000",
@@ -91621,7 +91621,7 @@ tbl = {
 			"Base Level 48",
 			"Swordman classes"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 5,
 		costume = false
 	},

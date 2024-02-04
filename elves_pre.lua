@@ -91537,6 +91537,35 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[70422] = {
+		unidentifiedDisplayName = "Unidentified Hat",
+		unidentifiedResourceName = "Ä¸",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "[S]Pope Crown RWC",
+		identifiedResourceName = "C±³È²ÀÇ°ü",
+		identifiedDescriptionName = {
+			"^FF0000Cannot be traded^000000",
+			"A replica of pope arunafeltz's crown.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 1",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 100",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 1475,
+		costume = true
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

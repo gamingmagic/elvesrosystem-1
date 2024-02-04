@@ -91541,11 +91541,11 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "[S]Crown of Negus RWC",
+		identifiedDisplayName = "[S]Pope Crown RWC",
 		identifiedResourceName = "C±³È²ÀÇ°ü",
 		identifiedDescriptionName = {
 			"^FF0000Cannot be traded^000000",
-			"Ethiopian King¡¯s Crown.",
+			"A replica of pope arunafeltz's crown.",
 			"_______________________",
 			"All Stats +7",
 			"MDEF +5",
@@ -91565,64 +91565,6 @@ tbl = {
 		slotCount = 4,
 		ClassNum = 1475,
 		costume = true
-	},
-	[1470] = {
-		unidentifiedDisplayName = "Unidentified Spear",
-		unidentifiedResourceName = "Àðº§¸°",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Brionac",
-		identifiedResourceName = "ºê·ù³ªÅ©",
-		identifiedDescriptionName = {
-			"A spear that radiates with the warm, glowing light of pure holiness.",
-			"_______________________",
-			"Enables the use of Level 10 ^0000FFHeal^000000.",
-			"_______________________",
-			"Ignores physical defense of ^FF0000Player^000000 race by 100%."
-			"_______________________",
-			"^0000CCType:^000000 One-Handed Spear",
-			"^0000CCAttack:^000000 190",
-			"^0000CCWeight:^000000 420",
-			"^0000CCElement:^777777 Holy",
-			"^0000CCWeapon Level:^000000 4",
-			"^0000CCCan be enchanted by:^000000",
-			"_______________________",
-			"^0000CCRequirement:^000000",
-			"Base Level 48",
-			"Swordman classes"
-		},
-		slotCount = 4,
-		ClassNum = 5,
-		costume = false
-	},
-	[1422] = {
-		unidentifiedDisplayName = "Unidentified Spear",
-		unidentifiedResourceName = "Àðº§¸°",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Hunting Spear",
-		identifiedResourceName = "ÇåÆÃ½ºÇÇ¾î",
-		identifiedDescriptionName = {
-			"A spear with a leaf shaped point that is designed for hunting, causing damage with its heavy weight instead of stabbing.",
-			"_______________________",
-			"Ignores physical defense of ^FF0000Demi-Player^000000 race by 100%.",
-			"Ignores physical defense of ^FF0000Brute Monster^000000 race by 100%.",
-			"_______________________",
-			"Random chance a defeated ^FF0000Brute^000000 monster will drop ^0033CCMeat^000000.",
-			"_______________________",
-			"Random chance to auto-cast Level 3 ^009900Joint Beat^000000 on the target when dealing physical damage.",
-			"_______________________",
-			"^0000CCType:^000000 One-Handed Spear",
-			"^0000CCAttack:^000000 180",
-			"^0000CCWeight:^000000 420",
-			"^0000CCWeapon Level:^000000 4",
-			"^0000CCCan be enchanted by:^000000",
-			"_______________________",
-			"^0000CCRequirement:^000000",
-			"Base Level 60",
-			"Transcendent Swordman classes"
-		},
-		slotCount = 4,
-		ClassNum = 4,
-		costume = false
 	},
 }
 

@@ -91859,7 +91859,7 @@ tbl = {
 		ClassNum = 193,
 		costume = true
 	},
-	[70423] = {
+	[70424] = {
 		unidentifiedDisplayName = "Zakudam Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },
@@ -91867,6 +91867,24 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Increases Magical Damage against monsters of ^FF0000Demi-Human^000000 race by 10%.",
+			"_______________________",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Weapon",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70425] = {
+		unidentifiedDisplayName = "Zakudam Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "[Elves]Zakudam Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Magical Damage against monsters of ^FF0000Demi-Human^000000 race by 11%.",
 			"_______________________",
 			"^0000CCType:^000000 Card",
 			"^0000CCCompound on:^000000 Weapon",
@@ -91885,7 +91903,7 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MATK +1%",
-			"Increases Magical Damage against monsters of ^FF0000Demi-Human^000000 race by 10%.",
+			"Increases Magical Damage against monsters of ^FF0000Demi-Human^000000 race by 11%.",
 			"_______________________",
 			"Increases SP Consumption by 10%.",
 			"_______________________",

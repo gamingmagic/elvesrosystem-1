@@ -80231,7 +80231,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
-		identifiedDisplayName = "Kaho Hokage",
+		identifiedDisplayName = "Hokage",
 		identifiedResourceName = "hokage",
 		identifiedDescriptionName = {
 			"_______________________",
@@ -83260,7 +83260,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Purple_Flame_Spirit",
+		identifiedDisplayName = "Purple Flame Spirit Aura",
 		identifiedResourceName = "Purple_Flame_Spirit",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -83447,7 +83447,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Ice_Chakra_Aura_1",
+		identifiedDisplayName = "Ice Chakra Aura",
 		identifiedResourceName = "Ice_Chakra_Aura_1",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -84064,7 +84064,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "SPIRITAURA_BLK",
+		identifiedDisplayName = "Black Spirit Aura",
 		identifiedResourceName = "SPIRITAURA_BLK",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -84445,7 +84445,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "OVERFLOWING_BLK",
+		identifiedDisplayName = "Black Overflowing Aura",
 		identifiedResourceName = "OVERFLOWING_BLK",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -88850,7 +88850,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "AURAABYSS_BLK",
+		identifiedDisplayName = "Black Abyss Aura",
 		identifiedResourceName = "AURAABYSS_BLK",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -89079,7 +89079,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "AURANARUTOBLUE",
+		identifiedDisplayName = "Blue Naruto Aura",
 		identifiedResourceName = "AURANARUTOBLUE",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -89269,7 +89269,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "AURANATURE_BLU",
+		identifiedDisplayName = "Blue Nature Aura",
 		identifiedResourceName = "AURANATURE_BLU",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -89345,7 +89345,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "AURASHEEN_BLK",
+		identifiedDisplayName = "Black Sheen Aura",
 		identifiedResourceName = "AURASHEEN_BLK",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -89497,7 +89497,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "AURAWISPS_BLKWHT",
+		identifiedDisplayName = "BlackWhite Wisps Aura",
 		identifiedResourceName = "AURAWISPS_BLKWHT",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -89924,7 +89924,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "HESTIA_BLUE",
+		identifiedDisplayName = "Blue Hestia Aura",
 		identifiedResourceName = "HESTIA_BLUE",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -91729,7 +91729,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Strong Copo",
+		identifiedDisplayName = "Strong Copo Kaho's Horn",
 		identifiedResourceName = "Armored_Copo",
 		identifiedDescriptionName = {
 			"A hat modeled after the cute and trustworthy Copo of the Ancient Ice Canyon.",
@@ -91758,7 +91758,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Hat",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Dandy Copo",
+		identifiedDisplayName = "Dandy Copo Kaho's Horn",
 		identifiedResourceName = "Egg_Copo",
 		identifiedDescriptionName = {
 			"A hat modeled after the cutie and dandy Copo of the Ancient Ice Canyon.",
@@ -91844,7 +91844,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Big_Hosangto",
+		identifiedDisplayName = "Costume Big Hosangto",
 		identifiedResourceName = "C_Big_Hosangto",
 		identifiedDescriptionName = {
 			"",

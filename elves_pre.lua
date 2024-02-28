@@ -91944,6 +91944,114 @@ tbl = {
 		ClassNum = 2281,
 		costume = true
 	},
+	[70427] = {
+		unidentifiedDisplayName = "Lunati Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Lunati Card (Str)",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Str +35",
+			"_______________________",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Accessories^000000",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70428] = {
+		unidentifiedDisplayName = "Lunati Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Lunati Card (Agi)",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Agi +40",
+			"_______________________",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Accessories^000000",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70429] = {
+		unidentifiedDisplayName = "Lunati Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Lunati Card (Vit)",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Vit +40",
+			"_______________________",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Accessories^000000",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70430] = {
+		unidentifiedDisplayName = "Lunati Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Lunati Card (Int)",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Int +30",
+			"_______________________",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Accessories^000000",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70431] = {
+		unidentifiedDisplayName = "Lunati Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Lunati Card (Dex)",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Dex +20",
+			"_______________________",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Accessories^000000",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
+	[70432] = {
+		unidentifiedDisplayName = "Lunati Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Lunati Card (Luck)",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Dex +40",
+			"_______________________",
+			"^0000CCType:^000000 Card",
+			"^0000CCCompound on:^000000 Accessories^000000",
+			"^0000CCWeight:^000000 1"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false,
+		EffectID = 1186
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

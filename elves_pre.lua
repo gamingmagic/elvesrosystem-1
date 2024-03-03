@@ -92060,7 +92060,7 @@ tbl = {
 		identifiedResourceName = "성자의왕관",
 		identifiedDescriptionName = {
 			"^FF0000Cannot be traded^000000",
-			"",
+			"An Ancient Crown for a Pleasure Thrall.",
 			"_______________________",
 			"All Stats +7",
 			"MDEF +5",

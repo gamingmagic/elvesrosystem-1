@@ -78245,7 +78245,7 @@ tbl = {
 			"Weight:^009900 50^000000",
 			"Jobs:^6666CC All Transcendent classes except Novice^000000"
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0,
 		costume = false
 	},
@@ -78288,7 +78288,7 @@ tbl = {
 			"Level Requirement:^009900 65^000000",
 			"Jobs:^6666CC All except Novice^000000"
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 4,
 		costume = false
 	},
@@ -78317,7 +78317,7 @@ tbl = {
 			"Weight:^009900 280^000000",
 			"Jobs:^6666CC All Transcendent classes except Novice^000000"
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0,
 		costume = false
 	},

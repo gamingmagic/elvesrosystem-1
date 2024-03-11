@@ -89592,7 +89592,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Kamba_Aura",
+		identifiedDisplayName = "Kamba Aura",
 		identifiedResourceName = "Kamba_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -89639,7 +89639,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Kamba_Mask",
+		identifiedDisplayName = "Kamba Mask",
 		identifiedResourceName = "Kamba_Mask",
 		identifiedDescriptionName = {
 			"________________",
@@ -89658,7 +89658,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "broly_Aura",
+		identifiedDisplayName = "Broly Aura",
 		identifiedResourceName = "broly_Aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -89677,7 +89677,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "white_god_aura",
+		identifiedDisplayName = "White God Aura",
 		identifiedResourceName = "white_god_aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
@@ -91825,7 +91825,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Ninetail_Tail_WH",
+		identifiedDisplayName = "Costume White Ninetails",
 		identifiedResourceName = "C_Ninetail_Tail_WH",
 		identifiedDescriptionName = {
 			"",

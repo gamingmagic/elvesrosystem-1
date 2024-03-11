@@ -82117,8 +82117,8 @@ tbl = {
 		identifiedDisplayName = "[Elves] Deviling Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Add a 60% resistance against Neutral Property attacks.",
-			"Receive 25% more damage from other property attacks.",
+			"Add a 50% resistance against Neutral Property attacks.",
+			"Receive 30% more damage from other property attacks.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Garment^000000",
 			"Weight:^009900 1^000000"

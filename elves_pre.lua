@@ -82248,7 +82248,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Rotar Zairo Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Reduce damage from DemiHuman Monster by 40%.",
+			"Reduce damage from DemiHuman Monster by 35%.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Shield^000000",
 			"Weight:^009900 1^000000"
@@ -82306,6 +82306,7 @@ tbl = {
 			"[^6666CCRogue class^000000]",
 			"Atk +11%",
 			"Matk +11%",
+			"Dex +11",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Accessory^000000",
 			"Weight:^009900 1^000000"
@@ -82465,7 +82466,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Angelring Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"MaxHP +50%",
+			"MaxHP +90%",
 			"Blesses an Armor with the ^777777Holy^000000 elemental.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Armor^000000",
@@ -84958,8 +84959,7 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Nullifies Gemstone requirement of certain skills.",
-			"Decreases After Skill Delay of all skills by 15%.",
-			"Increases effectiveness of Healing skills by 20% when they are cast by the wearer.",
+			"Increases effectiveness of Healing skills by 5% when they are cast by the wearer.",
 			"_______________________",
 			"^0000CCType:^000000 Card",
 			"^0000CCCompound on:^000000 Headgear",
@@ -84978,7 +84978,7 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Enable a 50% chance of reflecting Magic spells, aside from skills which target the ground, cast on the character.",
-			"Adds 30% chance of reflecting magical attacks for 2 seconds when wielder receive magical attack.",
+			"Whenever you receive a Magical Damage there is small chance to reflect all offensive magic against you at 40% chance for 2 seconds.",
 			"_______________________",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6666CC Shield^000000",
@@ -85034,7 +85034,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Turtle General Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Atk +25%",
+			"Atk +23%",
 			"_______________________",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
@@ -85092,8 +85092,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Baphomet Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Hit -10",
-			"Endow a weapon with damage that will splash 28 cells around the character with each attack.",
+			"Endow a weapon with damage that will splash 24 cells around the character with each attack.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Weapon^000000",
 			"Weight:^009900 1^000000"
@@ -85110,7 +85109,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Incantation Samurai Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Increases damage on DemiHuman monster by 15%.",
+			"Increases damage on DemiHuman monster by 5%.",
 			"Ignores ^6666CCNormal^000000 monster's defense when attacking.",
 			"Disables HP regen.",
 			"Drains 666 HP every 10 seconds.",
@@ -85442,8 +85441,8 @@ tbl = {
 		identifiedDisplayName = "[Elves] Orc Hero Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Vit +10",
-			"Reduce physical and magical defense by 3%.",
+			"Vit +3",
+			"Reduce physical and magical defense by 1%.",
 			"Prevents ^663399Stun^000000 status.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6600FF Headgear^000000",
@@ -85499,7 +85498,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Fallen Bishop Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Matk +15%",
+			"Matk +12%",
 			"MaxSP -50%",
 			"Increases magic damage to Demihuman and Angel monsters by 50%.",
 			"Class:^6666CC Card^000000",
@@ -85583,7 +85582,7 @@ tbl = {
 			"^0000CCCan be Quest to:^000000",
 			"<NAVI>Hecker<INFO>prontera,169,182,0,100,0,0</INFO></NAVI>",
 			"MaxHP -25%",
-			"Increases damage of ^009900Cart Termination^000000 by 20%.",
+			"Increases damage of ^009900Cart Termination^000000 by 25%.",
 			"_______________________",
 			"Enable effect of the Endure skill so long as the Footgear to which this card is compounded is equipped.",
 			"_______________________",

@@ -88201,7 +88201,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Dreaming_Rose_Long",
+		identifiedDisplayName = "Costume Dreaming Rose Long",
 		identifiedResourceName = "C_Dreaming_Rose_Long",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -88221,7 +88221,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Flower_L_Knitting",
+		identifiedDisplayName = "Costume Flower L Knitting",
 		identifiedResourceName = "C_Flower_L_Knitting",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -88259,7 +88259,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Starry_Ribbon_Twin",
+		identifiedDisplayName = "Costume Starry Ribbon Twin",
 		identifiedResourceName = "C_Starry_Ribbon_Twin",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -88335,7 +88335,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Silky_Long_BL",
+		identifiedDisplayName = "Costume Black Silky Long",
 		identifiedResourceName = "C_Silky_Long_BL",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -88355,7 +88355,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Braid_Ring",
+		identifiedDisplayName = "Costume Braid Ring",
 		identifiedResourceName = "C_Braid_Ring",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -88432,7 +88432,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Snow_Rabbit_Wig",
+		identifiedDisplayName = "Costume Snow Rabbit Wig",
 		identifiedResourceName = "C_Snow_Rabbit_Wig",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -88471,7 +88471,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Twinkle_Wave",
+		identifiedDisplayName = "Costume Twinkle Wave",
 		identifiedResourceName = "C_Twinkle_Wave",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -88530,7 +88530,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Eternal_Rose",
+		identifiedDisplayName = "Costume Eternal Rose",
 		identifiedResourceName = "C_Eternal_Rose",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -88550,7 +88550,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Starry_Long_Wave",
+		identifiedDisplayName = "Costume Starry Long Wave",
 		identifiedResourceName = "C_Starry_Long_Wave",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -88662,7 +88662,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Skia_Two_Side_Up",
+		identifiedDisplayName = "Costume Skia Two Side Up",
 		identifiedResourceName = "C_Skia_Two_Side_Up",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -88682,7 +88682,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Ocean_Color_Long",
+		identifiedDisplayName = "Costume Ocean Color Long",
 		identifiedResourceName = "C_Ocean_Color_Long",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -88722,7 +88722,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Valkyrie_Hair",
+		identifiedDisplayName = "Costume Valkyrie Hair",
 		identifiedResourceName = "C_Valkyrie_Hair",
 		identifiedDescriptionName = {
 			"^0000CCCan be Quest to:^000000",
@@ -91022,7 +91022,7 @@ tbl = {
 		unidentifiedDisplayName = "Bloody Knight Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Bloody Knight Card",
+		identifiedDisplayName = "[Elves] Bloody Knight Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Add the chance of casting ^008800Level 1 Meteor Storm^000000 on an enemy when doing Physical Attack.",
@@ -91042,7 +91042,7 @@ tbl = {
 		unidentifiedDisplayName = "Chepet Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Chepet Card",
+		identifiedDisplayName = "[Elves] Chepet Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Increases effectiveness of Healing skills by 30% when they are cast by the wearer.",
@@ -91061,7 +91061,7 @@ tbl = {
 		unidentifiedDisplayName = "Orc Baby Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "..." },
-		identifiedDisplayName = "Elves Orc Baby Card",
+		identifiedDisplayName = "[Elves] Orc Baby Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Flee +50",
@@ -91100,7 +91100,7 @@ tbl = {
 		unidentifiedDisplayName = "Hardrock Mammoth Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Elves Hardrock Mammoth Card",
+		identifiedDisplayName = "[Elves] Hardrock Mammoth Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Reduce Reflect Damage by Large Percentage to Swordman and Merchant Class",

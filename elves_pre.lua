@@ -92080,6 +92080,56 @@ tbl = {
 		ClassNum = 1117,
 		costume = true
 	},
+	[70434] = {
+		unidentifiedDisplayName = "LV10 Blessing Scroll",
+		unidentifiedResourceName = "mer_blessing",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Party Blessing(LV3)",
+		identifiedResourceName = "mer_blessing",
+		identifiedDescriptionName = {
+			"Add Custom Skill",
+			"High Priest Only",
+			"^FFFFFF_^000000",
+			"Weight:^006600 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70435] = {
+		unidentifiedDisplayName = "LV10 Blessing Scroll",
+		unidentifiedResourceName = "mer_blessing",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Party Agi Up (LV3)",
+		identifiedResourceName = "al_incagi",
+		identifiedDescriptionName = {
+			"Add Custom Skill",
+			"High Priest Only",
+			"^FFFFFF_^000000",
+			"Weight:^006600 1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[31358] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "«œ»∏≈ª",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Hahoe Mask",
+		identifiedResourceName = "«œ»∏≈ª",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 2^000000",
+			"Position:^6666CC Mid^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 30^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 230,
+		costume = false
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

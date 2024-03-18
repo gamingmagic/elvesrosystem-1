@@ -92131,6 +92131,124 @@ tbl = {
 		ClassNum = 230,
 		costume = false
 	},
+	[410196] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "«œ»∏≈ª",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "YinYang_Earring_Y",
+		identifiedResourceName = "YinYang_Earring_Y",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 2^000000",
+			"Position:^6666CC Mid^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 30^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2088,
+		costume = false
+	},
+	[410213] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "«œ»∏≈ª",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Ear_OF_Bloody",
+		identifiedResourceName = "Ear_OF_Bloody",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 2^000000",
+			"Position:^6666CC Mid^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 30^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2318,
+		costume = false
+	},
+	[420094] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "«œ»∏≈ª",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "C Einherial Mantle",
+		identifiedResourceName = "Einherial_Mantle",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 2^000000",
+			"Position:^6666CC Low^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 30^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2200,
+		costume = false
+	},
+	[420111] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "«œ»∏≈ª",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "C Rocking Short",
+		identifiedResourceName = "C_Rocking_Short",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 2^000000",
+			"Position:^6666CC Low^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 30^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2225,
+		costume = false
+	},
+	[400258] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "«œ»∏≈ª",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "C Wanderer Curl",
+		identifiedResourceName = "C_Wanderer_Curl",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 2^000000",
+			"Position:^6666CC Low^000000",
+			"Weight:^009900 10^000000",
+			"Level Requirement:^009900 30^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2224,
+		costume = false
+	},
+	[400157] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "∏Æ∫ª",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Astrologer T Kaho's Horn",
+		identifiedResourceName = "C_Astrologer_T_Hat",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 2125,
+		costume = false
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

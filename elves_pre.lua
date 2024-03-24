@@ -92327,8 +92327,8 @@ tbl = {
 			"Easter Egg x 6~20 (Random Chance)",
 			"Costume Seagod Protector x 1",
 			"Sea God's Wrath x 1~100 (Random Chance)",
-			"Zakumdam Card x 4";
-			"Time Holder Card x 2";
+			"Zakumdam Card x 5~30 (Random Chance)",
+			"Time Holder Card x 1~2";
 			"+9~10 Runic Staff",
 			"+9 Valkyrja's Shield",
 			"+9 Valkyrie Helm [4] V2",
@@ -92638,8 +92638,10 @@ tbl = {
 			"+9 Valkyrian Manteau (+5 Int)",
 			"+8~9 Runic Staff",
 			"4,000 Cashpoints",
+			"Zakudam Card x 5~20 (Random Chance)",
+			"Time Holder Card x 1~3 (Random Chance)",
 			"_______________________",
-			"^0000CCWeight:^000000 1"
+			"^0000CCWeight:^000000 1",
 		},
 		slotCount = 0,
 		ClassNum = 0,

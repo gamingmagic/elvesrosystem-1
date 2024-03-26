@@ -92647,6 +92647,125 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[31499] = {
+		unidentifiedDisplayName = "Helmet",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Easter Egg Shell Kaho's Horn",
+		identifiedResourceName = "성스러운달걀모자",
+		identifiedDescriptionName = {
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 537,
+		costume = false
+	},
+	[410194] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Fox Hat",
+		identifiedResourceName = "여우모자",
+		identifiedDescriptionName = {
+			"Anyone wearing a mask to make you look smart.",
+			"Class:^6666CC Headgear^000000",
+			"Defense:^0000FF 0^000000",
+			"Position:^6666CCMiddle^000000",
+			"Weight:^009900 20^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 403,
+		costume = false
+	},
+	[400205] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Odango Twintails (Blue)",
+		identifiedResourceName = "C_Bun_Twin_Tail_BU",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 0^000000",
+			"Position:^6666CCLower^000000",
+			"Weight:^009900 20^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2190,
+		costume = false
+	},
+	[420086] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Odango Twintails (Blue)",
+		identifiedResourceName = "C_Long_Wave_LBW",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 0^000000",
+			"Position:^6666CCLower^000000",
+			"Weight:^009900 20^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2168,
+		costume = false
+	},
+	[420091] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Silky Long(Blonde)",
+		identifiedResourceName = "C_Silky_Long_BD",
+		identifiedDescriptionName = {
+			"Class:^6666CC Costume^000000",
+			"Defense:^0000FF 0^000000",
+			"Position:^6666CCLower^000000",
+			"Weight:^009900 20^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2180,
+		costume = false
+	},
+	[410215] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "스마일",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Costume Spirit Ears",
+		identifiedResourceName = "Ear_OF_Spirit",
+		identifiedDescriptionName = {
+			"Anyone wearing a mask to make you look smart.",
+			"Class:^6666CC Headgear^000000",
+			"Defense:^0000FF 0^000000",
+			"Position:^6666CCMiddle^000000",
+			"Weight:^009900 20^000000",
+			"Level Requirement:^009900 1^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 403,
+		costume = false
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

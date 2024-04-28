@@ -5752,6 +5752,7 @@ tbl = {
 			"MaxHP +20%",
 			"MaxSP +20%",
 			"Mdef +10",
+			"Int +25",
 			"Class:^6666CC Footgear^000000",
 			"Defense:^0000FF 5^000000",
 			"Weight:^009900 350^000000",
@@ -8130,6 +8131,7 @@ tbl = {
 			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
 			"Str +40",
 			"Mdef +7",
+			"Increases damage on Boss monsters by 10%.",
 			"Class:^6666CC Accessory^000000",
 			"Defense:^0000FF 2^000000",
 			"Weight:^009900 800^000000",
@@ -92764,6 +92766,111 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 403,
+		costume = false
+	},
+	[70449] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "元",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Magingiorde_Agi",
+		identifiedResourceName = "Black_Megs",
+		identifiedDescriptionName = {
+			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
+			"Agi +40",
+			"Mdef +7",
+			"Reduces after cast delay of all skills by 15%.",
+			"Class:^6666CC Accessory^000000",
+			"Defense:^0000FF 2^000000",
+			"Weight:^009900 800^000000",
+			"Level Requirement:^009900 94^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70450] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "元",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Magingiorde_Vit",
+		identifiedResourceName = "Blue_Megs",
+		identifiedDescriptionName = {
+			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
+			"Vit +40",
+			"Mdef +7",
+			"MaxHP +10%.",
+			"Class:^6666CC Accessory^000000",
+			"Defense:^0000FF 2^000000",
+			"Weight:^009900 800^000000",
+			"Level Requirement:^009900 94^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70451] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "元",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Magingiorde_Int",
+		identifiedResourceName = "Green_Megs",
+		identifiedDescriptionName = {
+			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
+			"Int +40",
+			"Mdef +7",
+			"Increase Heal Power +10%.",
+			"Class:^6666CC Accessory^000000",
+			"Defense:^0000FF 2^000000",
+			"Weight:^009900 800^000000",
+			"Level Requirement:^009900 94^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70452] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "元",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Magingiorde_Dex",
+		identifiedResourceName = "Purple_Megs",
+		identifiedDescriptionName = {
+			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
+			"Dex +40",
+			"Mdef +7",
+			"Increase Attack Range Damage +5%.",
+			"Class:^6666CC Accessory^000000",
+			"Defense:^0000FF 2^000000",
+			"Weight:^009900 800^000000",
+			"Level Requirement:^009900 94^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[70453] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "元",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Magingiorde_Luk",
+		identifiedResourceName = "White_Megs",
+		identifiedDescriptionName = {
+			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
+			"Luk +40",
+			"Mdef +7",
+			"Increases drop rate by 5%.",
+			"Class:^6666CC Accessory^000000",
+			"Defense:^0000FF 2^000000",
+			"Weight:^009900 800^000000",
+			"Level Requirement:^009900 94^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
 		costume = false
 	},
 }

@@ -82268,9 +82268,9 @@ tbl = {
 		identifiedDisplayName = "[Elves] Hydrolancer Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Inflict 25% more damage with Fire Bolt.",
-			"Inflict 25% more damage with Cold Bolt.",
-			"Inflict 25% more damage with Lightning Bolt.",
+			"Inflict 40% more damage with Fire Bolt.",
+			"Inflict 40% more damage with Cold Bolt.",
+			"Inflict 40% more damage with Lightning Bolt.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Accessory^000000",
 			"Weight:^009900 1^000000"
@@ -82309,7 +82309,7 @@ tbl = {
 			"[^6666CCRogue class^000000]",
 			"Atk +11%",
 			"Matk +11%",
-			"Dex +11",
+			"Dex +20",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Accessory^000000",
 			"Weight:^009900 1^000000"
@@ -82352,7 +82352,6 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +10%",
-			"MaxHP +600",
 			"_______________________",
 			"When base LUK is 77 or higher: Increases natural HP and SP regeneration by 100%.",
 			"_______________________",
@@ -82412,8 +82411,8 @@ tbl = {
 		identifiedDisplayName = "[Elves] Gemini-S58 Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Adds 50% resistance to the ^FF0000Stun^000000 and ^FF0000Silence^000000 if base AGI is 90 or higher.",
-			"adds 50% resistance to the ^663399Stone Curse^000000 and ^FF0000Sleep^000000 if base VIT is 80 or higher.",
+			"Adds 50% resistance to the ^FF0000Stun^000000 and ^FF0000Silence^000000",
+			"adds 50% resistance to the ^663399Stone Curse^000000 and ^FF0000Sleep^000000",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6600FF Headgear^000000",
 			"Weight:^009900 1^000000"
@@ -82432,8 +82431,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"Matk +100",
 			"[ Wizard Classes ]",
-			"INT +2",
-			"Matk 7%",
+			"INT +20",
+			"Matk 10%",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Accessory^000000",
 			"Weight:^009900 1^000000"
@@ -82452,7 +82451,6 @@ tbl = {
 		identifiedDescriptionName = {
 			"MaxHP +20%",
 			"Enchants armor with ^777777Ghost^000000 elemental.",
-			"Reduce natural HP regeneration by 25%.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Armor^000000",
 			"Weight:^009900 1^000000"
@@ -82487,8 +82485,8 @@ tbl = {
 		identifiedDisplayName = "[Elves] Mutant Dragonoid Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Increases Crimson Fire Blossom damage by 15%",
-			"Increases Fire Ball damage by 100%",
+			"Increases Crimson Fire Blossom damage by 30%",
+			"Increases Fire Ball damage by 10%",
 			"Add the chance of auto casting ^008800Level 3 Fire Ball^000000 on an enemy while doing Physical Attack.",
 			"If the user has mastered the skill at levl 10, it will cast ^008800Level 10 Fire Ball^000000.",
 			"Class:^6666CC Card^000000",
@@ -84923,7 +84921,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Eddga Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Increases damage of ^009900Cart Termination^000000 by 10%.",			
+			"Increases damage of ^009900Cart Termination^000000 by 20%.",			
 			"Enable effect of the Endure skill so long as the Footgear to which this card is compounded is equipped.",
 			"_______________________",
 			"Class:^6666CC Card^000000",
@@ -84943,7 +84941,7 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"+20% Max HP",			
-			"+55 Movement Speed so long as the Footgear to which this card is compounded is equipped.",
+			"+100 Movement Speed so long as the Footgear to which this card is compounded is equipped.",
 			"_______________________",
 			"Class:^6666CC Card^000000",
 			"Compound on:^999900 Footgear^000000",
@@ -85112,7 +85110,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Incantation Samurai Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Increases damage on DemiHuman monster by 5%.",
+			"Increases damage on DemiHuman monster by 15%.",
 			"Ignores ^6666CCNormal^000000 monster's defense when attacking.",
 			"Disables HP regen.",
 			"Drains 666 HP every 10 seconds.",

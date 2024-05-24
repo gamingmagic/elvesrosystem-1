@@ -56712,7 +56712,7 @@ QuestInfoList = {
 		Description = {
 			"Tell <NAVI>[Galstein]<INFO>lighthalzen,179,170,0,101,0</INFO></NAVI> in Lighthalzen that the secret wings can no longer be maintained."
 		},
-		Summary = "Galstein¿¡°Ԣ
+		Summary = "Galstein"
 	},
 	[17307] = {
 		Title = "Gatekeeper of Lasagna Cave",

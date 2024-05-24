@@ -8125,7 +8125,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Megingjord",
+		identifiedDisplayName = "Megingjord (Str)",
 		identifiedResourceName = "메긴기오르드",
 		identifiedDescriptionName = {
 			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
@@ -8152,10 +8152,11 @@ tbl = {
 			"An imitation of the necklace worn by the beautiful goddess Freya.",
 			"Str +6",
 			"Agi +6",
-			"Int +6",
+			"Int +20",
 			"Vit +6",
 			"Luk +10",
 			"Mdef +5",
+			"Heal Power + 20%",
 			"Class:^6666CC Accessory^000000",
 			"Defense:^0000FF 1^000000",
 			"Weight:^009900 150^000000",
@@ -67470,21 +67471,8 @@ tbl = {
 		identifiedDisplayName = "Boitata Armor",
 		identifiedResourceName = "드래곤의숨결",
 		identifiedDescriptionName = {
-			"The armor that made by power of mythic creature, Boitata",
 			"_______________________",
-			"MaxHP +1% Per 2 Refine",
-			"FLEE Per Refine",
-			"MDEF +3",
-			"_______________________",
-			"Decreases damage taken from ^777777Neutral^000000 elemental attacks by 7%.",
-			"_______________________",
-			"^0000CCType:^000000 Armor",
-			"^0000CCDefense:^000000 5",
-			"^0000CCWeight:^000000 60",
-			"^0000CCArmor Level:^000000 1",
-			"_______________________",
-			"^0000CCRequirement:^000000",
-			"Base Level 60"
+			"^0000CCType:^000000 Script Disable",
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -81562,8 +81550,8 @@ tbl = {
 			"_______________________",
 			"INT +10",
 			"LUK +30",
-			"Dex +10",
-			"15% More Damage on Ghost Property",
+			"Dex +30",
+			"30% More Damage on Ghost Property",
 			"Neutral Resistance 1% Per Refine",
 			"Increases Ranged Physical Damage by 1% per refine.",
 			"_______________________",
@@ -82268,9 +82256,9 @@ tbl = {
 		identifiedDisplayName = "[Elves] Hydrolancer Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Inflict 25% more damage with Fire Bolt.",
-			"Inflict 25% more damage with Cold Bolt.",
-			"Inflict 25% more damage with Lightning Bolt.",
+			"Inflict 40% more damage with Fire Bolt.",
+			"Inflict 40% more damage with Cold Bolt.",
+			"Inflict 40% more damage with Lightning Bolt.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^FF0000 Accessory^000000",
 			"Weight:^009900 1^000000"
@@ -82309,7 +82297,11 @@ tbl = {
 			"[^6666CCRogue class^000000]",
 			"Atk +11%",
 			"Matk +11%",
+<<<<<<< HEAD:System/elves_pre.lua
 			"Dex +11",
+=======
+			"Dex +20",
+>>>>>>> 058ef60a498ded5710ccd99a9eca01dc5a2a5528:elves_pre.lua
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Accessory^000000",
 			"Weight:^009900 1^000000"
@@ -82352,7 +82344,6 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +10%",
-			"MaxHP +600",
 			"_______________________",
 			"When base LUK is 77 or higher: Increases natural HP and SP regeneration by 100%.",
 			"_______________________",
@@ -82412,8 +82403,8 @@ tbl = {
 		identifiedDisplayName = "[Elves] Gemini-S58 Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Adds 50% resistance to the ^FF0000Stun^000000 and ^FF0000Silence^000000 if base AGI is 90 or higher.",
-			"adds 50% resistance to the ^663399Stone Curse^000000 and ^FF0000Sleep^000000 if base VIT is 80 or higher.",
+			"Adds 50% resistance to the ^FF0000Stun^000000 and ^FF0000Silence^000000",
+			"adds 50% resistance to the ^663399Stone Curse^000000 and ^FF0000Sleep^000000",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6600FF Headgear^000000",
 			"Weight:^009900 1^000000"
@@ -82432,8 +82423,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"Matk +100",
 			"[ Wizard Classes ]",
-			"INT +2",
-			"Matk 7%",
+			"INT +20",
+			"Matk 10%",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Accessory^000000",
 			"Weight:^009900 1^000000"
@@ -82452,7 +82443,6 @@ tbl = {
 		identifiedDescriptionName = {
 			"MaxHP +20%",
 			"Enchants armor with ^777777Ghost^000000 elemental.",
-			"Reduce natural HP regeneration by 25%.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Armor^000000",
 			"Weight:^009900 1^000000"
@@ -82487,8 +82477,8 @@ tbl = {
 		identifiedDisplayName = "[Elves] Mutant Dragonoid Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Increases Crimson Fire Blossom damage by 15%",
-			"Increases Fire Ball damage by 100%",
+			"Increases Crimson Fire Blossom damage by 30%",
+			"Increases Fire Ball damage by 10%",
 			"Add the chance of auto casting ^008800Level 3 Fire Ball^000000 on an enemy while doing Physical Attack.",
 			"If the user has mastered the skill at levl 10, it will cast ^008800Level 10 Fire Ball^000000.",
 			"Class:^6666CC Card^000000",
@@ -84923,7 +84913,11 @@ tbl = {
 		identifiedDisplayName = "[Elves] Eddga Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
+<<<<<<< HEAD:System/elves_pre.lua
 			"Increases damage of ^009900Cart Termination^000000 by 10%.",			
+=======
+			"Increases damage of ^009900Cart Termination^000000 by 20%.",			
+>>>>>>> 058ef60a498ded5710ccd99a9eca01dc5a2a5528:elves_pre.lua
 			"Enable effect of the Endure skill so long as the Footgear to which this card is compounded is equipped.",
 			"_______________________",
 			"Class:^6666CC Card^000000",
@@ -84943,7 +84937,7 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"+20% Max HP",			
-			"+55 Movement Speed so long as the Footgear to which this card is compounded is equipped.",
+			"+100 Movement Speed so long as the Footgear to which this card is compounded is equipped.",
 			"_______________________",
 			"Class:^6666CC Card^000000",
 			"Compound on:^999900 Footgear^000000",
@@ -92754,7 +92748,11 @@ tbl = {
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
 		identifiedDisplayName = "Costume Spirit Ears",
+<<<<<<< HEAD:System/elves_pre.lua
 		identifiedResourceName = "Ear_OF_Spirit",
+=======
+		identifiedResourceName = "Grisly_Soul",
+>>>>>>> 058ef60a498ded5710ccd99a9eca01dc5a2a5528:elves_pre.lua
 		identifiedDescriptionName = {
 			"Anyone wearing a mask to make you look smart.",
 			"Class:^6666CC Headgear^000000",

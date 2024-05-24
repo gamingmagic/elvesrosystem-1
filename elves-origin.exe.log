@@ -1,5 +1,5 @@
 1 Use Tilde for Matk
-2 Chat Flood Allow
+3 Chat Flood Remove Limit
 5 Enable Proxy Support
 8 Custom Window Title
 9 Disable 1rag1 type parameters (Recommended)
@@ -41,6 +41,7 @@
 231 Remove hardcoded address/port (Recommended)
 232 Restore old login packet (Recommended)
 242 Disable kRO Site Launch
+268 Restore chat focus
 270 Change AchievementList*.lub path
 271 Change MonsterSizeEffect*.lub path
 273 Change PetEvolutionCln*.lub path
@@ -69,7 +70,9 @@
 427 Check is servertype in xml file was set to correct value (Recommended)
 429 Protect shorten and bold name flags
 475 Remove trait open button from status window
+477 Use Custom dll in simple way
 481 Remove the limit of max number displayed in damage/heal 
 484 Show error message if server send wrong packet (Recommended)
 485 Restore loading clientinfo.xml (Recommended)
 486 Change coin id for buy emote packs
+489 Allow repeate/spam keys

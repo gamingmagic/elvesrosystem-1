@@ -82297,11 +82297,7 @@ tbl = {
 			"[^6666CCRogue class^000000]",
 			"Atk +11%",
 			"Matk +11%",
-<<<<<<< HEAD:System/elves_pre.lua
-			"Dex +11",
-=======
 			"Dex +20",
->>>>>>> 058ef60a498ded5710ccd99a9eca01dc5a2a5528:elves_pre.lua
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Accessory^000000",
 			"Weight:^009900 1^000000"
@@ -84913,11 +84909,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Eddga Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-<<<<<<< HEAD:System/elves_pre.lua
-			"Increases damage of ^009900Cart Termination^000000 by 10%.",			
-=======
 			"Increases damage of ^009900Cart Termination^000000 by 20%.",			
->>>>>>> 058ef60a498ded5710ccd99a9eca01dc5a2a5528:elves_pre.lua
 			"Enable effect of the Endure skill so long as the Footgear to which this card is compounded is equipped.",
 			"_______________________",
 			"Class:^6666CC Card^000000",
@@ -85106,7 +85098,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Incantation Samurai Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Increases damage on DemiHuman monster by 5%.",
+			"Increases damage on DemiHuman monster by 15%.",
 			"Ignores ^6666CCNormal^000000 monster's defense when attacking.",
 			"Disables HP regen.",
 			"Drains 666 HP every 10 seconds.",
@@ -92748,11 +92740,7 @@ tbl = {
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
 		identifiedDisplayName = "Costume Spirit Ears",
-<<<<<<< HEAD:System/elves_pre.lua
-		identifiedResourceName = "Ear_OF_Spirit",
-=======
 		identifiedResourceName = "Grisly_Soul",
->>>>>>> 058ef60a498ded5710ccd99a9eca01dc5a2a5528:elves_pre.lua
 		identifiedDescriptionName = {
 			"Anyone wearing a mask to make you look smart.",
 			"Class:^6666CC Headgear^000000",

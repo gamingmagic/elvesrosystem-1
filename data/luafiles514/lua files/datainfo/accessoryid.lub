@@ -2707,4 +2707,5 @@ ACCESSORY_IDs = {
 	ACCESSORY_Dread_Lord_Aura = 2997,
 	ACCESSORY_knight_helm_feather = 2998,
 	ACCESSORY_hoodofshadow = 2999,
+	ACCESSORY_Bursting_Flame = 3000,
 }

@@ -13422,7 +13422,7 @@ tbl = {
 		identifiedDisplayName = "Golden Thiefbug Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"60% Nullify all magic attack, including supportive skills, that target character at the cost of doubling SP Consumption cost when using skills.",
+			"65% Nullify all magic attack, including supportive skills, that target character at the cost of doubling SP Consumption cost when using skills.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6666CC Shield^000000",
 			"Weight:^009900 1^000000"
@@ -85041,7 +85041,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Osiris Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Increases effectiveness of Healing skills by 10% when they are cast by the wearer.",
+			"Increases effectiveness of Healing skills by 30% when they are cast by the wearer.",
 			"Enable full HP and SP restoration when resurrected.",
 			"_______________________",
 			"Class:^6666CC Card^000000",
@@ -85354,7 +85354,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Golden Thiefbug Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"60% Nullify all magic attack, including supportive skills, that target character at the cost of doubling SP Consumption cost when using skills.",
+			"65% Nullify all magic attack, including supportive skills, that target character at the cost of doubling SP Consumption cost when using skills.",
 			"MaxHP +5%",
 			"All stats +5",
 			"Class:^6666CC Card^000000",
@@ -92867,6 +92867,7 @@ tbl = {
 		identifiedResourceName = "IamRO_Blackstar_Fist",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
+			"Class: Champion",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -92884,6 +92885,7 @@ tbl = {
 		identifiedResourceName = "IamRO_Blackstar_Cane_Creator",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
+			"Class: Creator",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -92901,6 +92903,7 @@ tbl = {
 		identifiedResourceName = "IamRO_Blackstar_Sword",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
+			"Class: Lord Knight",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -92969,6 +92972,7 @@ tbl = {
 		identifiedResourceName = "IamRO_Blackstar_Axe",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
+			"Class: White Smith",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -92986,6 +92990,7 @@ tbl = {
 		identifiedResourceName = "IamRO_Blackstar_Staff",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
+			"Class: High Wizard",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -93003,6 +93008,7 @@ tbl = {
 		identifiedResourceName = "IamRO_Blackstar_Crucifix",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
+			"Class: High Priest",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -93011,6 +93017,23 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 114,
 		costume = true
+	},
+	[70463] = {
+		unidentifiedDisplayName = "Costume Bursting Flame",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "Costume Bursting Flame",
+		identifiedResourceName = "Bursting_Flame",
+		identifiedDescriptionName = {
+			"Emitting an aura of fiery hell. Be careful! It's intensely hot!",
+			"Class: ^777777Low Head Gear^000000",
+			"Defense: ^7777770^000000",
+			"^0000CCWeight:^000000 0",
+			"Applicable Job: ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 3000
 	},
 }
 

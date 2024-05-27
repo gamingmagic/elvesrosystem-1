@@ -231,6 +231,7 @@ WeaponNameTable = {
 	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Bow] = "_IamRO_Blackstar_Bow",
 	[Weapon_IDs.WEAPONTYPE_IamRO_Elemental_Orbs] = "_IamRO_Elemental_Orbs",
 	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Dagger_Assassin] = "_IamRO_Blackstar_Dagger_Assassin",
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Axe] = "_IamRO_Blackstar_Axe",
 	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Staff] = "_IamRO_Blackstar_Staff",
 	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Crucifix] = "_IamRO_Blackstar_Crucifix",
 }
@@ -311,7 +312,7 @@ Expansion_Weapon_IDs = {
 	[Weapon_IDs.WEAPONTYPE_Quincy_Bow] = Weapon_IDs.WEAPONTYPE_BOW,
 	[Weapon_IDs.WEAPONTYPE_RUNICSTAFF] = Weapon_IDs.WEAPONTYPE_ROD,
 	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Fist] = Weapon_IDs.WEAPONTYPE_KNUKLE,
-	[Weapon_IDs.WEAPONTYPE_IamROIamRO_Blackstar_Cane_Creator] = Weapon_IDs.WEAPONTYPE_MACE,
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Cane_Creator] = Weapon_IDs.WEAPONTYPE_MACE,
 	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Sword] = Weapon_IDs.WEAPONTYPE_MACE,
 	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Bow] = Weapon_IDs.WEAPONTYPE_BOW,
 	[Weapon_IDs.WEAPONTYPE_IamRO_Elemental_Orbs] = Weapon_IDs.WEAPONTYPE_ROD,

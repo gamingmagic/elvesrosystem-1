@@ -2701,4 +2701,5 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Dread_Lord_Aura]	=	"_Dread_Lord_Aura",
 	[ACCESSORY_IDs.ACCESSORY_knight_helm_feather]	=	"_knight_helm_feather",
 	[ACCESSORY_IDs.ACCESSORY_hoodofshadow]	=	"_hoodofshadow",
+	[ACCESSORY_IDs.ACCESSORY_Bursting_Flame]	=	"_Bursting_Flame",
 }

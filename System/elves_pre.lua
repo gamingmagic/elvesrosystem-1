@@ -92863,8 +92863,8 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Shadow Weapon",
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "[C]Noctis Axe",
-		identifiedResourceName = "Wep_C_Noctis_Axe",
+		identifiedDisplayName = "[C]Crimson Fist",
+		identifiedResourceName = "IamRO_Blackstar_Fist",
 		identifiedDescriptionName = {
 			"Max Weight +500",
 			"_______________________",
@@ -92880,8 +92880,8 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Shadow Weapon",
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "[C]Noctis Blade",
-		identifiedResourceName = "Wep_C_Noctis_Blade",
+		identifiedDisplayName = "[C]Crimson Cane Creator",
+		identifiedResourceName = "IamRO_Blackstar_Cane_Creator",
 		identifiedDescriptionName = {
 			"Max Weight +500",
 			"_______________________",
@@ -92897,8 +92897,8 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Shadow Weapon",
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "[C]Noctis Book",
-		identifiedResourceName = "Wep_C_Noctis_Book",
+		identifiedDisplayName = "[C]Crimson Sword",
+		identifiedResourceName = "IamRO_Blackstar_Sword",
 		identifiedDescriptionName = {
 			"Max Weight +500",
 			"_______________________",
@@ -92914,8 +92914,8 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Shadow Weapon",
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "[C]Noctis Bow",
-		identifiedResourceName = "Wep_C_Noctis_Bow",
+		identifiedDisplayName = "[C]Crimson Bow",
+		identifiedResourceName = "IamRO_Blackstar_Bow",
 		identifiedDescriptionName = {
 			"Max Weight +500",
 			"_______________________",
@@ -92925,6 +92925,91 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 108,
+		costume = true
+	},
+	[70458] = {
+		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "[C]Crimson Orb",
+		identifiedResourceName = "IamRO_Elemental_Orbs",
+		identifiedDescriptionName = {
+			"Max Weight +500",
+			"_______________________",
+			"^0000CCType:^000000 Costume Weapon",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 109,
+		costume = true
+	},
+	[70460] = {
+		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "[C]Crimson Dagger Assassin",
+		identifiedResourceName = "IamRO_Blackstar_Dagger_Assassin",
+		identifiedDescriptionName = {
+			"Max Weight +500",
+			"_______________________",
+			"^0000CCType:^000000 Costume Weapon",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 111,
+		costume = true
+	},
+	[70461] = {
+		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "[C]Crimson Axe",
+		identifiedResourceName = "IamRO_Blackstar_Axe",
+		identifiedDescriptionName = {
+			"Max Weight +500",
+			"_______________________",
+			"^0000CCType:^000000 Costume Weapon",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 112,
+		costume = true
+	},
+	[70462] = {
+		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "[C]Crimson Staff",
+		identifiedResourceName = "IamRO_Blackstar_Staff",
+		identifiedDescriptionName = {
+			"Max Weight +500",
+			"_______________________",
+			"^0000CCType:^000000 Costume Weapon",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 113,
+		costume = true
+	},
+	[70463] = {
+		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "[C]Crimson Crucifix",
+		identifiedResourceName = "IamRO_Blackstar_Crucifix",
+		identifiedDescriptionName = {
+			"Max Weight +500",
+			"_______________________",
+			"^0000CCType:^000000 Costume Weapon",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 114,
 		costume = true
 	},
 }

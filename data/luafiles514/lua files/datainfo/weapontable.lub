@@ -110,9 +110,15 @@ Weapon_IDs = {
 	WEAPONTYPE_FOXTAIL_METAL = 102,
 	WEAPONTYPE_Quincy_Bow = 103,
 	WEAPONTYPE_RUNICSTAFF = 104,
-	WEAPONTYPE_Wep_C_Noctis_Axe = 105,
-	WEAPONTYPE_Wep_C_Noctis_Blade = 106,
-	WEAPONTYPE_Wep_C_Noctis_Book = 107,
+	WEAPONTYPE_IamRO_Blackstar_Fist = 105,
+	WEAPONTYPE_IamRO_Blackstar_Cane_Creator = 106,
+	WEAPONTYPE_IamRO_Blackstar_Sword = 107,
+	WEAPONTYPE_IamRO_Blackstar_Bow = 108,
+	WEAPONTYPE_IamRO_Elemental_Orbs = 109,
+	WEAPONTYPE_IamRO_Blackstar_Dagger_Assassin = 111,
+	WEAPONTYPE_IamRO_Blackstar_Axe = 112,
+	WEAPONTYPE_IamRO_Blackstar_Staff = 113,
+	WEAPONTYPE_IamRO_Blackstar_Crucifix = 114,
 }
 WeaponNameTable = {
 	[Weapon_IDs.WEAPONTYPE_NONE] = "",
@@ -219,9 +225,14 @@ WeaponNameTable = {
 	[Weapon_IDs.WEAPONTYPE_Wizardy_Staff] = "_1473",
 	[Weapon_IDs.WEAPONTYPE_Quincy_Bow] = "_Quincy_Bow",
 	[Weapon_IDs.WEAPONTYPE_RUNICSTAFF] = "_RUNICSTAFF",
-	[Weapon_IDs.WEAPONTYPE_Wep_C_Noctis_Axe] = "_Wep_C_Noctis_Axe",
-	[Weapon_IDs.WEAPONTYPE_Wep_C_Noctis_Blade] = "_Wep_C_Noctis_Blade",
-	[Weapon_IDs.WEAPONTYPE_Wep_C_Noctis_Book] = "_Wep_C_Noctis_Book",
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Fist] = "_IamRO_Blackstar_Fist",
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Cane_Creator] = "_IamRO_Blackstar_Cane_Creator",
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Sword] = "_IamRO_Blackstar_Sword",
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Bow] = "_IamRO_Blackstar_Bow",
+	[Weapon_IDs.WEAPONTYPE_IamRO_Elemental_Orbs] = "_IamRO_Elemental_Orbs",
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Dagger_Assassin] = "_IamRO_Blackstar_Dagger_Assassin",
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Staff] = "_IamRO_Blackstar_Staff",
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Crucifix] = "_IamRO_Blackstar_Crucifix",
 }
 
 Expansion_Weapon_IDs = {
@@ -299,11 +310,16 @@ Expansion_Weapon_IDs = {
 	[Weapon_IDs.WEAPONTYPE_FOXTAIL_METAL] = Weapon_IDs.WEAPONTYPE_ROD,
 	[Weapon_IDs.WEAPONTYPE_Quincy_Bow] = Weapon_IDs.WEAPONTYPE_BOW,
 	[Weapon_IDs.WEAPONTYPE_RUNICSTAFF] = Weapon_IDs.WEAPONTYPE_ROD,
-	[Weapon_IDs.WEAPONTYPE_Wep_C_Noctis_Axe] = Weapon_IDs.WEAPONTYPE_AXE,
-	[Weapon_IDs.WEAPONTYPE_Wep_C_Noctis_Blade] = Weapon_IDs.WEAPONTYPE_SWORD,
-	[Weapon_IDs.WEAPONTYPE_Wep_C_Noctis_Book] = Weapon_IDs.WEAPONTYPE_BOOK,
-	[Weapon_IDs.WEAPONTYPE_Quincy_Bow] = Weapon_IDs.WEAPONTYPE_BOW,
-	
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Fist] = Weapon_IDs.WEAPONTYPE_KNUKLE,
+	[Weapon_IDs.WEAPONTYPE_IamROIamRO_Blackstar_Cane_Creator] = Weapon_IDs.WEAPONTYPE_MACE,
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Sword] = Weapon_IDs.WEAPONTYPE_MACE,
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Bow] = Weapon_IDs.WEAPONTYPE_BOW,
+	[Weapon_IDs.WEAPONTYPE_IamRO_Elemental_Orbs] = Weapon_IDs.WEAPONTYPE_ROD,
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Dagger_Assassin] = Weapon_IDs.WEAPONTYPE_SHORTSWORD,
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Axe] = Weapon_IDs.WEAPONTYPE_AXE,
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Staff] = Weapon_IDs.WEAPONTYPE_ROD,
+	[Weapon_IDs.WEAPONTYPE_IamRO_Blackstar_Crucifix] = Weapon_IDs.WEAPONTYPE_ROD,
+
 }
 WeaponHitWaveNameTable = {
 	[Weapon_IDs.WEAPONTYPE_NONE] = "_hit_mace.wav",
@@ -344,5 +360,6 @@ BowTypeList = {
 	Weapon_IDs.WEAPONTYPE_Kakkung,
 	Weapon_IDs.WEAPONTYPE_Hunter_Bow,
 	Weapon_IDs.WEAPONTYPE_Bow_Of_Rudra,
-	Weapon_IDs.WEAPONTYPE_Quincy_Bow
+	Weapon_IDs.WEAPONTYPE_Quincy_Bow,
+	Weapon_IDs.WEAPONTYPE_Blackstar_Bow
 }

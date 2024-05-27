@@ -7,4 +7,4 @@
 *.grf
 game_crash_log.txt
 /savedata
-/savedata
+savedata/OptionInfo.lua

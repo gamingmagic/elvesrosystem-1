@@ -109,7 +109,10 @@ Weapon_IDs = {
 	WEAPONTYPE_CandyCaneRod = 101,
 	WEAPONTYPE_FOXTAIL_METAL = 102,
 	WEAPONTYPE_Quincy_Bow = 103,
-	WEAPONTYPE_RUNICSTAFF = 104
+	WEAPONTYPE_RUNICSTAFF = 104,
+	WEAPONTYPE_Wep_C_Noctis_Axe = 105,
+	WEAPONTYPE_Wep_C_Noctis_Blade = 106,
+	WEAPONTYPE_Wep_C_Noctis_Book = 107,
 }
 WeaponNameTable = {
 	[Weapon_IDs.WEAPONTYPE_NONE] = "",
@@ -215,8 +218,12 @@ WeaponNameTable = {
 	[Weapon_IDs.WEAPONTYPE_Staff_Of_Soul] = "_1472",
 	[Weapon_IDs.WEAPONTYPE_Wizardy_Staff] = "_1473",
 	[Weapon_IDs.WEAPONTYPE_Quincy_Bow] = "_Quincy_Bow",
-	[Weapon_IDs.WEAPONTYPE_RUNICSTAFF] = "_RUNICSTAFF"
+	[Weapon_IDs.WEAPONTYPE_RUNICSTAFF] = "_RUNICSTAFF",
+	[Weapon_IDs.WEAPONTYPE_Wep_C_Noctis_Axe] = "_Wep_C_Noctis_Axe",
+	[Weapon_IDs.WEAPONTYPE_Wep_C_Noctis_Blade] = "_Wep_C_Noctis_Blade",
+	[Weapon_IDs.WEAPONTYPE_Wep_C_Noctis_Book] = "_Wep_C_Noctis_Book",
 }
+
 Expansion_Weapon_IDs = {
 	[Weapon_IDs.WEAPONTYPE_Main_Gauche] = Weapon_IDs.WEAPONTYPE_SHORTSWORD,
 	[Weapon_IDs.WEAPONTYPE_Stiletto] = Weapon_IDs.WEAPONTYPE_SHORTSWORD,
@@ -291,7 +298,11 @@ Expansion_Weapon_IDs = {
 	[Weapon_IDs.WEAPONTYPE_CandyCaneRod] = Weapon_IDs.WEAPONTYPE_ROD,
 	[Weapon_IDs.WEAPONTYPE_FOXTAIL_METAL] = Weapon_IDs.WEAPONTYPE_ROD,
 	[Weapon_IDs.WEAPONTYPE_Quincy_Bow] = Weapon_IDs.WEAPONTYPE_BOW,
-	[Weapon_IDs.WEAPONTYPE_RUNICSTAFF] = Weapon_IDs.WEAPONTYPE_ROD
+	[Weapon_IDs.WEAPONTYPE_RUNICSTAFF] = Weapon_IDs.WEAPONTYPE_ROD,
+	[Weapon_IDs.WEAPONTYPE_Wep_C_Noctis_Axe] = Weapon_IDs.WEAPONTYPE_AXE,
+	[Weapon_IDs.WEAPONTYPE_Wep_C_Noctis_Blade] = Weapon_IDs.WEAPONTYPE_SWORD,
+	[Weapon_IDs.WEAPONTYPE_Wep_C_Noctis_Book] = Weapon_IDs.WEAPONTYPE_BOOK,
+	[Weapon_IDs.WEAPONTYPE_Quincy_Bow] = Weapon_IDs.WEAPONTYPE_BOW,
 	
 }
 WeaponHitWaveNameTable = {

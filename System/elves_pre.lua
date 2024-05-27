@@ -88100,7 +88100,7 @@ tbl = {
 		identifiedDisplayName = "Costume Labrys Axe",
 		identifiedResourceName = "C_Labrys",
 		identifiedDescriptionName = {
-			"---------------",				
+			"A replica of a giant double-edged axe. It looks heavy to lift, but it's a costume, so it's okay!",	
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Garment",
@@ -92858,6 +92858,74 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
+	},
+	[70454] = {
+		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "[C]Noctis Axe",
+		identifiedResourceName = "Wep_C_Noctis_Axe",
+		identifiedDescriptionName = {
+			"Max Weight +500",
+			"_______________________",
+			"^0000CCType:^000000 Costume Weapon",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 105,
+		costume = true
+	},
+	[70455] = {
+		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "[C]Noctis Blade",
+		identifiedResourceName = "Wep_C_Noctis_Blade",
+		identifiedDescriptionName = {
+			"Max Weight +500",
+			"_______________________",
+			"^0000CCType:^000000 Costume Weapon",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 106,
+		costume = true
+	},
+	[70456] = {
+		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "[C]Noctis Book",
+		identifiedResourceName = "Wep_C_Noctis_Book",
+		identifiedDescriptionName = {
+			"Max Weight +500",
+			"_______________________",
+			"^0000CCType:^000000 Costume Weapon",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 107,
+		costume = true
+	},
+	[70457] = {
+		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "[C]Noctis Bow",
+		identifiedResourceName = "Wep_C_Noctis_Bow",
+		identifiedDescriptionName = {
+			"Max Weight +500",
+			"_______________________",
+			"^0000CCType:^000000 Costume Weapon",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 108,
+		costume = true
 	},
 }
 

@@ -28,6 +28,7 @@
 64 @ Bug Fix (Recommended)
 65 Load Custom lua file instead of iteminfo*.lub (Recommended)
 69 Extend Npc Dialog Box
+72 Ignore Missing Palette Error
 73 Remove Hourly Announce (Recommended)
 74 Increase Screenshot Quality
 76 Enforce Official Login Background
@@ -41,7 +42,6 @@
 231 Remove hardcoded address/port (Recommended)
 232 Restore old login packet (Recommended)
 242 Disable kRO Site Launch
-268 Restore chat focus
 270 Change AchievementList*.lub path
 271 Change MonsterSizeEffect*.lub path
 273 Change PetEvolutionCln*.lub path
@@ -54,25 +54,21 @@
 283 Change fade in/out delay
 290 Hide build info in client (Recommended)
 313 Change MapInfo*.lub path
-317 Ignore Quest Errors
+315 Highlight Skillslot Color
 319 Opening To Service Select
 323 Restore Songs Effect
-324 Change second char create job
 326 Disable OTP Login Packet (Recommended)
 331 Disable Blind skills effect
 338 Additional client validation (Recommended)
 344 Mvp Drop Item Use Identified Name
 348 Send client flags to server (Recommended)
 349 Enable GvG Damage display
-396 Change all load fonts charset
 404 Use borderless mode in full screen (Recommended)
 415 Remove blured background from new char creation window
 427 Check is servertype in xml file was set to correct value (Recommended)
 429 Protect shorten and bold name flags
+448 Adjust font size for drawed text messages
 475 Remove trait open button from status window
-477 Use Custom dll in simple way
 481 Remove the limit of max number displayed in damage/heal 
 484 Show error message if server send wrong packet (Recommended)
 485 Restore loading clientinfo.xml (Recommended)
-486 Change coin id for buy emote packs
-489 Allow repeate/spam keys

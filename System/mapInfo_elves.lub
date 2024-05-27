@@ -830,7 +830,7 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_lib.rsw"] = {
-		displayName = "도서관 기억의 회랑",
+		displayName = "μμ¼­°u ±a¾iAC E¸¶u",
 		notifyEnter = true, 
 		signName = {
 			subTitle = "Library",

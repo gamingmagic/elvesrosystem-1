@@ -93018,7 +93018,7 @@ tbl = {
 		ClassNum = 114,
 		costume = true
 	},
-	[70463] = {
+	[70464] = {
 		unidentifiedDisplayName = "Costume Bursting Flame",
 		unidentifiedResourceName = "ĸ",
 		unidentifiedDescriptionName = {

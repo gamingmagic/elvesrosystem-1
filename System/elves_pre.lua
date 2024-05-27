@@ -92866,7 +92866,7 @@ tbl = {
 		identifiedDisplayName = "[C]Crimson Fist",
 		identifiedResourceName = "IamRO_Blackstar_Fist",
 		identifiedDescriptionName = {
-			"Max Weight +500",
+			"Max Weight +1,000",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -92883,7 +92883,7 @@ tbl = {
 		identifiedDisplayName = "[C]Crimson Cane Creator",
 		identifiedResourceName = "IamRO_Blackstar_Cane_Creator",
 		identifiedDescriptionName = {
-			"Max Weight +500",
+			"Max Weight +1,000",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -92900,7 +92900,7 @@ tbl = {
 		identifiedDisplayName = "[C]Crimson Sword",
 		identifiedResourceName = "IamRO_Blackstar_Sword",
 		identifiedDescriptionName = {
-			"Max Weight +500",
+			"Max Weight +1,000",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -92917,7 +92917,7 @@ tbl = {
 		identifiedDisplayName = "[C]Crimson Bow",
 		identifiedResourceName = "IamRO_Blackstar_Bow",
 		identifiedDescriptionName = {
-			"Max Weight +500",
+			"Max Weight +1,000",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -92934,7 +92934,7 @@ tbl = {
 		identifiedDisplayName = "[C]Crimson Orb",
 		identifiedResourceName = "IamRO_Elemental_Orbs",
 		identifiedDescriptionName = {
-			"Max Weight +500",
+			"Max Weight +1,000",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -92951,7 +92951,7 @@ tbl = {
 		identifiedDisplayName = "[C]Crimson Dagger Assassin",
 		identifiedResourceName = "IamRO_Blackstar_Dagger_Assassin",
 		identifiedDescriptionName = {
-			"Max Weight +500",
+			"Max Weight +1,000",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -92968,7 +92968,7 @@ tbl = {
 		identifiedDisplayName = "[C]Crimson Axe",
 		identifiedResourceName = "IamRO_Blackstar_Axe",
 		identifiedDescriptionName = {
-			"Max Weight +500",
+			"Max Weight +1,000",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -92985,7 +92985,7 @@ tbl = {
 		identifiedDisplayName = "[C]Crimson Staff",
 		identifiedResourceName = "IamRO_Blackstar_Staff",
 		identifiedDescriptionName = {
-			"Max Weight +500",
+			"Max Weight +1,000",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",
@@ -93002,7 +93002,7 @@ tbl = {
 		identifiedDisplayName = "[C]Crimson Crucifix",
 		identifiedResourceName = "IamRO_Blackstar_Crucifix",
 		identifiedDescriptionName = {
-			"Max Weight +500",
+			"Max Weight +1,000",
 			"_______________________",
 			"^0000CCType:^000000 Costume Weapon",
 			"_______________________",

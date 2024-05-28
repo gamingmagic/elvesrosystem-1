@@ -81042,7 +81042,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Mask",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Atlantis Aura",
+		identifiedDisplayName = "Costume Omni Aura",
 		identifiedResourceName = "atlantis_aura",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",

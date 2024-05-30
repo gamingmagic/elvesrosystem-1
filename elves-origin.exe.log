@@ -69,7 +69,6 @@
 429 Protect shorten and bold name flags
 448 Adjust font size for drawed text messages
 475 Remove trait open button from status window
-477 Use Custom dll in simple way
 481 Remove the limit of max number displayed in damage/heal 
 484 Show error message if server send wrong packet (Recommended)
 485 Restore loading clientinfo.xml (Recommended)

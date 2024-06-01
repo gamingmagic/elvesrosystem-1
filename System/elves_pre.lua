@@ -20505,6 +20505,7 @@ tbl = {
 		identifiedResourceName = "로드카호의뿔",
 		identifiedDescriptionName = {
 			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"<NAVI>Lord Kaho's Servant<INFO>geffen,115,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"STR +5",
 			"INT +5",

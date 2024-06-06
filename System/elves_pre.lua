@@ -79661,7 +79661,7 @@ tbl = {
 			"TCG Card.",
 			"Ingame Currency",
 			"_______________________",
-			"<NAVI>[Your Reputation]<INFO>prontera,155,188,0,100,0,0</INFO></NAVI> Can be farm.",
+			"<NAVI>[Coin trader]<INFO>prontera,147,171,0,100,0,0</INFO></NAVI> Can be purchase via Coin trader.",
 			"_______________________",
 			"<NAVI>[Payon Invasion]<INFO>payon,176,311,0,100,0,0</INFO></NAVI> Obtainable during Payon Invasion Event.",
 			"_______________________",
@@ -85318,7 +85318,7 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"MaxHP +100%",
-			"Reduce physical and magical defense by 25%.",
+			"Reduce physical and magical defense by 40%.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^00CC33 Armor^000000",
 			"Weight:^009900 1^000000"
@@ -93035,6 +93035,101 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 3000
+	},
+	[673] = {
+		unidentifiedDisplayName = "Bronze Coin",
+		unidentifiedResourceName = "동화",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Bronze Coin",
+		identifiedResourceName = "동화",
+		identifiedDescriptionName = {
+			"A coin made of bronze sealed with 10m Zeny.",
+			"_______________________",
+			"<NAVI>[Coin trader]<INFO>prontera,147,171,0,100,0,0</INFO></NAVI> Can be purchase via Coin trader.",
+			"_______________________",
+			"<NAVI>[Payon Invasion]<INFO>payon,176,311,0,100,0,0</INFO></NAVI> Obtainable during Payon Invasion Event.",
+			"_______________________",
+			"^0000CCWeight:^000000 4"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[675] = {
+		unidentifiedDisplayName = "Roulette Silver Coin",
+		unidentifiedResourceName = "은화",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Silver Coin",
+		identifiedResourceName = "은화",
+		identifiedDescriptionName = {
+			"A coin made of Silver sealed with 20m Zeny.",
+			"_______________________",
+			"<NAVI>[Coin trader]<INFO>prontera,147,171,0,100,0,0</INFO></NAVI> Can be purchase via Coin trader.",
+			"_______________________",
+			"<NAVI>[Payon Invasion]<INFO>payon,176,311,0,100,0,0</INFO></NAVI> Obtainable during Payon Invasion Event.",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[671] = {
+		unidentifiedDisplayName = "Roulette Gold Coin",
+		unidentifiedResourceName = "금화",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Gold Coin",
+		identifiedResourceName = "금화",
+		identifiedDescriptionName = {
+			"A coin made of Gold sealed with 30m Zeny.",
+			"_______________________",
+			"<NAVI>[Coin trader]<INFO>prontera,147,171,0,100,0,0</INFO></NAVI> Can be purchase via Coin trader.",
+			"_______________________",
+			"<NAVI>[Payon Invasion]<INFO>payon,176,311,0,100,0,0</INFO></NAVI> Obtainable during Payon Invasion Event.",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[674] = {
+		unidentifiedDisplayName = "Mythril Coin",
+		unidentifiedResourceName = "미스릴화",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Mythril Coin",
+		identifiedResourceName = "미스릴화",
+		identifiedDescriptionName = {
+			"A coin made of Mythril sealed with 40m Zeny.",
+			"_______________________",
+			"<NAVI>[Coin trader]<INFO>prontera,147,171,0,100,0,0</INFO></NAVI> Can be purchase via Coin trader.",
+			"_______________________",
+			"<NAVI>[Payon Invasion]<INFO>payon,176,311,0,100,0,0</INFO></NAVI> Obtainable during Payon Invasion Event.",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[677] = {
+		unidentifiedDisplayName = "Platinum Coin",
+		unidentifiedResourceName = "백금화",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "Platinum Coin",
+		identifiedResourceName = "백금화",
+		identifiedDescriptionName = {
+			"A coin made of Platinum sealed with 50m Zeny.",
+			"_______________________",
+			"<NAVI>[Coin trader]<INFO>prontera,147,171,0,100,0,0</INFO></NAVI> Can be purchase via Coin trader.",
+			"_______________________",
+			"<NAVI>[Payon Invasion]<INFO>payon,176,311,0,100,0,0</INFO></NAVI> Obtainable during Payon Invasion Event.",
+			"_______________________",
+			"^0000CCWeight:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
 	},
 }
 

@@ -24,6 +24,7 @@
 47 Use Ragnarok Icon
 48 Use Plain Text Descriptions (Recommended)
 49 Enable Multiple GRFs (Recommended)
+52 Use Custom Font
 53 Use Ascii on All LangTypes (Recommended)
 64 @ Bug Fix (Recommended)
 65 Load Custom lua file instead of iteminfo*.lub (Recommended)
@@ -65,7 +66,6 @@
 338 Additional client validation (Recommended)
 344 Mvp Drop Item Use Identified Name
 348 Send client flags to server (Recommended)
-349 Enable GvG Damage display
 404 Use borderless mode in full screen (Recommended)
 415 Remove blured background from new char creation window
 427 Check is servertype in xml file was set to correct value (Recommended)

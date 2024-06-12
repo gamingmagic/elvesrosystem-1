@@ -2483,9 +2483,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Bluedragon = 2494, -- todo
 	ACCESSORY_YellowKitty_HeadPhone = 2495,
 	ACCESSORY_PGstone_Knit_Hat_GR = 2496,
-
---Elvesro
-	ACCESSORY_SPIRITAURA_BLK = 2700,
+	ACCESSORY_SPIRITAURA_BLK = 2700, --Elvesro
 	ACCESSORY_SPIRITAURA_BLU = 2701,
 	ACCESSORY_SPIRITAURA_GRN = 2702,
 	ACCESSORY_SPIRITAURA_GRY = 2703,
@@ -2605,7 +2603,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_THOR_PURPLE	=	2818,
 	ACCESSORY_THOR_RED	=	2819,
 	ACCESSORY_pinkgodaura	=	2820,
-	--addnew
 	ACCESSORY_ZEUS_BLUE	=	2901,
 	ACCESSORY_ZEUS_GREEN	=	2902,
 	ACCESSORY_ZEUS_ORANGE	=	2903,
@@ -2664,7 +2661,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_animated_mario_cap = 2956,
 	ACCESSORY_atlantis_aura = 2957,
 	ACCESSORY_Mentor_Hokage_Hat = 2958,
-
 	ACCESSORY_Yellow_Hokage_Hat = 2959,
 	ACCESSORY_Green_Hokage_Hat = 2960,
 	ACCESSORY_White_Hokage_Hat = 2961,
@@ -2672,7 +2668,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_Estefan_Divine_Aura = 2963,
 	ACCESSORY_Ice_Chakra_Aura_1 = 2964,
 	ACCESSORY_saiyan3 = 2965,
-
 	ACCESSORY_mysticalgodaura = 2966,
 	ACCESSORY_Black_Chakra_of_Destiny = 2967,
 	ACCESSORY_headprotector_earth = 2968,
@@ -2728,7 +2723,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_Glowing_VH_Sunburst = 3018,
 	ACCESSORY_Hat_Halo_Black = 3019,
 	ACCESSORY_Hat_Halo_Red = 3020,
-	ACCESSORY_Glowing_VH_Neon_Pink = 3021,
-	ACCESSORY_Glowing_VH_Neon_Pink = 3022,
-	
+	ACCESSORY_Mid_Hollow = 3021,
+	ACCESSORY_Mid_Full_Hallow = 3022,
+	ACCESSORY_Mid_Full_Hallow_2 = 3023,
 }

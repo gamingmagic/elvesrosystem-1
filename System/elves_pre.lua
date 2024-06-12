@@ -75224,1048 +75224,6 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
-	[50142] = {
-		unidentifiedDisplayName = "Mado Capsule",
-		unidentifiedResourceName = "ÆøÅº¸µ»óÀÚ",
-		unidentifiedDescriptionName = {
-
-		},
-		identifiedDisplayName = "Mado Capsule",
-		identifiedResourceName = "ÆøÅº¸µ»óÀÚ",
-		identifiedDescriptionName = {
-		
-		"^FFFFFF^000000",
-		"^0000CCWeight:^000000 1"
-		},
-		slotCount = 0,
-		ClassNum = 0
-	},
-	[50143] = {
-		unidentifiedDisplayName = "Unidentified Spear",
-		unidentifiedResourceName = "Àðº§¸°",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "[Elves]RO Imperial Spear",
-		identifiedResourceName = "ÀÓÆä¸®¾ó½ºÇÇ¾î",
-		identifiedDescriptionName = {
-			"A beautiful spear engraved with patterns of the Rune-Midgarts Kingdom.",
-			"_______________________",
-			"MATK +40",
-			"_______________________",
-			"Increases damage of ^009900Cannon Spear^000000 and ^009900Banishing Point^000000 by 20%.",
-			"Additional 3% damage increase for every 2 refine level.",
-			"_______________________",
-			"^0000CCType:^000000 One-Handed Spear",
-			"^0000CCAttack:^000000 180",
-			"^0000CCWeight:^000000 180",
-			"^0000CCWeapon Level:^000000 3",
-			"^0000CCRefinable:^000000 Yes",
-			"^0000CCCan be enchanted by:^000000",
-			"<NAVI>Mayomayo<INFO>malangdo,213,167,0,100,0,0</INFO></NAVI>",
-			"_______________________",
-			"^0000CCRequirement:^000000",
-			"Base level 102",
-			"Royal Guard"
-		},
-		slotCount = 4,
-		ClassNum = 4
-	},
-	[50144] = {
-		unidentifiedDisplayName = "Costume Pikachu Balloon",
-		unidentifiedResourceName = "Pikachu_Balloon",
-		unidentifiedDescriptionName = {
-			"Costume: Pikachu Balloon",
-		},
-		identifiedDisplayName = "Costume Pikachu Balloon",
-		identifiedResourceName = "Pikachu_Balloon",
-		identifiedDescriptionName = {
-			"A pikachu balloon!",
-			"Class : ^777777Costume^000000",
-			"Location : ^777777Upper ^000000",
-			"Defense : ^7777770^000000",
-			"Weight : ^7777770^000000",
-			"Required Level : ^7777771^000000",
-			"Jobs : ^777777All^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3353
-	},
-	[50145] = {
-		unidentifiedDisplayName = "Unidentified Hat",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Lily Pad",
-		identifiedResourceName = "ÆÄÆ¼±¸ÇÔ¸ðÀÚ",
-		identifiedDescriptionName = {
-			"-Friends wanted-",
-			"A costume hat for advertising, which means that we are looking for people to make friends with.",
-			"Let's call out together!",
-			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Upper",
-			"^0000CCWeight:^000000 0",
-			"_______________________",
-			"^0000CCRequirement:^000000 None"
-		},
-		slotCount = 0,
-		ClassNum = 3284
-	},
-	[50146] = {
-		unidentifiedDisplayName = "Unidentified Hat",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Black Love Daddy Hat",
-		identifiedResourceName = "Black_Love_Daddy_Hat",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3285
-	},
-	[50147] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "¸®º»",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Heart_Ring",
-		identifiedResourceName = "Heart_Ring",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3286
-	},
-	[50148] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Black_Scarf",
-		identifiedResourceName = "Black_Scarf",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3297
-	},
-	[50149] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Blue_Scarf",
-		identifiedResourceName = "Blue_Scarf",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3296
-	},
-	[50150] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Cyan_Scarf",
-		identifiedResourceName = "Cyan_Scarf",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3295
-	},
-	[50151] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Gold_Scarf",
-		identifiedResourceName = "Gold_Scarf",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3294
-	},
-	[50152] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Green_Scarf",
-		identifiedResourceName = "Green_Scarf",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3293
-	},
-	[50153] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Halloween_Scarf",
-		identifiedResourceName = "Halloween_Scarf",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3292
-	},
-	[50154] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Pink_Scarf",
-		identifiedResourceName = "Pink_Scarf",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3291
-	},
-	[50155] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Red_Scarf",
-		identifiedResourceName = "Red_Scarf",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3290
-	},
-	[50156] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Santa_Scarf",
-		identifiedResourceName = "Santa_Scarf",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3289
-	},
-	[50157] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "DeathNotes_Purple_Scarf",
-		identifiedResourceName = "DeathNotes_Purple_Scarf",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3287
-	},
-	[50158] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Scarf",
-		identifiedResourceName = "Scarf",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3288
-	},
-	[50159] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "XMAS_HAMSTER",
-		identifiedResourceName = "XMAS_HAMSTER",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3298
-	},
-	[50160] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "KAZEKAGE_HAT",
-		identifiedResourceName = "KOKOROKAGE_HAT",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3299
-	},
-	[50161] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "KOKOROKAGE_HAT",
-		identifiedResourceName = "KOKOROKAGE_HAT",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3300
-	},
-	[50162] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "MIZUKAGE_HAT",
-		identifiedResourceName = "KOKOROKAGE_HAT",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3301
-	},
-	[50163] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "RAIKAGE_HAT",
-		identifiedResourceName = "KOKOROKAGE_HAT",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3302
-	},
-	[50164] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "TSUCHIKAGE_HAT",
-		identifiedResourceName = "KOKOROKAGE_HAT",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3303
-	},
-	[50165] = {
-		unidentifiedDisplayName = "Unidentified Ribbon",
-		unidentifiedResourceName = "ÇÞ",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "White_Chakra",
-		identifiedResourceName = "White_Chakra",
-		identifiedDescriptionName = {
-			""
-		},
-		slotCount = 0,
-		ClassNum = 3304
-	},
-	[50165] = {
-		unidentifiedDisplayName = "Costume White Chakra",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume White Chakra",
-		identifiedResourceName = "White_Chakra",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3304
-	},
-	[50166] = {
-		unidentifiedDisplayName = "Costume Red Chakra",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Red Chakra",
-		identifiedResourceName = "Red_Chakra",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3305
-	},
-	[50167] = {
-		unidentifiedDisplayName = "Costume Yellow Chakra",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Yellow Chakra",
-		identifiedResourceName = "Yellow_Chakra",
-		identifiedDescriptionName = {
-			"+1 Allstats & +3%Demi Human Resistance",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3306
-	},
-	[50168] = {
-		unidentifiedDisplayName = "Costume Nightmare Chakra",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Nightmare Chakra",
-		identifiedResourceName = "Nightmare_Chakra",
-		identifiedDescriptionName = {
-			"+1 Allstats & +3% Base Attack Rate",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3307
-	},
-	[50169] = {
-		unidentifiedDisplayName = "Costume Chakra Destiny",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Chakra Destiny",
-		identifiedResourceName = "chakra_destiny",
-		identifiedDescriptionName = {
-			"An energy that gives light to dark souls. Given by GM-Spen as a treat to the best artist of Halloween 2019. +1 all stats, +3% resistance from players.",
-			"Class: ^777777lower^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3308
-	},
-	[50170] = {
-		unidentifiedDisplayName = "Costume Water Goddess Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Water Goddess Aura",
-		identifiedResourceName = "Water_Goddess_Aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3325
-	},
-	[50171] = {
-		unidentifiedDisplayName = "Costume Ying Yang Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Ying Yang Aura",
-		identifiedResourceName = "Ying_Yang_Aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3329
-	},
-	[50172] = {
-		unidentifiedDisplayName = "Costume Yellow Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Yellow Aura",
-		identifiedResourceName = "yellowaura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3328
-	},
-	[50173] = {
-		unidentifiedDisplayName = "Costume White Perfect Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume White Perfect Aura",
-		identifiedResourceName = "White_Perfect_Aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3327
-	},
-	[50174] = {
-		unidentifiedDisplayName = "Costume White Bubbles Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume White Bubbles Aura",
-		identifiedResourceName = "white_bubbles_aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3326
-	},
-
-	[50175] = {
-		unidentifiedDisplayName = "Costume purple spirit aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume purple spirit aura",
-		identifiedResourceName = "purple_spirit_aura",
-		identifiedDescriptionName = {
-			"+3% matk",
-			"Class: ^777777Garment^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3324
-	},
-	[50176] = {
-		unidentifiedDisplayName = "Costume phoenix aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume phoenix aura",
-		identifiedResourceName = "phoenix_b_aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Lower^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3323
-	},
-	[50177] = {
-		unidentifiedDisplayName = "Costume Orange Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Orange Aura",
-		identifiedResourceName = "orangeauras1lykos",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Lower^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3322
-	},
-	[50178] = {
-		unidentifiedDisplayName = "Costume Omni Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Omni Aura",
-		identifiedResourceName = "omnis_aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3321
-	},
-	[50179] = {
-		unidentifiedDisplayName = "Costume Hof Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Hof Aura",
-		identifiedResourceName = "hof_aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3320
-	},
-	[50180] = {
-		unidentifiedDisplayName = "Costume Fallen Gladiator Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Fallen Gladiator Aura",
-		identifiedResourceName = "Fallen_Gladiator_Aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3319
-	},
-	[50181] = {
-		unidentifiedDisplayName = "Costume Purple Perfect Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Purple Perfect Aura",
-		identifiedResourceName = "DPurple_Perfect_Aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3318
-	},
-	[50182] = {
-		unidentifiedDisplayName = "Costume Blue Perfect Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Blue Perfect Aura",
-		identifiedResourceName = "Blue_Perfect_Aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3317
-	},
-	[50183] = {
-		unidentifiedDisplayName = "Costume Blue Bubbles Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Blue Bubbles Aura",
-		identifiedResourceName = "blue_bubbles_aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3316
-	},
-	[50184] = {
-		unidentifiedDisplayName = "Costume Black Red LHZ Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Black Red LHZ Aura",
-		identifiedResourceName = "Black_Red_LHZ_Aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3315
-	},
-	[50185] = {
-		unidentifiedDisplayName = "Costume Black Perfect Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Black Perfect Aura",
-		identifiedResourceName = "Black_Perfect_Aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3314
-	},
-	[50186] = {
-		unidentifiedDisplayName = "Costume Black Chakra",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Black Chakra",
-		identifiedResourceName = "Black_Chakra",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3309
-	},
-	[50187] = {
-		unidentifiedDisplayName = "Costume Aura Mystical Gladiator",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Aura Mystical Gladiator",
-		identifiedResourceName = "aura_mystical_gladiator",
-		identifiedDescriptionName = {
-			"+3 Allstats",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3313
-	},
-	[50188] = {
-		unidentifiedDisplayName = "Costume ArchDevil Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume ArchDevil Aura",
-		identifiedResourceName = "archdevil_aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3312
-	},
-	[50189] = {
-		unidentifiedDisplayName = "Costume Amaterasu_Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Amaterasu_Aura",
-		identifiedResourceName = "Amaterasu_Aura",
-		identifiedDescriptionName = {
-			"+1 Allstats & +3% Resistance in all Elements",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3311
-	},
-	[50190] = {
-		unidentifiedDisplayName = "Costume Abbadon Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Abbadon Aura",
-		identifiedResourceName = "Abbadon_Aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3310
-	},
-	[50042] = {
-		unidentifiedDisplayName = "Costume God Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume God Aura",
-		identifiedResourceName = "godaura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3283
-	},
-	[50191] = {
-		unidentifiedDisplayName = "Costume Air Pressure",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Costume Air Pressure",
-		identifiedResourceName = "Air_Pressure",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Low Head Gear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3330
-	},
-	[50192] = {
-		unidentifiedDisplayName = "Costume SpongeBob Head",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "SpongeBob Head",
-		identifiedResourceName = "bobsponja",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3337
-	},
-	[50193] = {
-		unidentifiedDisplayName = "Black Goku Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Black Goku Aura",
-		identifiedResourceName = "Black_Goku_Aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3335
-	},
-	[50194] = {
-		unidentifiedDisplayName = "Black Goku Hair",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Black Goku Hair",
-		identifiedResourceName = "black_goku_hair",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3334
-	},
-	[50195] = {
-		unidentifiedDisplayName = "Saiyan God Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Saiyan God Aura",
-		identifiedResourceName = "saiyan_god_aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3333
-	},
-	[50196] = {
-		unidentifiedDisplayName = "Saiyan God Hair",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Saiyan God Hair",
-		identifiedResourceName = "saiyan_god_hair",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3332
-	},
-	[50197] = {
-		unidentifiedDisplayName = "Super Saiyan 3 Hair",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Super Saiyan 3 Hair",
-		identifiedResourceName = "super_saiyan_3",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3331
-	},
-	[50198] = {
-		unidentifiedDisplayName = "Red Hakage Hat",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Red Hakage Hat",
-		identifiedResourceName = "Hokage_Hat",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3349
-	},
-	[50199] = {
-		unidentifiedDisplayName = "Ringing Phone",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Ringing Phone",
-		identifiedResourceName = "RingingPhone",
-		identifiedDescriptionName = {
-			"Legend has it, the entity on the other line is from the afterlife. He does not speak when you pick up the phone",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3347
-	},
-	[50200] = {
-		unidentifiedDisplayName = "Owly",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Owly",
-		identifiedResourceName = "OwlHat",
-		identifiedDescriptionName = {
-			"Hoot hooot goes the owl~",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3346
-	},
-	[50201] = {
-		unidentifiedDisplayName = "Hot Teapot",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Hot Teapot",
-		identifiedResourceName = "HotTeapot",
-		identifiedDescriptionName = {
-			"Surprisingly, this teapot boils on its own yet the person's head remains cool to touch!",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3345
-	},
-	[50202] = {
-		unidentifiedDisplayName = "Saiyan Aura",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Saiyan Aura",
-		identifiedResourceName = "Saiyan_Aura",
-		identifiedDescriptionName = {
-			" ",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3352
-	},
-	[50203] = {
-		unidentifiedDisplayName = "Lupus Cover",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Lupus Cover",
-		identifiedResourceName = "Lupus",
-		identifiedDescriptionName = {
-			"A helm made from a beast's fur, it makes you look more dangerous that you really are",
-			"Class: ^777777Costume^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3350
-	},
-	[50204] = {
-		unidentifiedDisplayName = "Felinus Cover",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Felinus Cover",
-		identifiedResourceName = "felinus",
-		identifiedDescriptionName = {
-			"A helm made from a beast's fur, it makes you look more dangerous that you really are",
-			"Class: ^777777Costume^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 0,
-		ClassNum = 3348
-	},
-	[50205] = {
-		unidentifiedDisplayName = "Chubby Chick",
-		unidentifiedResourceName = "Ä¸",
-		unidentifiedDescriptionName = {
-		},
-		identifiedDisplayName = "Chubby Chick",
-		identifiedResourceName = "Chubby_Chick",
-		identifiedDescriptionName = {
-			"A chubby little chick that happily bounces on the head of it's owner",
-			"Demi-Human resistance + 10%",
-			"Base HP + 2%",
-			"Class: ^777777Headgear^000000",
-			"Defense: ^7777770^000000",
-			"^0000CCWeight:^000000 0",
-			"Applicable Job: ^777777Every Job^000000",
-		},
-		slotCount = 1,
-		ClassNum = 3344
-	},
 	[30037] = {
 		unidentifiedDisplayName = "Battleground Token",
 		unidentifiedResourceName = "±ÝÈ­",
@@ -93130,6 +92088,535 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
+	},
+	[70465] = {
+		unidentifiedDisplayName = "Costume Aura",
+		unidentifiedResourceName = "Ä¸",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "God Aura (Black)",
+		identifiedResourceName = "Aura_God_Black",
+		identifiedDescriptionName = {
+			"Emitting an aura of God. Be careful! It's intensely hot!",
+			"Class: ^777777Low Head Gear^000000",
+			"Defense: ^7777770^000000",
+			"^0000CCWeight:^000000 0",
+			"Applicable Job: ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 3002,
+	},
+	[70466] = {
+		unidentifiedDisplayName = "Costume Aura",
+		unidentifiedResourceName = "Ä¸",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "God Aura (Blue)",
+		identifiedResourceName = "Aura_God_Blue",
+		identifiedDescriptionName = {
+			"Emitting an aura of God. Be careful! It's intensely hot!",
+			"Class: ^777777Low Head Gear^000000",
+			"Defense: ^7777770^000000",
+			"^0000CCWeight:^000000 0",
+			"Applicable Job: ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 3003,
+	},
+	[70467] = {
+		unidentifiedDisplayName = "Costume Aura",
+		unidentifiedResourceName = "Ä¸",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "God Aura (Gold)",
+		identifiedResourceName = "Aura_God_Gold",
+		identifiedDescriptionName = {
+			"Emitting an aura of God. Be careful! It's intensely hot!",
+			"Class: ^777777Low Head Gear^000000",
+			"Defense: ^7777770^000000",
+			"^0000CCWeight:^000000 0",
+			"Applicable Job: ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 3004,
+	},
+	[70468] = {
+		unidentifiedDisplayName = "Costume Aura",
+		unidentifiedResourceName = "Ä¸",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "God Aura (Navy Blue)",
+		identifiedResourceName = "Aura_God_Navy_Blue",
+		identifiedDescriptionName = {
+			"Emitting an aura of God. Be careful! It's intensely hot!",
+			"Class: ^777777Low Head Gear^000000",
+			"Defense: ^7777770^000000",
+			"^0000CCWeight:^000000 0",
+			"Applicable Job: ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 3005,
+	},
+	[70469] = {
+		unidentifiedDisplayName = "Costume Aura",
+		unidentifiedResourceName = "Ä¸",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "God Aura (Red)",
+		identifiedResourceName = "Aura_God_Red",
+		identifiedDescriptionName = {
+			"Emitting an aura of God. Be careful! It's intensely hot!",
+			"Class: ^777777Low Head Gear^000000",
+			"Defense: ^7777770^000000",
+			"^0000CCWeight:^000000 0",
+			"Applicable Job: ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 3006,
+	},
+	[70470] = {
+		unidentifiedDisplayName = "Costume Aura",
+		unidentifiedResourceName = "Ä¸",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "God Aura (Pink)",
+		identifiedResourceName = "Aura_God_Pink",
+		identifiedDescriptionName = {
+			"Emitting an aura of God. Be careful! It's intensely hot!",
+			"Class: ^777777Low Head Gear^000000",
+			"Defense: ^7777770^000000",
+			"^0000CCWeight:^000000 0",
+			"Applicable Job: ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 3007,
+	},
+	[70471] = {
+		unidentifiedDisplayName = "Costume Aura",
+		unidentifiedResourceName = "Ä¸",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "God Aura (White)",
+		identifiedResourceName = "Aura_God_White",
+		identifiedDescriptionName = {
+			"Emitting an aura of God. Be careful! It's intensely hot!",
+			"Class: ^777777Low Head Gear^000000",
+			"Defense: ^7777770^000000",
+			"^0000CCWeight:^000000 0",
+			"Applicable Job: ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 3008,
+	},
+	[70472] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Angelic Valhalla Kaho's Horn",
+		identifiedResourceName = "Glowing_VH_Angelic",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3009,
+		costume = false
+	},
+	[70473] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Azure Valhalla Kaho's Horn",
+		identifiedResourceName = "Glowing_VH_Azure",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3010,
+		costume = false
+	},
+	[70474] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Bloody Valhalla Kaho's Horn",
+		identifiedResourceName = "Glowing_VH_Bloody",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3011,
+		costume = false
+	},
+	[70475] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Dark Valhalla Kaho's Horn",
+		identifiedResourceName = "Glowing_VH_Dark",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3012,
+		costume = false
+	},
+	[70476] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Divine Valhalla Kaho's Horn",
+		identifiedResourceName = "Glowing_VH_Divine",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3013,
+		costume = false
+	},
+	[70477] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Ice Valhalla Kaho's Horn",
+		identifiedResourceName = "Glowing_VH_Ice",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3014,
+		costume = false
+	},
+	[70478] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Mystic Valhalla Kaho's Horn",
+		identifiedResourceName = "Glowing_VH_Mystic",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3015,
+		costume = false
+	},
+	[70479] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Neon Valhalla Kaho's Horn",
+		identifiedResourceName = "Glowing_VH_Neon_Pink",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3016,
+		costume = false
+	},
+	[70480] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Skylight Valhalla Kaho's Horn",
+		identifiedResourceName = "Glowing_VH_Skylight",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3017,
+		costume = false
+	},
+	[70481] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Sunburst Valhalla Kaho's Horn",
+		identifiedResourceName = "Glowing_VH_Sunburst",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3018,
+		costume = false
+	},
+	[70482] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Evil Guidance Kaho's Horn",
+		identifiedResourceName = "Hat_Halo_Black",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3019,
+		costume = false
+	},
+	[70483] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Sacrifice Guidance Kaho's Horn",
+		identifiedResourceName = "Hat_Halo_Red",
+		identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"STR +5",
+			"INT +5",
+			"VIT +10",
+			"AGI +10",
+			"LUK +20",
+			"MDEF +10",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 5",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 10",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3020,
+		costume = false
+	},
+	[70484] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Hollow Mask",
+		identifiedResourceName = "Mid_Hollow",
+		identifiedDescriptionName = {
+			"The mask can be shattered, temporarily allowing the Hollow to regain its original identity, but it will regenerate after a short period once the Hollow takes over again.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3021,
+		costume = true
+	},
+	[70485] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Hollow Mask (Full)",
+		identifiedResourceName = "Mid_Full_Hallow",
+		identifiedDescriptionName = {
+			"The mask can be shattered, temporarily allowing the Hollow to regain its original identity, but it will regenerate after a short period once the Hollow takes over again.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3022,
+		costume = true
+	},
+	[70486] = {
+		unidentifiedDisplayName = "Unidentified Mask",
+		unidentifiedResourceName = "¸®º»",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Hollow Mask (Full 2)",
+		identifiedResourceName = "Mid_Full_Hallow_2",
+		identifiedDescriptionName = {
+			"The mask can be shattered, temporarily allowing the Hollow to regain its original identity, but it will regenerate after a short period once the Hollow takes over again.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Middle",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 3023,
+		costume = true
+	},
+	[70487] = {
+		unidentifiedDisplayName = "Costume Aura",
+		unidentifiedResourceName = "Ä¸",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "Destiny Aura",
+		identifiedResourceName = "Aura_Destiny",
+		identifiedDescriptionName = {
+			"Emitting an aura of Destiny.",
+			"Class: ^777777Low Head Gear^000000",
+			"Defense: ^7777770^000000",
+			"^0000CCWeight:^000000 0",
+			"Applicable Job: ^777777Every Job^000000",
+		},
+		slotCount = 0,
+		ClassNum = 3001,
 	},
 }
 

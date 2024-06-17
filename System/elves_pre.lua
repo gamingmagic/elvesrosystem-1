@@ -26496,7 +26496,7 @@ tbl = {
 		identifiedResourceName = "하키마스크",
 		identifiedDescriptionName = {
 			"This mask calls the urge to hold a weapon in one's hand and hurt people on the 13th of every month.",
-			"Increases physical damage inflicted on ^6666CCDemihuman^000000 monsters by 6%.",
+			"Increases physical damage inflicted on ^6666CCDemihuman^000000 monsters by 10%.",
 			"Class:^6666CC Headgear^000000",
 			"Defense:^0000FF 1^000000",
 			"Position:^6666CC Middle",

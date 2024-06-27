@@ -26496,7 +26496,7 @@ tbl = {
 		identifiedResourceName = "하키마스크",
 		identifiedDescriptionName = {
 			"This mask calls the urge to hold a weapon in one's hand and hurt people on the 13th of every month.",
-			"Increases physical damage inflicted on ^6666CCDemihuman^000000 monsters by 10%.",
+			"Increases physical damage inflicted on ^6666CCDemihuman^000000 monsters by 6%.",
 			"Class:^6666CC Headgear^000000",
 			"Defense:^0000FF 1^000000",
 			"Position:^6666CC Middle",
@@ -79457,7 +79457,7 @@ tbl = {
 			"Unidentified item, can be identified with [Magnifier].",
 		},
 		identifiedDisplayName = "Red Electric Aura",
-		identifiedResourceName = "pinkgodaura",
+		identifiedResourceName = "Aura_God_Red",
 		identifiedDescriptionName = {
 			"Unknown aura that wrapped your body.",
 			"^0000CCCan be Quest to:^000000",
@@ -79470,7 +79470,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 2820
+		ClassNum = 3006
 	},
 	[70060] = {
 		unidentifiedDisplayName = "hat",
@@ -89121,7 +89121,8 @@ tbl = {
 		identifiedDisplayName = "SMOKING_PINK",
 		identifiedResourceName = "SMOKING_PINK",
 		identifiedDescriptionName = {
-			"Unknown aura that wrapped your body.",
+			"Costume exclusively crafted for ^ff0000Airi^000000",
+			"Mysterious aura enveloping your body.",
 			"_______________________",
 			"^0000CCType:^000000 Costume",
 			"^0000CCPosition:^000000 Lower",
@@ -92618,6 +92619,519 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 3001,
 	},
+[400571] = {
+  unidentifiedDisplayName = "Hooded Shawl",
+  unidentifiedResourceName = "캡",
+  unidentifiedDescriptionName = {
+    "Not yet identified; use [Magnifying Glass] to identify the item."
+  },
+  identifiedDisplayName = "(Costume) Kanahei's Small Animal",
+  identifiedResourceName = "C_Kanahei_Fam",
+  identifiedDescriptionName = {
+    "2023 Ragnarok Online X Kanahei's Small Animal collaboration event.",
+    "^ffffff<NAVI>^4D4DFF[Can enchant at Cotton Island]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+    "^ff0000This item is not tradable with other accounts.^000000",
+    "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+    "Position: ^777777Head^000000 Weight: ^7777770^000000",
+    "Required Level: ^7777771^000000",
+    "Equippable by: ^777777All classes^000000"
+  },
+  slotCount = 0,
+  ClassNum = 2479,
+  costume = true
+},
+[410288] = {
+  unidentifiedDisplayName = "Hooded Shawl",
+  unidentifiedResourceName = "캡",
+  unidentifiedDescriptionName = {
+    "Not yet identified; use [Magnifying Glass] to identify the item."
+  },
+  identifiedDisplayName = "(Costume) P-chan and Pink Rabbit",
+  identifiedResourceName = "C_Usa_Pis",
+  identifiedDescriptionName = {
+    "2023 Ragnarok Online X Kanahei's Small Animal collaboration event.",
+    "^ffffff<NAVI>^4D4DFF[Can enchant at Cotton Island]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+    "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+    "Position: ^777777Upper Head^000000 Weight: ^7777770^000000",
+    "Required Level: ^7777771^000000",
+    "Equippable by: ^777777All classes^000000"
+  },
+  slotCount = 0,
+  ClassNum = 2480,
+  costume = true
+},
+[410289] = {
+    unidentifiedDisplayName = "(Costume) Baby Gloom Ribbon",
+    unidentifiedResourceName = "리본",
+    unidentifiedDescriptionName = {
+        "Not yet identified; use [Magnifying Glass] to identify the item."
+    },
+    identifiedDisplayName = "(Costume) Baby Gloom Ribbon",
+    identifiedResourceName = "C_Baby_Gloom",
+    identifiedDescriptionName = {
+        "Designed with Baby Gloom, carrying it grants powerful strength to defeat all enemies.",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted at Mjolnir]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Upper Head^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 2481,
+    costume = true
+},
+[420303] = {
+    unidentifiedDisplayName = "Ribbon",
+    unidentifiedResourceName = "Ribbon",
+    unidentifiedDescriptionName = {
+        "Not identified. Use [Magnifying Glass] to identify."
+    },
+    identifiedDisplayName = "Costume Chaos Emerald",
+    identifiedResourceName = "C_Chaos_Emerald",
+    identifiedDescriptionName = {
+        "Replica of the Chaos Emerald that Sonic possessed.",
+        "Cannot unleash tremendous power like Super Sonic.",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Lower^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 2485,
+    costume = true
+},
+[400558] = {
+    unidentifiedDisplayName = "Headband",
+    unidentifiedResourceName = "Headband",
+    unidentifiedDescriptionName = {
+        "Not identified. Use [Magnifying Glass] to identify."
+    },
+    identifiedDisplayName = "Costume Snowman Experience",
+    identifiedResourceName = "C_Snow_Head",
+    identifiedDescriptionName = {
+        "This year's snowflake festival souvenir, made to resemble a snowman.",
+        "Experience what it's like to be a snowman. It feels a bit chilly, doesn't it?",
+        "",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Upper^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 4,
+    ClassNum = 2486,
+    costume = true
+},
+[420306] = {
+    unidentifiedDisplayName = "Accessory",
+    unidentifiedResourceName = "Ribbon",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "(Costume) Japanese Kotatsu",
+    identifiedResourceName = "C_Kotatsu",
+    identifiedDescriptionName = {
+        "A Japanese kotatsu that appears suddenly when sitting down to rest.",
+        "How about lying down with family and friends under the warm kotatsu?",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted at Mjolnir]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Lower Head^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 2489,
+    costume = true
+},
+[410297] = {
+    unidentifiedDisplayName = "Accessory",
+    unidentifiedResourceName = "Ribbon",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "C_Blink_Eyes_A_Dragon",
+    identifiedResourceName = "C_Blink_Eyes_A_Dragon",
+    identifiedDescriptionName = {
+        "Don't drink! Can't do anything without drinking!",
+        "Always with alcohol no matter when or where!",
+        "※ Excessive drinking is harmful to health.",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted at Mjolnir]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "^ffffff<NAVI>^4D4DFF[Exchange for (Costume) Enhancement Stone Box 28]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Upper Head^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 2492,
+    costume = true
+},
+[410308] = {
+    unidentifiedDisplayName = "Accessory",
+    unidentifiedResourceName = "Ribbon",
+    unidentifiedDescriptionName = {
+        "A new version of the tablet used for communication with Heine in Luna Poma.",
+        "While communication is limited, it can now be utilized as a fashion item.",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Middle^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    identifiedDisplayName = "Costume Heine's Tablet",
+    identifiedResourceName = "C_Heine_Tab_1",
+    identifiedDescriptionName = {
+        "A new version of the tablet used for communication with Heine in Luna Poma.",
+        "While communication is limited, it can now be utilized as a fashion item.",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Middle^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 2512,
+    costume = true
+},
+[410309] = {
+    unidentifiedDisplayName = "Accessory",
+    unidentifiedResourceName = "Ribbon",
+    unidentifiedDescriptionName = {
+        "A new version of the tablet used for communication with Heine in Luna Poma.",
+        "While communication is limited, it can now be utilized as a fashion item.",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Middle^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    identifiedDisplayName = "Costume Heine's Tablet (Rose)",
+    identifiedResourceName = "C_Heine_Tab_2",
+    identifiedDescriptionName = {
+        "A new version of the tablet used for communication with Heine in Luna Poma.",
+        "While communication is limited, it can now be utilized as a fashion item.",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Middle^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 2513,
+    costume = true
+},
+[410310] = {
+    unidentifiedDisplayName = "Accessory",
+    unidentifiedResourceName = "Ribbon",
+    unidentifiedDescriptionName = {
+        "A new version of the tablet used for communication with Heine in Luna Poma.",
+        "While communication is limited, it can now be utilized as a fashion item.",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Middle^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    identifiedDisplayName = "Costume Heine's Tablet (Silver)",
+    identifiedResourceName = "C_Heine_Tab_3",
+    identifiedDescriptionName = {
+        "A new version of the tablet used for communication with Heine in Luna Poma.",
+        "While communication is limited, it can now be utilized as a fashion item.",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Middle^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 2514,
+    costume = true
+},
+[410316] = {
+    unidentifiedDisplayName = "Hairband",
+    unidentifiedResourceName = "Ribbon",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "(Costume) Bear Candy Cart",
+    identifiedResourceName = "Bear_Candy_Cart",
+    identifiedDescriptionName = {
+        "A candy cart shaped like a teddy bear doll selling Poring cotton candy and bear gummy candies.",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted at Mjolnir]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Upper Head^000000 Weight: ^7777770^000000",
+        "Armor Level: ^7777771^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000",
+        "^ff0000Charles - Strawberry Pocky^000000"
+    },
+    slotCount = 0,
+    ClassNum = 2520,
+    costume = true
+},
+[400664] = {
+    unidentifiedDisplayName = "Headgear",
+    unidentifiedResourceName = "Accessory",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "(Costume) Lazy Bum",
+    identifiedResourceName = "C_CLB_SS_DF",
+    identifiedDescriptionName = {
+        "Just want to lie down and not move... zzZ.",
+        "^ffffff_^000000 ",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted at Mjolnir]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "^ffffff_^000000 ",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Top of Head^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 2531,
+    costume = true
+},
+[410326] = {
+    unidentifiedDisplayName = "Headgear",
+    unidentifiedResourceName = "Accessory",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "(Costume) Playful Agi",
+    identifiedResourceName = "C_CLB_SS_EA",
+    identifiedDescriptionName = {
+        "Let's go out and play... Let's go out and play... Let's go out and play!!",
+        "^ffffff_^000000 ",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted at Mjolnir]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "^ffffff_^000000 ",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Middle of Head^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 2532,
+    costume = true
+},
+[410339] = {
+    unidentifiedDisplayName = "Accessory",
+    unidentifiedResourceName = "Ring",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "Handy Telescope-LT",
+    identifiedResourceName = "Handiness_Telescope_LT",
+    identifiedDescriptionName = {
+        "Cast Dark Barrier Lv.5 on self.",
+        "Series: ^777777Headgear^000000 Defense: ^7777770^000000",
+        "Location: ^777777Middle of Head^000000 Weight: ^77777710^000000",
+        "Armor Level: ^7777772^000000",
+        "Required Level: ^777777100^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    ClassNum = 2544,
+    costume = true
+},
+[420343] = {
+    unidentifiedDisplayName = "Accessory",
+    unidentifiedResourceName = "Ribbon",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "Survival Whistle-LT",
+    identifiedResourceName = "Rescue_whistle_LT",
+    identifiedDescriptionName = {
+        "Series: ^777777Headgear^000000 Defense: ^7777770^000000",
+        "Location: ^777777Bottom of Head^000000 Weight: ^77777710^000000",
+        "Armor Level: ^7777772^000000",
+        "Required Level: ^777777100^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 2545,
+    costume = false
+},
+[480376] = {
+    unidentifiedDisplayName = "Cloak",
+    unidentifiedResourceName = "Hood",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "(Costume) Rata Tail",
+    identifiedResourceName = "C_Rata_Tail",
+    identifiedDescriptionName = {
+        "Fluffy brush-tailed possum tail costume.",
+        "Might be mistaken for a brush-tailed possum if not careful.",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted on Enchanted Island]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Cloak^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 195,
+    costume = true
+},
+[480377] = {
+    unidentifiedDisplayName = "Cloak",
+    unidentifiedResourceName = "Hood",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "(Costume) White Cloth Doll Cat Doll",
+    identifiedResourceName = "C_Cat_Doll_WH",
+    identifiedDescriptionName = {
+        "A bag crafted by a craftsman who loves cats very much, imitating the appearance of a cat.",
+        "You can always be with your beloved cat even when you go out.",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted on Enchanted Island]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Cloak^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 196,
+    costume = true
+},
+[20625] = {
+    unidentifiedDisplayName = "(Costume) 2023 ROS Champion Cape",
+    unidentifiedResourceName = "Hood",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "(Costume) 2023 ROS Champion Cape",
+    identifiedResourceName = "C_ROS2023_Cape_1",
+    identifiedDescriptionName = {
+        "^ff0000This item cannot be traded with other accounts.^000000",
+        "Costume obtained by the ROS Champion team.",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted on Enchanted Island]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Cape^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 197,
+    costume = true
+},
+[20626] = {
+    unidentifiedDisplayName = "Cape",
+    unidentifiedResourceName = "Hood",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "(Costume) 2023 ROS Commemorative Cape",
+    identifiedResourceName = "C_ROS2023_Cape_2",
+    identifiedDescriptionName = {
+        "^ff0000This item cannot be traded with other accounts.^000000",
+        "Exclusive costume for participants of 2023 ROS.",
+        "A cape with a fiery design, symbolizing the enthusiasm of ROS players.",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted on Enchanted Island]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Cape^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 198,
+    costume = true
+},
+[480393] = {
+    unidentifiedDisplayName = "Shoulder Wrap",
+    unidentifiedResourceName = "Muffler",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "(Costume) New Moon of Blue Moon Witch",
+    identifiedResourceName = "C_Loli_Ruri_Moon_B",
+    identifiedDescriptionName = {
+        "New moon of the Blue Moon Witch.",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted on Enchanted Island]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Shoulder Wrap^000000 Weight: ^7777770^000000",
+        "Armor Level: ^7777771^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 199,
+    costume = true
+},
+[480394] = {
+    unidentifiedDisplayName = "Shoulder Wrap",
+    unidentifiedResourceName = "Muffler",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "(Costume) Oversized Pink Bunny",
+    identifiedResourceName = "C_Big_Usagi_Bag",
+    identifiedDescriptionName = {
+        "2023 RO Ragnarok X Kanaheira's Animal Collaboration Event.",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted on Enchanted Island]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Shoulder Wrap^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 200,
+    costume = true
+},
+[480395] = {
+    unidentifiedDisplayName = "Shoulder Wrap",
+    unidentifiedResourceName = "Muffler",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "(Costume) Oversized Piske",
+    identifiedResourceName = "C_Big_Piske_Bag",
+    identifiedDescriptionName = {
+        "2023 RO Ragnarok X Kanaheira's Animal Collaboration Event.",
+        "^ffffff<NAVI>^4D4DFF[Can be enchanted on Enchanted Island]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+        "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+        "Location: ^777777Shoulder Wrap^000000 Weight: ^7777770^000000",
+        "Required Level: ^7777771^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 201,
+    costume = true
+},
+[480394] = {
+  unidentifiedDisplayName = "Muffler",
+  unidentifiedResourceName = "머플러",
+  unidentifiedDescriptionName = {
+    "Not yet identified; use [Magnifying Glass] to identify the item."
+  },
+  identifiedDisplayName = "(Costume) Giant Pink Rabbit",
+  identifiedResourceName = "C_Big_Usagi_Bag",
+  identifiedDescriptionName = {
+    "2023 Ragnarok Online X Kanahei's Small Animal collaboration event.",
+    "^ffffff<NAVI>^4D4DFF[Can enchant at Cotton Island]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+    "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+    "Position: ^777777Shoulders^000000 Weight: ^7777770^000000",
+    "Required Level: ^7777771^000000",
+    "Equippable by: ^777777All classes^000000"
+  },
+  slotCount = 0,
+  ClassNum = 200,
+  costume = true
+},
+[480395] = {
+  unidentifiedDisplayName = "Muffler",
+  unidentifiedResourceName = "머플러",
+  unidentifiedDescriptionName = {
+    "Not yet identified; use [Magnifying Glass] to identify the item."
+  },
+  identifiedDisplayName = "(Costume) Giant P-chan",
+  identifiedResourceName = "C_Big_Piske_Bag",
+  identifiedDescriptionName = {
+    "2023 Ragnarok Online X Kanahei's Small Animal collaboration event.",
+    "^ffffff<NAVI>^4D4DFF[Can enchant at Cotton Island]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
+    "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
+    "Position: ^777777Shoulders^000000 Weight: ^7777770^000000",
+    "Required Level: ^7777771^000000",
+    "Equippable by: ^777777All classes^000000"
+  },
+  slotCount = 0,
+  ClassNum = 201,
+  costume = true
+},
+
+
 }
 
 -- Now for a helper function because i hate repetitions 

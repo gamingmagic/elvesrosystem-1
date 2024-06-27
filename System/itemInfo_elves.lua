@@ -14,7 +14,7 @@ function add_item_link(v)
 	return M
 end
 function main()
-	IInfo = {"System.elves_pre","System.itemInfo_re"}
+	IInfo = {"System.elves_pre","System.itemInfo_re","System.itemInfo_TW"}
 	-- Example!
 	-- IInfo = {"System.import_iteminfo","System.kro_iteminfo5","System.kro_iteminfo4","System.kro_iteminfo3","System.kro_iteminfo2","System.kro_iteminfo1","System.kro_iteminfo"}
 	ItemList = {}

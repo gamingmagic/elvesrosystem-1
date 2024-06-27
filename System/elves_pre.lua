@@ -92915,13 +92915,13 @@ tbl = {
     identifiedDisplayName = "Handy Telescope-LT",
     identifiedResourceName = "Handiness_Telescope_LT",
     identifiedDescriptionName = {
-        "Cast Dark Barrier Lv.5 on self.",
         "Series: ^777777Headgear^000000 Defense: ^7777770^000000",
         "Location: ^777777Middle of Head^000000 Weight: ^77777710^000000",
         "Armor Level: ^7777772^000000",
         "Required Level: ^777777100^000000",
         "Equipped by: ^777777All Classes^000000"
     },
+	slotCount = 0,
     ClassNum = 2544,
     costume = true
 },
@@ -92942,7 +92942,7 @@ tbl = {
     },
     slotCount = 0,
     ClassNum = 2545,
-    costume = false
+    costume = true
 },
 [480376] = {
     unidentifiedDisplayName = "Cloak",
@@ -92997,7 +92997,6 @@ tbl = {
     identifiedDescriptionName = {
         "^ff0000This item cannot be traded with other accounts.^000000",
         "Costume obtained by the ROS Champion team.",
-        "^ffffff<NAVI>^4D4DFF[Can be enchanted on Enchanted Island]^000000<INFO>mal_in01,19,110,0,100,0,0</INFO></NAVI>^000000",
         "Series: ^777777Costume Equipment^000000 Defense: ^7777770^000000",
         "Location: ^777777Cape^000000 Weight: ^7777770^000000",
         "Required Level: ^7777771^000000",

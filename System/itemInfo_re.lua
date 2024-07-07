@@ -383158,7 +383158,7 @@ tbl = {
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Vibrant Cat Ears",
-		identifiedResourceName = "ÈÖÄÉ¹ÙÀÎÀÇ±Í_°ñµå",
+		identifiedResourceName = "WHIKEBAIN_EARS_GOLD",
 		identifiedDescriptionName = {
 			"^ff0000Cannot be traded^000000",
 			"A super cute kitten ears!",
@@ -383187,7 +383187,7 @@ tbl = {
 		unidentifiedResourceName = "Ä¸",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Blue Cat Ears",
-		identifiedResourceName = "ÆÄ¶õ»õ³¢°í¾çÀÌ±Í",
+		identifiedResourceName = "BLUECAT_EAR",
 		identifiedDescriptionName = {
 			"^ff0000Cannot be traded^000000",
 			"A super cute kitten ears!",

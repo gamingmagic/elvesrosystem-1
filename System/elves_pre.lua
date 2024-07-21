@@ -98253,6 +98253,573 @@ tbl = {
 		ClassNum = 219,
 		costume = true
 	},
+[70709] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Aura",
+    identifiedResourceName = "Ultimate_Destiny_Aura",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Middle",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4001
+},
+[70710] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Aura BLK",
+    identifiedResourceName = "Ultimate_Destiny_Aura_BLK",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Middle",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4002
+},
+[70711] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Aura BLU",
+    identifiedResourceName = "Ultimate_Destiny_Aura_BLU",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Middle",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4003
+},
+[70712] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Aura GRN",
+    identifiedResourceName = "Ultimate_Destiny_Aura_GRN",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Middle",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4004
+},
+[70713] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Aura PRP",
+    identifiedResourceName = "Ultimate_Destiny_Aura_PRP",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Middle",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4005
+},
+[70714] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Aura RED",
+    identifiedResourceName = "Ultimate_Destiny_Aura_RED",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Middle",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4006
+},
+[70715] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Aura WHT",
+    identifiedResourceName = "Ultimate_Destiny_Aura_WHT",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Middle",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4007
+},
+[70716] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Aura WR",
+    identifiedResourceName = "Ultimate_Destiny_Aura_WR",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Middle",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4008
+},
+[70717] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Helmet",
+    identifiedResourceName = "Ultimate_Destiny_Helmet",
+    identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+    ClassNum = 4009
+},
+[70718] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Helmet BLK",
+    identifiedResourceName = "Ultimate_Destiny_Helmet_BLK",
+    identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+    ClassNum = 4010
+},
+[70719] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Helmet BLU",
+    identifiedResourceName = "Ultimate_Destiny_Helmet_BLU",
+    identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+    ClassNum = 4011
+},
+[70720] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Helmet GRN",
+    identifiedResourceName = "Ultimate_Destiny_Helmet_GRN",
+    identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+    ClassNum = 4012
+},
+[70721] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Helmet PRP",
+    identifiedResourceName = "Ultimate_Destiny_Helmet_PRP",
+    identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+    ClassNum = 4013
+},
+[70722] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Helmet RED",
+    identifiedResourceName = "Ultimate_Destiny_Helmet_RED",
+    identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+    ClassNum = 4014
+},
+[70723] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Helmet WHT",
+    identifiedResourceName = "Ultimate_Destiny_Helmet_WHT",
+    identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+    ClassNum = 4015
+},
+[70724] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Helmet WR",
+    identifiedResourceName = "Ultimate_Destiny_Helmet_WR",
+    identifiedDescriptionName = {
+			"A special headgear created specifically for Lord Kaho... Whoever he is.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+    ClassNum = 4016
+},
+[70725] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Sword",
+    identifiedResourceName = "Ultimate_Destiny_Sword",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4017
+},
+[70726] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Sword BLK",
+    identifiedResourceName = "Ultimate_Destiny_Sword_BLK",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4018
+},
+[70727] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Sword BLU",
+    identifiedResourceName = "Ultimate_Destiny_Sword_BLU",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4019
+},
+[70728] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Sword GRN",
+    identifiedResourceName = "Ultimate_Destiny_Sword_GRN",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4020
+},
+[70729] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Sword PRP",
+    identifiedResourceName = "Ultimate_Destiny_Sword_PRP",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4021
+},
+[70730] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Sword RED",
+    identifiedResourceName = "Ultimate_Destiny_Sword_RED",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4022
+},
+[70731] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Sword WHT",
+    identifiedResourceName = "Ultimate_Destiny_Sword_WHT",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4023
+},
+[70732] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Ultimate Destiny Sword WR",
+    identifiedResourceName = "Ultimate_Destiny_Sword_WR",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4024
+},
 	
 }
 

@@ -86858,7 +86858,7 @@ tbl = {
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "Costume Rainbow Carapace",
-		identifiedResourceName = "C_Rainbow_Shell",
+		identifiedResourceName = "Rainbow_Shell",
 		identifiedDescriptionName = {
 			"---------------",				
 			"_______________________",
@@ -90051,7 +90051,7 @@ tbl = {
 		identifiedDisplayName = "[Elves] Hardrock Mammoth Card",
 		identifiedResourceName = "ÀÌ¸§¾ø´ÂÄ«µå",
 		identifiedDescriptionName = {
-			"Reduce Reflect Damage by Large Percentage to Swordman and Merchant Class",
+			"Reduce Reflect Damage by Large Percentage to Rouge Class, Swordman and Merchant Class",
 			"Increase 10% More HP to Merchant Class",
 			"When equipped with ^990099 Elves Edgga Card^000000",
 			"Increases damage of ^009900Cart Termination^000000 by 50%.",
@@ -96404,7 +96404,7 @@ tbl = {
         "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
         "_______________________",
         "^0000CCType:^000000 Costume",
-        "^0000CCPosition:^000000 Lower",
+        "^0000CCPosition:^000000 Mid",
         "^0000CCWeight:^000000 0",
         "_______________________",
         "^0000CCRequirement:^000000 None"
@@ -97204,28 +97204,6 @@ tbl = {
     slotCount = 0,
     ClassNum = 3209
 },
-[70674] = {
-    unidentifiedDisplayName = "hat",
-    unidentifiedResourceName = "Ä¸",
-    unidentifiedDescriptionName = {
-        "Unidentified item, can be identified with [Magnifier].",
-    },
-    identifiedDisplayName = "Healing Aura",
-    identifiedResourceName = "Healing_Aura",
-    identifiedDescriptionName = {
-        "Unknown aura that wrapped your body.",
-        "^0000CCCan be Quest to:^000000",
-        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
-        "_______________________",
-        "^0000CCType:^000000 Costume",
-        "^0000CCPosition:^000000 Lower",
-        "^0000CCWeight:^000000 0",
-        "_______________________",
-        "^0000CCRequirement:^000000 None"
-    },
-    slotCount = 0,
-    ClassNum = 3210
-},
 [70675] = {
     unidentifiedDisplayName = "hat",
     unidentifiedResourceName = "Ä¸",
@@ -97841,28 +97819,6 @@ tbl = {
     },
     slotCount = 0,
     ClassNum = 3238
-},
-[70703] = {
-    unidentifiedDisplayName = "hat",
-    unidentifiedResourceName = "Ä¸",
-    unidentifiedDescriptionName = {
-        "Unidentified item, can be identified with [Magnifier].",
-    },
-    identifiedDisplayName = "Symbol Aura",
-    identifiedResourceName = "Symbol_Aura",
-    identifiedDescriptionName = {
-        "Unknown aura that wrapped your body.",
-        "^0000CCCan be Quest to:^000000",
-        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
-        "_______________________",
-        "^0000CCType:^000000 Costume",
-        "^0000CCPosition:^000000 Lower",
-        "^0000CCWeight:^000000 0",
-        "_______________________",
-        "^0000CCRequirement:^000000 None"
-    },
-    slotCount = 0,
-    ClassNum = 3239
 },
 [70704] = {
     unidentifiedDisplayName = "hat",
@@ -98820,7 +98776,880 @@ tbl = {
     slotCount = 0,
     ClassNum = 4024
 },
-	
+[480442] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C_Guardian_Of_Abyss",
+    identifiedResourceName = "C_Guardian_Of_Abyss",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 2546
+},
+[70734] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMALCHEMIST",
+    identifiedResourceName = "HEIRLOOMALCHEMIST",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 502
+},
+[70735] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMASSASSIN",
+    identifiedResourceName = "HEIRLOOMASSASSIN",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 503
+},
+[70736] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMBARD",
+    identifiedResourceName = "HEIRLOOMBARD",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 504
+},
+[70737] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMBLACKSMITH",
+    identifiedResourceName = "HEIRLOOMBLACKSMITH",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 505
+},
+[70738] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMCRUSADER",
+    identifiedResourceName = "HEIRLOOMCRUSADER",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 506
+},
+[70739] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMDANCER",
+    identifiedResourceName = "HEIRLOOMDANCER",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 507
+},
+[70740] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMGUNSLINGER",
+    identifiedResourceName = "HEIRLOOMGUNSLINGER",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 508
+},
+[70741] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMHUNTER",
+    identifiedResourceName = "HEIRLOOMHUNTER",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 509
+},
+[70742] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMKNIGHT",
+    identifiedResourceName = "HEIRLOOMKNIGHT",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 510
+},
+[70743] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMMONK",
+    identifiedResourceName = "HEIRLOOMMONK",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 511
+},
+[70744] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMNINJA",
+    identifiedResourceName = "HEIRLOOMNINJA",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 512
+},
+[70745] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMPRIEST",
+    identifiedResourceName = "HEIRLOOMPRIEST",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 513
+},
+[70746] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMROGUE",
+    identifiedResourceName = "HEIRLOOMROGUE",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 514
+},
+[70747] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMSAGE",
+    identifiedResourceName = "HEIRLOOMSAGE",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 515
+},
+[70748] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMSOULLINKER",
+    identifiedResourceName = "HEIRLOOMSOULLINKER",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 516
+},
+[70749] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMSTARGLADIATOR",
+    identifiedResourceName = "HEIRLOOMSTARGLADIATOR",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 517
+},
+[70750] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMTAEKWON",
+    identifiedResourceName = "HEIRLOOMTAEKWON",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 518
+},
+[70751] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "HEIRLOOMWIZARD",
+    identifiedResourceName = "HEIRLOOMWIZARD",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 519
+},
+[70752] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "RELICALCHEMIST",
+    identifiedResourceName = "RELICALCHEMIST",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 520
+},
+[70753] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "FACEWORMSKIN",
+    identifiedResourceName = "FACEWORMSKIN",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 521
+},
+[70754] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "FACEWORMSKIN BLK",
+    identifiedResourceName = "FACEWORMSKIN_BLK",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 522
+},
+[70755] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "MANTEAUOFGRAY",
+    identifiedResourceName = "MANTEAUOFGRAY",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 523
+},
+[70756] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "NABHOODIE",
+    identifiedResourceName = "NABHOODIE",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 524
+},
+[70757] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "NIDHOGGSHADOW",
+    identifiedResourceName = "NIDHOGGSHADOW",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 525
+},
+[70758] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "OXYGENBOTTLE",
+    identifiedResourceName = "OXYGENBOTTLE",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 526
+},
+[70759] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "SAPHAHOODIE",
+    identifiedResourceName = "SAPHAHOODIE",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 527
+},
+[70760] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "TARLOCKSMANTEAU",
+    identifiedResourceName = "TARLOCKSMANTEAU",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 528
+},
+[70761] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "VALKYRIANMANTEAU",
+    identifiedResourceName = "VALKYRIANMANTEAU",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 529
+},
+[70762] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "WINGMANTEAU",
+    identifiedResourceName = "WINGMANTEAU",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 530
+},
+[70763] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "FairySquirrel",
+    identifiedResourceName = "FairySquirrel",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 531
+},
+[70764] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Forbidden Book",
+    identifiedResourceName = "Forbidden_Book",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 532
+},
+[70765] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Magic Broom",
+    identifiedResourceName = "Magic_Broom",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 533
+},
+[70766] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Rabbit Wand",
+    identifiedResourceName = "Rabbit_Wand",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 534
+},
+[70767] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Romantic Food",
+    identifiedResourceName = "Romantic_Food",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 535
+},
+[70768] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Starlink Staff",
+    identifiedResourceName = "Starlink_Staff",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 536
+},
+[70769] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "Sword Revival",
+    identifiedResourceName = "Sword_Revival",
+    identifiedDescriptionName = {
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Garment",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 537
+},
+	[480282] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "ÈÄµå",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Ancient_Dragon_Spear",
+		identifiedResourceName = "C_Ancient_Dragon_Spear",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 163,
+		costume = true
+	},
+	[480368] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "ÈÄµå",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "c_big_lollipop",
+		identifiedResourceName = "c_big_lollipop",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 194,
+		costume = true
+	},
+	[70772] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "ÈÄµå",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C_Lord_Of_Death",
+		identifiedResourceName = "C_Lord_Of_Death",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 538,
+		costume = true
+	},
+	[480326] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "ÈÄµå",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "2023RTC_S_Robe1",
+		identifiedResourceName = "2023RTC_S_Robe1",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 181,
+		costume = true
+	},
+	[480327] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "ÈÄµå",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "2023RTC_S_Robe2",
+		identifiedResourceName = "2023RTC_S_Robe2",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 182,
+		costume = true
+	},
+	[480328] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "ÈÄµå",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "2023RTC_S_Robe3",
+		identifiedResourceName = "2023RTC_S_Robe3",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 183,
+		costume = true
+	},
+	[480329] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "ÈÄµå",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "2023RTC_S_Robe4",
+		identifiedResourceName = "2023RTC_S_Robe4",
+		identifiedDescriptionName = {
+			"everywhere with you!",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 184,
+		costume = true
+	},
+	[480445] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "ÈÄµå",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Shiba Says Tai-Zi",
+		identifiedResourceName = "C_CLB_SS_LT",
+		identifiedDescriptionName = {
+			"A backpack that closely resembles Tai-Zi. Carrying it makes me feel lucky.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 221,
+		costume = true
+	},
+	[480450] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "ÈÄµå",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "Costume Honey Dipper",
+		identifiedResourceName = "C_Honey_Dipper",
+		identifiedDescriptionName = {
+			"A backpack that closely resembles Tai-Zi. Carrying it makes me feel lucky.",
+			"_______________________",
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 222,
+		costume = true
+	},
 }
 
 -- Now for a helper function because i hate repetitions 

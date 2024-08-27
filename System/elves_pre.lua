@@ -19314,7 +19314,7 @@ tbl = {
 		identifiedDisplayName = "Kiel-D-01 Card",
 		identifiedResourceName = "ÀÌ¸§¾ø´ÂÄ«µå",
 		identifiedDescriptionName = {
-			"Reduces after cast delay of all skills by 15%.",
+			"Reduces after cast delay of all skills by 25%.",
 			"Class:^6666CC Card^000000",
 			"Compound on:^6600FF Headgear^000000",
 			"Weight:^009900 1^000000"
@@ -20056,7 +20056,7 @@ tbl = {
 		identifiedDisplayName = "Fallen Bishop Card",
 		identifiedResourceName = "ÀÌ¸§¾ø´ÂÄ«µå",
 		identifiedDescriptionName = {
-			"Matk +10%",
+			"Matk +12%",
 			"MaxSP -50%",
 			"Increases magic damage to Demihuman and Angel monsters by 50%.",
 			"Class:^6666CC Card^000000",
@@ -100464,6 +100464,63 @@ tbl = {
     slotCount = 0,
     ClassNum = 574
 },
+
+	[70770] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "Çï¸§",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "RWC Celestial Dark Flame",
+		identifiedResourceName = "celestial_dark_flame",
+		identifiedDescriptionName = {
+			"RWC Crown of victory.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 3244,
+		costume = false
+	},
+	[70770] = {
+		unidentifiedDisplayName = "Unidentified Helmet",
+		unidentifiedResourceName = "Çï¸§",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "RWC Diadem of Brunhild",
+		identifiedResourceName = "ºê·ôÈúÆ®ÀÇ¿Õ°ü",
+		identifiedDescriptionName = {
+			"RWC Crown of victory.",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 12",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 50",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 1057,
+		costume = false
+	},
 
 }
 

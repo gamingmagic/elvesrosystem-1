@@ -92925,6 +92925,25 @@ tbl = {
     ClassNum = 2544,
     costume = true
 },
+[420340] = {
+    unidentifiedDisplayName = "Accessory",
+    unidentifiedResourceName = "Ribbon",
+    unidentifiedDescriptionName = {
+        "Not identified; can be identified using [Magnifying Glass]."
+    },
+    identifiedDisplayName = "C_Kitchen_Car",
+    identifiedResourceName = "C_Kitchen_Car",
+    identifiedDescriptionName = {
+        "Series: ^777777Headgear^000000 Defense: ^7777770^000000",
+        "Location: ^777777Bottom of Head^000000 Weight: ^77777710^000000",
+        "Armor Level: ^7777772^000000",
+        "Required Level: ^777777100^000000",
+        "Equipped by: ^777777All Classes^000000"
+    },
+    slotCount = 0,
+    ClassNum = 2545,
+    costume = true
+},
 [420343] = {
     unidentifiedDisplayName = "Accessory",
     unidentifiedResourceName = "Ribbon",
@@ -92941,7 +92960,7 @@ tbl = {
         "Equipped by: ^777777All Classes^000000"
     },
     slotCount = 0,
-    ClassNum = 2545,
+    ClassNum = 2534,
     costume = true
 },
 [480376] = {
@@ -99517,25 +99536,6 @@ tbl = {
 		ClassNum = 194,
 		costume = true
 	},
-	[70772] = {
-		unidentifiedDisplayName = "Unidentified Garment",
-		unidentifiedResourceName = "�ĵ�",
-		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "C_Lord_Of_Death",
-		identifiedResourceName = "C_Lord_Of_Death",
-		identifiedDescriptionName = {
-			"everywhere with you!",
-			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
-			"^0000CCWeight:^000000 0",
-			"_______________________",
-			"^0000CCRequirement:^000000 None"
-		},
-		slotCount = 0,
-		ClassNum = 538,
-		costume = true
-	},
 	[480326] = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "�ĵ�",
@@ -99650,6 +99650,821 @@ tbl = {
 		ClassNum = 222,
 		costume = true
 	},
+[70772] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Bear1",
+    identifiedResourceName = "C_Bear1",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 538
+},
+[70773] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Bear2",
+    identifiedResourceName = "C_Bear2",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 539
+},
+[70774] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Bear3",
+    identifiedResourceName = "C_Bear3",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 540
+},
+[70775] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Beaupretty",
+    identifiedResourceName = "C_Beaupretty",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 541
+},
+[70776] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Beaupretty2",
+    identifiedResourceName = "C_Beaupretty2",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 542
+},
+[70777] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Beaupretty3",
+    identifiedResourceName = "C_Beaupretty3",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 543
+},
+[70778] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Blue Sword1",
+    identifiedResourceName = "C_Blue_Sword1",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 544
+},
+[70779] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Blue Sword2",
+    identifiedResourceName = "C_Blue_Sword2",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 545
+},
+[70780] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Blue Sword3",
+    identifiedResourceName = "C_Blue_Sword3",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 546
+},
+[70781] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Bowser",
+    identifiedResourceName = "C_Bowser",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 547
+},
+[70782] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Flohrenberk",
+    identifiedResourceName = "C_Flohrenberk",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 548
+},
+[70783] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Flohrenberk2",
+    identifiedResourceName = "C_Flohrenberk2",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 549
+},
+[70784] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Flohrenberk3",
+    identifiedResourceName = "C_Flohrenberk3",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 550
+},
+[70785] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Flohrenberk4",
+    identifiedResourceName = "C_Flohrenberk4",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 551
+},
+[70786] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Flohrenberk5",
+    identifiedResourceName = "C_Flohrenberk5",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 552
+},
+[70787] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Flohrenberk6",
+    identifiedResourceName = "C_Flohrenberk6",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 553
+},
+[70788] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Flower Rib",
+    identifiedResourceName = "C_Flower_Rib",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 554
+},
+[70789] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Grenade",
+    identifiedResourceName = "C_Grenade",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 555
+},
+[70790] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Hojalata Cross",
+    identifiedResourceName = "C_Hojalata_Cross",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 556
+},
+[70791] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Langrisse",
+    identifiedResourceName = "C_Langrisse",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 557
+},
+[70792] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Lord Of Death",
+    identifiedResourceName = "C_Lord_Of_Death",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 558
+},
+[70793] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Lotus G",
+    identifiedResourceName = "C_Lotus_G",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 559
+},
+[70794] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Monster1",
+    identifiedResourceName = "C_Monster1",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 560
+},
+[70795] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Monster2",
+    identifiedResourceName = "C_Monster2",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 561
+},
+[70796] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Monster3",
+    identifiedResourceName = "C_Monster3",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 562
+},
+[70797] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Monster4",
+    identifiedResourceName = "C_Monster4",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 563
+},
+[70798] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Nezuko G",
+    identifiedResourceName = "C_Nezuko_G",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 564
+},
+[70799] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Nintendo Control",
+    identifiedResourceName = "C_Nintendo_Control",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 565
+},
+[70800] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Shimmering Devil Cloth",
+    identifiedResourceName = "C_Shimmering_Devil_Cloth",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 566
+},
+[70801] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Shimmering Devil Cloth1",
+    identifiedResourceName = "C_Shimmering_Devil_Cloth1",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 567
+},
+[70802] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Shimmering Devil Cloth2",
+    identifiedResourceName = "C_Shimmering_Devil_Cloth2",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 568
+},
+[70803] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Sweet Magic W",
+    identifiedResourceName = "C_Sweet_Magic_W",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 569
+},
+[70804] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C TensouSentai",
+    identifiedResourceName = "C_TensouSentai",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 570
+},
+[70805] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Thanatos M",
+    identifiedResourceName = "C_Thanatos_M",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 571
+},
+[70806] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Tripple Sword",
+    identifiedResourceName = "C_Tripple_Sword",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 572
+},
+[70807] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Twin Sword Cover",
+    identifiedResourceName = "C_Twin_Sword_Cover",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 573
+},
+[70808] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "ĸ",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "C Wisteria G",
+    identifiedResourceName = "C_Wisteria_G",
+    identifiedDescriptionName = {
+        "Unknown aura that wrapped your body.",
+        "^0000CCCan be Quest to:^000000",
+        "<NAVI>Aura Quest<INFO>prontera,164,154,0,100,0,0</INFO></NAVI>",
+        "_______________________",
+        "^0000CCType:^000000 Costume",
+        "^0000CCPosition:^000000 Lower",
+        "^0000CCWeight:^000000 0",
+        "_______________________",
+        "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 574
+},
+
 }
 
 -- Now for a helper function because i hate repetitions 

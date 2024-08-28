@@ -75503,7 +75503,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Phantom Step 1",
-		identifiedResourceName = "마법책_지",
+		identifiedResourceName = "ELVESRO_PS",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Phantom Step.",
@@ -75521,7 +75521,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Phantom Step 2",
-		identifiedResourceName = "마법책_지",
+		identifiedResourceName = "ELVESRO_PS",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Phantom Step.",
@@ -75539,7 +75539,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Phantom Step 3",
-		identifiedResourceName = "마법책_지",
+		identifiedResourceName = "ELVESRO_PS",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Phantom Step.",
@@ -75557,7 +75557,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Phantom Step 4",
-		identifiedResourceName = "마법책_지",
+		identifiedResourceName = "ELVESRO_PS",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Phantom Step.",
@@ -75575,7 +75575,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Phantom Step 5",
-		identifiedResourceName = "마법책_지",
+		identifiedResourceName = "ELVESRO_PS",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Phantom Step.",
@@ -75593,7 +75593,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "FCP Debuffer 1",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROMELTER",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, FCP Debuffer.",
@@ -75607,11 +75607,11 @@ tbl = {
 	},
 	[30257] = {
 		unidentifiedDisplayName = "FCP Debuffer 2",
-		unidentifiedResourceName = "마법책_화",
+		unidentifiedResourceName = "ELVESROMELTER",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "FCP Debuffer 2",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROMELTER",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, FCP Debuffer.",
@@ -75629,7 +75629,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "FCP Debuffer 3",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROMELTER",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, FCP Debuffer.",
@@ -75647,7 +75647,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "FCP Debuffer 4",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROMELTER",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, FCP Debuffer.",
@@ -75665,7 +75665,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "FCP Debuffer 5",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROMELTER",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, FCP Debuffer.",
@@ -75683,7 +75683,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Leap of Faith 1",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESRO_LEAP",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Leap of Faith.",
@@ -75701,7 +75701,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Leap of Faith 2",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESRO_LEAP",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Leap of Faith.",
@@ -75719,7 +75719,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Leap of Faith 3",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESRO_LEAP",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Leap of Faith.",
@@ -75737,7 +75737,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Leap of Faith 4",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESRO_LEAP",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Leap of Faith.",
@@ -75755,7 +75755,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Leap of Faith 5",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESRO_LEAP",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Leap of Faith.",
@@ -75773,7 +75773,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Chain Knuckle 1",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROMEAT",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Chain Knuckle.",
@@ -75791,7 +75791,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Chain Knuckle 2",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROMEAT",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Chain Knuckle.",
@@ -75809,7 +75809,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Chain Knuckle 3",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROMEAT",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Chain Knuckle.",
@@ -75827,7 +75827,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Chain Knuckle 4",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROMEAT",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Chain Knuckle.",
@@ -75845,7 +75845,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Chain Knuckle 5",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROMEAT",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Chain Knuckle.",
@@ -75863,7 +75863,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Static Swap 1",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROSWAP",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Static Swap.",
@@ -75881,7 +75881,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Static Swap 2",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROSWAP",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Static Swap.",
@@ -75899,7 +75899,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Static Swap 3",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROSWAP",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Static Swap.",
@@ -75917,7 +75917,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Static Swap 4",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROSWAP",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Static Swap.",
@@ -75935,7 +75935,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Static Swap 5",
-		identifiedResourceName = "마법책_화",
+		identifiedResourceName = "ELVESROSWAP",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Static Swap.",
@@ -76223,7 +76223,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 1",
-		identifiedResourceName = "Vivatus_F_M_Book",
+		identifiedResourceName = "ELVESRO_OCG",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -76241,7 +76241,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 2",
-		identifiedResourceName = "Vivatus_F_M_Book",
+		identifiedResourceName = "ELVESRO_OCG",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -76259,7 +76259,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 3",
-		identifiedResourceName = "Vivatus_F_M_Book",
+		identifiedResourceName = "ELVESRO_OCG",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -76279,7 +76279,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 4",
-		identifiedResourceName = "Vivatus_F_M_Book",
+		identifiedResourceName = "ELVESRO_OCG",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -76297,7 +76297,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Open Celestial Gate 5",
-		identifiedResourceName = "Vivatus_F_M_Book",
+		identifiedResourceName = "ELVESRO_OCG",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Open Celestial Gate.",
@@ -76591,7 +76591,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 1",
-		identifiedResourceName = "Vivatus_F_M_Book",
+		identifiedResourceName = "ELVES_CONJUREIMAGE",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -76609,7 +76609,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 2",
-		identifiedResourceName = "Vivatus_F_M_Book",
+		identifiedResourceName = "ELVES_CONJUREIMAGE",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -76623,7 +76623,7 @@ tbl = {
 	},
 	[30313] = {
 		unidentifiedDisplayName = "Mirror Image 3",
-		unidentifiedResourceName = "Vivatus_F_M_Book",
+		unidentifiedResourceName = "ELVES_CONJUREIMAGE",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 3",
@@ -76643,7 +76643,7 @@ tbl = {
 	},
 	[30314] = {
 		unidentifiedDisplayName = "Mirror Image 4",
-		unidentifiedResourceName = "Vivatus_F_M_Book",
+		unidentifiedResourceName = "ELVES_CONJUREIMAGE",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 4",
@@ -76665,7 +76665,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Mirror Image 5",
-		identifiedResourceName = "Vivatus_F_M_Book",
+		identifiedResourceName = "ELVES_CONJUREIMAGE",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Mirror Image.",
@@ -76775,7 +76775,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Reverse Polarity 1",
-		identifiedResourceName = "마법책_수",
+		identifiedResourceName = "ELVES_REVERSE",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Reverse Polarity.",
@@ -76789,11 +76789,11 @@ tbl = {
 	},
 	[30322] = {
 		unidentifiedDisplayName = "Reverse Polarity 2",
-		unidentifiedResourceName = "마법책_수",
+		unidentifiedResourceName = "ELVES_REVERSE",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Reverse Polarity 2",
-		identifiedResourceName = "마법책_수",
+		identifiedResourceName = "ELVES_REVERSE",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Reverse Polarity.",
@@ -76807,11 +76807,11 @@ tbl = {
 	},
 	[30323] = {
 		unidentifiedDisplayName = "Reverse Polarity 3",
-		unidentifiedResourceName = "마법책_수",
+		unidentifiedResourceName = "ELVES_REVERSE",
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Reverse Polarity 3",
-		identifiedResourceName = "마법책_수",
+		identifiedResourceName = "ELVES_REVERSE",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Reverse Polarity.",
@@ -76831,7 +76831,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Reverse Polarity 4",
-		identifiedResourceName = "마법책_수",
+		identifiedResourceName = "ELVES_REVERSE",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Reverse Polarity.",
@@ -76849,7 +76849,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 		},
 		identifiedDisplayName = "Reverse Polarity 5",
-		identifiedResourceName = "마법책_수",
+		identifiedResourceName = "ELVES_REVERSE",
 		identifiedDescriptionName = {
 			"Magic Power can be drawn out by reading the words written in this book.",
 			"It's written about the hidden skill, Reverse Polarity.",
